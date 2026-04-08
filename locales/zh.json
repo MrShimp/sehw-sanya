@@ -48,17 +48,17 @@
       "description": "森納以「身·心·靈」三位一體的理念，整合高端醫療、深度康養與精神修行資源，為您打造超越傳統體檢的全維度健康體驗。",
       "physical": {
         "title": "形軀康泰",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-physical-main.jpg",
+        "image": "http://oss.cchktech.com/health/image/image/wellness-physical-main.jpg",
         "description": "通過精密體檢、機能調理與健康優化，強健體魄，提升生命活力。"
       },
       "mind": {
         "title": "心神安謐",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-main-mind.jpg",
+        "image": "http://oss.cchktech.com/health/image/image/wellness-main-mind.jpg",
         "description": "以中醫理療與身心調養實現內在平衡，達到心境安寧、情緒平和的狀態。"
       },
       "soul": {
         "title": "靈性澄明",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-main-sprit.jpg",
+        "image": "http://oss.cchktech.com/health/image/image/wellness-main-sprit.jpg",
         "description": "探尋信仰、理念與價值，明晰生命意義，獲得內心篤定與精神歸宿。"
       }
     },
@@ -425,7 +425,7 @@
       "tijian":{
           "overline": "體檢",
           "title":"體檢",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/体检.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/体检.jpg",
           "description": "以專業醫學檢測夯實健康根基，精準解讀身體信號，由內而外優化機能，實現形軀康泰與生命活力。",
           "price": "$6000 起"
       },
@@ -434,22 +434,22 @@
       "wellnessPartners": [
         {
           "title":"301",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/301.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/301.jpg",
           "description":"從預防篩查到複雜治療，康復後管理到養生指導，通過全譜系尖端醫療技術與整體照護方案，長壽健康計劃踐行醫院提升全民健康韌性與引領醫學創新的長遠願景"
         },
         {
           "title":"三亞中醫院",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/三亚中医院.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/三亚中医院.jpg",
           "description":"聚焦中醫藥智慧與身心靈整體和諧，打造了以治未病與自然療癒為核心的綜合項目。從草藥治療到針灸理療，飲食調理到太極拳 / 氣功等身心修煉，通過傳承千年的中醫理論與現代醫學科學融合，中醫長壽養生計劃踐行醫院傳承創新中醫藥以應對現代健康挑戰的長遠願景"
         },
         {
           "title":"博鰲超級醫院",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/博鳌超级医院.png",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/博鳌超级医院.png",
           "description":"聚焦全球醫療創新與跨境健康整合，博鰲超級醫院聯合院士領銜的專家團隊與博鰲樂城國際醫療旅遊先行區，打造了以早期獲取突破性治療與個性化精準照護為核心的綜合項目。從先進診斷到尖端治療，臨床試驗到癒後隨訪，通過獨特的 '1+X' 共享醫院模式與特許藥械準入政策，博鰲前沿健康計劃踐行醫院在中國建立世界級醫療創新樞紐的長遠願景"
         },
         {
           "title":"崖州灣科技城醫院",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/崖州湾医院.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/崖州湾医院.jpg",
           "description":"由三亞市政府與上海交通大學醫學院附屬仁濟醫院合作共建，委託仁濟醫院全面運營管理，為三級甲等公立綜合醫院，定位集醫療、教學、科研、預防、保健於一體的現代化醫學中心。"
         }
       ],
@@ -460,28 +460,28 @@
         {
           "overline": "經絡療法",
           "title":"針灸",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/针灸.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/针灸.jpg",
           "description": "在精準的經絡穴位上施以細針，恢復身體自然的能量流動。在三亞寧靜的診療環境中，體驗這門2500年古老藝術如何緩解疼痛、釋放壓力、重新平衡體內氣機。",
           "price": "$100 起"
         },
         {
           "overline": "溫熱療法",
           "title":"艾灸",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/艾灸1.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/艾灸1.jpg",
           "description": "以燃燒的艾草溫和地作用於穴位附近，促進氣血循環、驅散寒邪。一種深層舒適的療癒儀式，通過芳香的熱力增強免疫力，溫養身體的陽氣。",
           "price": "$150 起"
         },
         {
           "overline": "食療養生",
           "title":"藥膳",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/药材.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/药材.jpg",
           "description": "以食為藥的療癒藝術——時令食材搭配草藥方劑，由內而外滋養身心。每一道菜品均由中醫營養師根據個人體質精心調配，讓每一餐都成為溫和的良藥。",
           "price": "$200 起"
         },
         {
           "overline": "拔罐治療",
           "title":"拔罐治療",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/拔罐.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/wellness/拔罐.jpg",
           "description": "拔罐（Cupping）是中醫外治法，通過罐具形成負壓吸附於皮膚，疏通經絡、活血化瘀、散寒祛濕、緩解肌肉疲勞與疼痛，常用於風寒濕痹、頸肩腰腿痛、感冒等調理",
           "price": "$50 起"
         }
@@ -498,27 +498,27 @@
       "stays": [
         {
           "name": "三亞艾迪遜酒店",
-          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/edition.avif",
+          "logo":"http://oss.cchktech.com/health/image/image/journey/edition.avif",
           "description": "前衛設計與極致美學的碰撞，重新定義三亞奢華住宿體驗。"
         },
         {
           "name": "三亞JW萬豪酒店",
-          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/JWMarriott.svg",
+          "logo":"http://oss.cchktech.com/health/image/image/journey/JWMarriott.svg",
           "description": "經典優雅與熱帶風情的完美融合，盡享海棠灣的寧靜與奢華。"
         },
         {
           "name": "三亞亞特蘭蒂斯",
-          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/亚特兰蒂斯.png",
+          "logo":"http://oss.cchktech.com/health/image/image/journey/亚特兰蒂斯.png",
           "description": "海洋主題的奇幻世界，集奢華住宿、水上樂園與海洋館於一體。"
         },
         {
           "name": "三亞保利瑰麗酒店",
-          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/保利瑰丽.png",
+          "logo":"http://oss.cchktech.com/health/image/image/journey/保利瑰丽.png",
           "description": "瑰麗品牌的極致奢華，坐擁海棠灣絕美海景。"
         },
         {
           "name": "三亞嘉佩樂酒店",
-          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/嘉佩乐.webp",
+          "logo":"http://oss.cchktech.com/health/image/image/journey/嘉佩乐.webp",
           "description": "瑰麗品牌的極致奢華，坐擁海棠灣絕美海景。"
         }
       ],
@@ -527,17 +527,17 @@
       "activities": [
         {
           "name": "本土人文",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/lizu.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/journey/lizu.jpg",
           "description": "傳承千年的黎苗文化，織錦、竹竿舞、漁家習俗，感受三亞最淳樸的民族風情。"
         },
         {
           "name": "休閒娛樂",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/haitangwan.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/journey/haitangwan.jpg",
           "description": "沙灘漫步、遊艇出海、雨林徒步、海邊露營，解鎖三亞多元化的愜意度假方式。"
         },
         {
           "name": "海島美食",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/meishi.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/journey/meishi.jpg",
           "description": "新鮮海鮮、清補涼、椰子雞、抱羅粉，舌尖上的三亞，每一口都是大海的味道。"
         }
       ],
@@ -546,17 +546,17 @@
       "destinations": [
         {
           "name": "蜈支洲島",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/meishi.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/journey/meishi.jpg",
           "description": "被譽為中國版馬爾代夫，碧海白沙清澈見底，水上運動與海島風光兼具，是三亞必打卡的熱帶秘境與度假天堂。"
         },
         {
           "name": "免稅城",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/meishi.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/journey/meishi.jpg",
           "description": "亞洲頂尖大型免稅購物中心，匯集全球大牌美妝、箱包、腕錶，一站式盡享免稅購物優惠，度假購物兩不誤。"
         },
         {
           "name": "南海觀音",
-          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/meishi.jpg",
+          "image":"http://oss.cchktech.com/health/image/image/journey/meishi.jpg",
           "description": "觀音菩薩 「願長居南海」 的慈悲化身，以莊嚴寶相佇立碧海藍天之間，象徵無緣大慈、同體大悲。既是海洋信仰的守護，也是心靈淨化的寄託，在寧靜與莊嚴中帶來安定、福佑與內在平和。"
         }
       ]
