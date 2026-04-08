@@ -75,17 +75,17 @@
       "description": "Sanare integrates premium medical care, deep wellness retreats, and spiritual practice into a holistic health experience that transcends conventional checkups.",
       "physical": {
         "title": "Physical Vitality",
-        "image": "/image/wellness-physical-main.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
         "description": "Enhancing confidence through precise physical check-ups, optimized bodily functions and improved health performance."
       },
       "mind": {
         "title": "Mental Serenity",
-        "image": "/image/wellness-main-mind.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
         "description": "Finding balance within oneself through TCM physiotherapy and wellness recuperation – a state of mental serenity and emotional harmony"
       },
       "soul": {
         "title": "Spiritual Elevation",
-        "image": "/image/wellness-main-sprit.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
         "description": "Exploring beliefs, principles and values that provide meaning and bring purpose."
       }
     },
@@ -444,23 +444,23 @@
       "description": "Between Sanya's tropical shores and lush mountains, Sanare integrates top-tier medical care, traditional Chinese medicine, and mind-body practices into a profound wellness journey.",
       "physical": {
         "title": "Physical Vitality",
-        "image": "/image/wellness-physical-main.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
         "description": "Enhancing confidence through precise physical check-ups, optimized bodily functions and improved health performance."
       },
       "mind": {
         "title": "Mental Serenity",
-        "image": "/image/wellness-main-mind.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
         "description": "Finding balance within oneself through TCM physiotherapy and wellness recuperation – a state of mental serenity and emotional harmony"
       },
       "soul": {
         "title": "Spiritual Elevation",
-        "image": "/image/wellness-main-sprit.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
         "description": "Exploring beliefs, principles and values that provide meaning and bring purpose."
       },
       "tijian": {
         "overline": "Health Checkup",
         "title": "Precision Health Checkup",
-        "image": "/image/wellness/体检.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/体检.jpg",
         "description": "Building a solid health foundation through professional medical testing, precisely interpreting body signals, optimizing functions from within, achieving physical vitality and life energy.",
         "price": "$6000 up"
       },
@@ -469,22 +469,22 @@
       "wellnessPartners": [
         {
           "title": "301 Hainan Hospital",
-          "image": "/image/wellness/301.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/301.jpg",
           "description": "301 Hospital, together with its affiliated medical research centers, has developed a comprehensive programme centred on precision healthcare and longevity enhancement."
         },
         {
           "title": "Sanya TCM Hospital",
-          "image": "/image/wellness/三亚中医院.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/三亚中医院.jpg",
           "description": "Placing focus on traditional Chinese medicine wisdom and holistic mind-body-spirit harmony, with a comprehensive programme centred on preventive healthcare and natural healing."
         },
         {
           "title": "Boao Super Hospital",
-          "image": "/image/wellness/博鳌超级医院.png",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/博鳌超级医院.png",
           "description": "Placing focus on global medical innovation and cross-border healthcare integration, with early access to breakthrough treatments and personalized precision care."
         },
         {
           "title": "Yazhou Bay Science & Technology City Hospital",
-          "image": "/image/wellness/崖州湾医院.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/崖州湾医院.jpg",
           "description": "Co-built by Sanya Municipal Government and Renji Hospital affiliated with Shanghai Jiao Tong University School of Medicine, a Grade-A tertiary public general hospital integrating medical care, education, research, prevention and health preservation."
         }
       ],
@@ -494,28 +494,28 @@
         {
           "overline": "Meridian Therapy",
           "title": "Acupuncture",
-          "image": "/image/wellness/针灸.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/针灸.jpg",
           "description": "An ancient practice of inserting fine needles at precise meridian points to restore the body's natural energy flow. Experience how this 2,500-year-old art relieves pain, reduces stress, and rebalances vital Qi.",
           "price": "$100 up"
         },
         {
           "overline": "Warming Therapy",
           "title": "Moxibustion",
-          "image": "/image/wellness/艾灸1.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/艾灸1.jpg",
           "description": "The gentle warmth of burning mugwort applied near acupuncture points to stimulate circulation and expel cold. A deeply comforting ritual that strengthens immunity through aromatic heat.",
           "price": "$150 up"
         },
         {
           "overline": "Culinary Medicine",
           "title": "Medicinal Cuisine",
-          "image": "/image/wellness/药材.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/药材.jpg",
           "description": "The art of healing through food — seasonal ingredients paired with herbal prescriptions to nourish from within. Each dish is crafted by TCM nutritionists to address individual constitution.",
           "price": "$200 up"
         },
         {
           "overline": "Cupping Therapy",
           "title": "Cupping",
-          "image": "/image/wellness/拔罐.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/拔罐.jpg",
           "description": "A traditional Chinese external therapy using suction cups on the skin to unblock meridians, promote blood circulation, dispel cold and dampness, and relieve muscle fatigue and pain.",
           "price": "$50 up"
         }
@@ -531,27 +531,27 @@
       "stays": [
         {
           "name": "The Sanya EDITION",
-          "logo":"/image/journey/edition.avif",
+          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/edition.avif",
           "description": "Where avant-garde design meets ultimate aesthetics, redefining the luxury stay experience in Sanya."
         },
         {
           "name": "JW Marriott Sanya",
-          "logo": "/image/journey/JWMarriott.svg",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/JWMarriott.svg",
           "description": "Classic elegance meets tropical charm — the perfect fusion of serenity and luxury at Haitang Bay."
         },
         {
           "name": "Atlantis Sanya",
-          "logo": "/image/journey/亚特兰蒂斯.png",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/亚特兰蒂斯.png",
           "description": "An ocean-themed fantasy world combining luxury accommodation, waterpark and aquarium in one."
         },
         {
           "name": "Rosewood Sanya",
-          "logo": "/image/journey/保利瑰丽.png",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/保利瑰丽.png",
           "description": "Ultra-luxury by Rosewood, commanding stunning ocean views at Haitang Bay."
         },
         {
           "name": "Capella Sanya",
-          "logo": "/image/journey/嘉佩乐.webp",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/嘉佩乐.webp",
           "description": "Ultra-luxury by Rosewood, commanding stunning ocean views at Haitang Bay."
         }
       ],
@@ -560,17 +560,17 @@
       "activities": [
         {
           "name": "Local Heritage",
-          "image": "/image/journey/lizu.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/lizu.jpg",
           "description": "Centuries-old Li and Miao culture — brocade weaving, bamboo pole dancing, fishing village customs — experience Sanya's most authentic ethnic traditions."
         },
         {
           "name": "Leisure & Recreation",
-          "image": "/image/journey/haitangwan.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/haitangwan.jpg",
           "description": "Beach strolls, yacht excursions, rainforest hikes, seaside camping — unlock Sanya's diverse and relaxing holiday experiences."
         },
         {
           "name": "Island Cuisine",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "Fresh seafood, Qingbuliang, coconut chicken, Baoluo rice noodles — a taste of Sanya where every bite carries the flavor of the sea."
         }
       ],
@@ -579,17 +579,17 @@
       "destinations": [
         {
           "name": "Wuzhizhou Island",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "Known as China's Maldives, with crystal-clear waters and white sands, combining water sports and island scenery — a must-visit tropical paradise and holiday haven in Sanya."
         },
         {
           "name": "Duty Free Mall",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "Asia's premier large-scale duty-free shopping center, featuring global luxury brands in beauty, bags, and watches — enjoy one-stop duty-free shopping alongside your holiday."
         },
         {
           "name": "Atlantis",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "Sanya's iconic ocean-themed resort complex, featuring The Lost Chambers Aquarium, thrilling waterpark, and luxury accommodation — a one-stop destination for the whole family."
         }
       ]
