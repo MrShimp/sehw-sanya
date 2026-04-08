@@ -75,17 +75,17 @@
       "description": "Sanare ผสมผสานการดูแลทางการแพทย์ระดับพรีเมียม การพักผ่อนเพื่อสุขภาวะเชิงลึก และการฝึกฝนทางจิตวิญญาณ เข้าเป็นประสบการณ์สุขภาพแบบองค์รวมที่เหนือกว่าการตรวจสุขภาพทั่วไป",
       "physical": {
         "title": "พลังกาย",
-        "image": "/image/wellness-physical-main.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
         "description": "เสริมสร้างความมั่นใจผ่านการตรวจสุขภาพอย่างแม่นยำ ปรับสมรรถภาพร่างกายให้เหมาะสม และยกระดับประสิทธิภาพด้านสุขภาพ"
       },
       "mind": {
         "title": "ความสงบใจ",
-        "image": "/image/wellness-main-mind.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
         "description": "ค้นพบความสมดุลภายในตนเองผ่านการบำบัดด้วยศาสตร์การแพทย์แผนจีนและการฟื้นฟูสุขภาวะ สู่สภาวะจิตใจสงบและอารมณ์สมดุล"
       },
       "soul": {
         "title": "จิตวิญญาณเบิกบาน",
-        "image": "/image/wellness-main-sprit.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
         "description": "สำรวจความเชื่อ หลักการ และคุณค่าที่มอบความหมายและจุดมุ่งหมายให้กับชีวิต"
       }
     },
@@ -448,23 +448,23 @@
       "description": "ท่ามกลางชายฝั่งเขตร้อนและขุนเขาอันเขียวชอุ่มของซานย่า Sanare ผสมผสานการดูแลทางการแพทย์ชั้นนำ การแพทย์แผนจีนดั้งเดิม และการฝึกฝนกายจิต เข้าเป็นการเดินทางสู่สุขภาวะอันลึกซึ้ง",
       "physical": {
         "title": "พลังกาย",
-        "image": "/image/wellness-physical-main.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
         "description": "เสริมสร้างความมั่นใจผ่านการตรวจสุขภาพอย่างแม่นยำ ปรับสมรรถภาพร่างกายให้เหมาะสม และยกระดับประสิทธิภาพด้านสุขภาพ"
       },
       "mind": {
         "title": "ความสงบใจ",
-        "image": "/image/wellness-main-mind.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
         "description": "ค้นพบความสมดุลภายในตนเองผ่านการบำบัดด้วยศาสตร์การแพทย์แผนจีนและการฟื้นฟูสุขภาวะ สู่สภาวะจิตใจสงบและอารมณ์สมดุล"
       },
       "soul": {
         "title": "จิตวิญญาณเบิกบาน",
-        "image": "/image/wellness-main-sprit.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
         "description": "สำรวจความเชื่อ หลักการ และคุณค่าที่มอบความหมายและจุดมุ่งหมายให้กับชีวิต"
       },
       "tijian": {
         "overline": "ตรวจสุขภาพ",
         "title": "ตรวจสุขภาพเชิงลึก",
-        "image": "/image/wellness/体检.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/体检.jpg",
         "description": "สร้างรากฐานสุขภาพที่แข็งแกร่งผ่านการตรวจทางการแพทย์อย่างมืออาชีพ อ่านสัญญาณร่างกายอย่างแม่นยำ ปรับสมรรถภาพจากภายใน สู่พลังกายและพลังชีวิตที่สมบูรณ์",
         "price": "$6000 up"
       },
@@ -473,22 +473,22 @@
       "wellnessPartners": [
         {
           "title": "301 Hainan Hospital",
-          "image": "/image/wellness/301.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/301.jpg",
           "description": "โรงพยาบาล 301 พร้อมศูนย์วิจัยทางการแพทย์ในเครือ ได้พัฒนาโปรแกรมครอบคลุมที่มุ่งเน้นการดูแลสุขภาพเชิงลึกและการส่งเสริมอายุยืนยาว"
         },
         {
           "title": "Sanya TCM Hospital",
-          "image": "/image/wellness/三亚中医院.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/三亚中医院.jpg",
           "description": "มุ่งเน้นภูมิปัญญาการแพทย์แผนจีนดั้งเดิมและความสมดุลแบบองค์รวมของกาย ใจ และจิตวิญญาณ พร้อมโปรแกรมครอบคลุมที่เน้นการดูแลสุขภาพเชิงป้องกันและการเยียวยาตามธรรมชาติ"
         },
         {
           "title": "Boao Super Hospital",
-          "image": "/image/wellness/博鳌超级医院.png",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/博鳌超级医院.png",
           "description": "มุ่งเน้นนวัตกรรมทางการแพทย์ระดับโลกและการบูรณาการด้านสุขภาพข้ามพรมแดน พร้อมการเข้าถึงการรักษาล้ำสมัยก่อนใครและการดูแลเฉพาะบุคคลอย่างแม่นยำ"
         },
         {
           "title": "Yazhou Bay Science & Technology City Hospital",
-          "image": "/image/wellness/崖州湾医院.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/崖州湾医院.jpg",
           "description": "ร่วมก่อตั้งโดยรัฐบาลเทศบาลซานย่าและโรงพยาบาลเหรินจี้ สังกัดคณะแพทยศาสตร์มหาวิทยาลัยเซี่ยงไฮ้เจียวทง เป็นโรงพยาบาลรัฐระดับตติยภูมิที่บูรณาการการรักษา การศึกษา การวิจัย การป้องกัน และการส่งเสริมสุขภาพ"
         }
       ],
@@ -498,28 +498,28 @@
         {
           "overline": "การบำบัดเส้นลมปราณ",
           "title": "ฝังเข็ม",
-          "image": "/image/wellness/针灸.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/针灸.jpg",
           "description": "ศาสตร์โบราณแห่งการปักเข็มบางที่จุดเส้นลมปราณอย่างแม่นยำเพื่อฟื้นฟูการไหลเวียนพลังงานตามธรรมชาติของร่างกาย สัมผัสว่าศิลปะอายุ 2,500 ปีนี้บรรเทาอาการปวด ลดความเครียด และปรับสมดุลชี่ได้อย่างไร",
           "price": "$100 up"
         },
         {
           "overline": "การบำบัดด้วยความร้อน",
           "title": "รมยา",
-          "image": "/image/wellness/艾灸1.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/艾灸1.jpg",
           "description": "ความอบอุ่นอ่อนโยนจากการเผาสมุนไพรโกฐจุฬาลัมพาใกล้จุดฝังเข็มเพื่อกระตุ้นการไหลเวียนโลหิตและขับไล่ความเย็น พิธีกรรมเยียวยาอันอบอุ่นลึกซึ้งที่เสริมสร้างภูมิคุ้มกันผ่านความร้อนอันหอมกรุ่น",
           "price": "$150 up"
         },
         {
           "overline": "อาหารเป็นยา",
           "title": "อาหารสมุนไพร",
-          "image": "/image/wellness/药材.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/药材.jpg",
           "description": "ศิลปะแห่งการเยียวยาผ่านอาหาร — วัตถุดิบตามฤดูกาลผสมผสานกับตำรับสมุนไพรเพื่อบำรุงจากภายใน ทุกจานได้รับการปรุงโดยนักโภชนาการแพทย์แผนจีนตามสภาพร่างกายของแต่ละบุคคล",
           "price": "$200 up"
         },
         {
           "overline": "การบำบัดด้วยครอบแก้ว",
           "title": "ครอบแก้ว",
-          "image": "/image/wellness/拔罐.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/拔罐.jpg",
           "description": "การบำบัดภายนอกแบบดั้งเดิมของจีนที่ใช้ถ้วยดูดบนผิวหนังเพื่อเปิดเส้นลมปราณ ส่งเสริมการไหลเวียนโลหิต ขับไล่ความเย็นและความชื้น และบรรเทาอาการเมื่อยล้าและปวดกล้ามเนื้อ",
           "price": "$50 up"
         }
@@ -535,27 +535,27 @@
       "stays": [
         {
           "name": "The Sanya EDITION",
-          "logo": "/image/journey/edition.avif",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/edition.avif",
           "description": "ที่ซึ่งการออกแบบล้ำสมัยพบกับสุนทรียศาสตร์ขั้นสูงสุด นิยามใหม่ของประสบการณ์การพักผ่อนสุดหรูในซานย่า"
         },
         {
           "name": "JW Marriott Sanya",
-          "logo": "/image/journey/JWMarriott.svg",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/JWMarriott.svg",
           "description": "ความสง่างามคลาสสิกผสมผสานเสน่ห์เขตร้อน — การหลอมรวมอันสมบูรณ์แบบของความสงบและความหรูหราที่อ่าวไห่ถาง"
         },
         {
           "name": "Atlantis Sanya",
-          "logo": "/image/journey/亚特兰蒂斯.png",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/亚特兰蒂斯.png",
           "description": "โลกแฟนตาซีธีมมหาสมุทรที่รวมที่พักสุดหรู สวนน้ำ และพิพิธภัณฑ์สัตว์น้ำไว้ในที่เดียว"
         },
         {
           "name": "Rosewood Sanya",
-          "logo": "/image/journey/保利瑰丽.png",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/保利瑰丽.png",
           "description": "ความหรูหราสูงสุดโดย Rosewood พร้อมวิวทะเลอันงดงามที่อ่าวไห่ถาง"
         },
         {
           "name": "Capella Sanya",
-          "logo": "/image/journey/嘉佩乐.webp",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/嘉佩乐.webp",
           "description": "ความหรูหราสูงสุดโดย Rosewood พร้อมวิวทะเลอันงดงามที่อ่าวไห่ถาง"
         }
       ],
@@ -564,17 +564,17 @@
       "activities": [
         {
           "name": "มรดกท้องถิ่น",
-          "image": "/image/journey/lizu.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/lizu.jpg",
           "description": "วัฒนธรรมหลีและเหมียวที่สืบทอดมานับศตวรรษ — การทอผ้า การเต้นรำไม้ไผ่ ประเพณีหมู่บ้านชาวประมง — สัมผัสประเพณีชาติพันธุ์ที่แท้จริงที่สุดของซานย่า"
         },
         {
           "name": "พักผ่อนและนันทนาการ",
-          "image": "/image/journey/haitangwan.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/haitangwan.jpg",
           "description": "เดินเล่นชายหาด ล่องเรือยอทช์ เดินป่าฝน ตั้งแคมป์ริมทะเล — ปลดล็อกประสบการณ์วันหยุดที่หลากหลายและผ่อนคลายของซานย่า"
         },
         {
           "name": "อาหารเกาะ",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "อาหารทะเลสด ชิงปู่เหลียง ไก่มะพร้าว ก๋วยเตี๋ยวเป่าหลัว — รสชาติซานย่าที่ทุกคำเต็มไปด้วยกลิ่นอายของท้องทะเล"
         }
       ],
@@ -583,17 +583,17 @@
       "destinations": [
         {
           "name": "เกาะอู๋จือโจว",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "ได้รับการขนานนามว่ามัลดีฟส์ของจีน ด้วยน้ำทะเลใสแจ๋วและหาดทรายขาว ผสมผสานกีฬาทางน้ำและทิวทัศน์เกาะ — สวรรค์เขตร้อนที่ต้องมาเยือนและแหล่งพักผ่อนในซานย่า"
         },
         {
           "name": "ศูนย์การค้าปลอดภาษี",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "ศูนย์การค้าปลอดภาษีขนาดใหญ่ระดับชั้นนำของเอเชีย รวบรวมแบรนด์หรูระดับโลกทั้งเครื่องสำอาง กระเป๋า และนาฬิกา — ช้อปปิ้งปลอดภาษีครบวงจรควบคู่กับวันหยุดพักผ่อน"
         },
         {
           "name": "Atlantis",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "รีสอร์ทธีมมหาสมุทรอันเป็นสัญลักษณ์ของซานย่า มีพิพิธภัณฑ์สัตว์น้ำ The Lost Chambers สวนน้ำสุดตื่นเต้น และที่พักสุดหรู — จุดหมายปลายทางครบวงจรสำหรับทั้งครอบครัว"
         }
       ]
