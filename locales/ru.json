@@ -75,17 +75,17 @@
       "description": "Sanare объединяет премиальную медицинскую помощь, глубокие оздоровительные ретриты и духовные практики в целостный опыт здоровья, выходящий за рамки обычных обследований.",
       "physical": {
         "title": "Физическая жизненная сила",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-physical-main.jpg",
         "description": "Укрепление уверенности через точные медицинские обследования, оптимизацию функций организма и улучшение показателей здоровья."
       },
       "mind": {
         "title": "Душевное спокойствие",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-main-mind.jpg",
         "description": "Обретение внутреннего баланса через физиотерапию ТКМ и оздоровительное восстановление — состояние душевного покоя и эмоциональной гармонии."
       },
       "soul": {
         "title": "Духовное возвышение",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-main-sprit.jpg",
         "description": "Исследование убеждений, принципов и ценностей, которые наполняют жизнь смыслом и целью."
       }
     },
@@ -444,23 +444,23 @@
       "description": "Между тропическими берегами и пышными горами Саньи Sanare объединяет первоклассную медицинскую помощь, традиционную китайскую медицину и практики для тела и духа в глубокое оздоровительное путешествие.",
       "physical": {
         "title": "Физическая жизненная сила",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-physical-main.jpg",
         "description": "Укрепление уверенности через точные медицинские обследования, оптимизацию функций организма и улучшение показателей здоровья."
       },
       "mind": {
         "title": "Душевное спокойствие",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-main-mind.jpg",
         "description": "Обретение внутреннего баланса через физиотерапию ТКМ и оздоровительное восстановление — состояние душевного покоя и эмоциональной гармонии."
       },
       "soul": {
         "title": "Духовное возвышение",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness-main-sprit.jpg",
         "description": "Исследование убеждений, принципов и ценностей, которые наполняют жизнь смыслом и целью."
       },
       "tijian": {
         "overline": "Медицинское обследование",
         "title": "Точное медицинское обследование",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/体检.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/体检.jpg",
         "description": "Создание прочного фундамента здоровья через профессиональную медицинскую диагностику, точную интерпретацию сигналов организма, оптимизацию функций изнутри, достижение физической жизненной силы и энергии.",
         "price": "$6000 up"
       },
@@ -469,22 +469,22 @@
       "wellnessPartners": [
         {
           "title": "Госпиталь 301 Хайнань",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/301.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/301.jpg",
           "description": "Госпиталь 301 совместно с аффилированными научно-исследовательскими центрами разработал комплексную программу, ориентированную на прецизионное здравоохранение и продление активного долголетия."
         },
         {
           "title": "Больница ТКМ Саньи",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/三亚中医院.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/三亚中医院.jpg",
           "description": "Фокус на мудрости традиционной китайской медицины и целостной гармонии тела, разума и духа с комплексной программой, ориентированной на профилактическое здравоохранение и естественное исцеление."
         },
         {
           "title": "Суперклиника Боао",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/博鳌超级医院.png",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/博鳌超级医院.png",
           "description": "Фокус на глобальных медицинских инновациях и трансграничной интеграции здравоохранения с ранним доступом к прорывным методам лечения и персонализированной прецизионной помощи."
         },
         {
           "title": "Больница научно-технологического города залива Ячжоу",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/崖州湾医院.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/崖州湾医院.jpg",
           "description": "Совместный проект муниципального правительства Саньи и больницы Жэньцзи при Медицинской школе Шанхайского университета Цзяо Тун — государственная больница высшей категории, объединяющая медицинскую помощь, образование, науку, профилактику и оздоровление."
         }
       ],
@@ -494,28 +494,28 @@
         {
           "overline": "Терапия меридианов",
           "title": "Иглоукалывание",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/针灸.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/针灸.jpg",
           "description": "Древняя практика введения тонких игл в точные точки меридианов для восстановления естественного потока энергии тела. Ощутите, как это 2500-летнее искусство снимает боль, уменьшает стресс и восстанавливает баланс жизненной Ци.",
           "price": "$100 up"
         },
         {
           "overline": "Тепловая терапия",
           "title": "Моксотерапия",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/艾灸1.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/艾灸1.jpg",
           "description": "Мягкое тепло горящей полыни, направленное на акупунктурные точки для стимуляции кровообращения и изгнания холода. Глубоко успокаивающий ритуал, укрепляющий иммунитет через ароматическое тепло.",
           "price": "$150 up"
         },
         {
           "overline": "Кулинарная медицина",
           "title": "Лечебная кухня",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/药材.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/药材.jpg",
           "description": "Искусство исцеления через пищу — сезонные ингредиенты в сочетании с травяными рецептурами для питания изнутри. Каждое блюдо создаётся диетологами ТКМ с учётом индивидуальной конституции.",
           "price": "$200 up"
         },
         {
           "overline": "Баночная терапия",
           "title": "Баночный массаж",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/拔罐.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/wellness/拔罐.jpg",
           "description": "Традиционная китайская наружная терапия с использованием вакуумных банок на коже для разблокировки меридианов, улучшения кровообращения, изгнания холода и сырости, снятия мышечной усталости и боли.",
           "price": "$50 up"
         }
@@ -531,27 +531,27 @@
       "stays": [
         {
           "name": "The Sanya EDITION",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/edition.avif",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/edition.avif",
           "description": "Где авангардный дизайн встречает высшую эстетику, переосмысливая опыт роскошного проживания в Санье."
         },
         {
           "name": "JW Marriott Sanya",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/JWMarriott.svg",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/JWMarriott.svg",
           "description": "Классическая элегантность встречает тропическое очарование — идеальное сочетание спокойствия и роскоши в заливе Хайтан."
         },
         {
           "name": "Atlantis Sanya",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/亚特兰蒂斯.png",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/亚特兰蒂斯.png",
           "description": "Фантастический мир океанической тематики, объединяющий роскошное проживание, аквапарк и океанариум."
         },
         {
           "name": "Rosewood Sanya",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/保利瑰丽.png",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/保利瑰丽.png",
           "description": "Ультра-роскошь от Rosewood с потрясающими видами на океан в заливе Хайтан."
         },
         {
           "name": "Capella Sanya",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/嘉佩乐.webp",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/嘉佩乐.webp",
           "description": "Ультра-роскошь от Rosewood с потрясающими видами на океан в заливе Хайтан."
         }
       ],
@@ -560,17 +560,17 @@
       "activities": [
         {
           "name": "Местное наследие",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/lizu.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/lizu.jpg",
           "description": "Многовековая культура народов Ли и Мяо — ткачество парчи, танец с бамбуковыми шестами, обычаи рыбацких деревень — познакомьтесь с самыми аутентичными этническими традициями Саньи."
         },
         {
           "name": "Досуг и отдых",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/haitangwan.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/haitangwan.jpg",
           "description": "Прогулки по пляжу, морские прогулки на яхте, походы по тропическому лесу, кемпинг у моря — откройте для себя разнообразный и расслабляющий отдых в Санье."
         },
         {
           "name": "Островная кухня",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/meishi.jpg",
           "description": "Свежие морепродукты, цинбулян, кокосовая курица, лапша баоло — вкус Саньи, где каждый кусочек несёт аромат моря."
         }
       ],
@@ -579,17 +579,17 @@
       "destinations": [
         {
           "name": "Остров Учжичжоу",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/meishi.jpg",
           "description": "Известный как китайские Мальдивы, с кристально чистой водой и белым песком, сочетающий водные виды спорта и островные пейзажи — обязательный к посещению тропический рай и курортная гавань Саньи."
         },
         {
           "name": "Торговый центр Duty Free",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/meishi.jpg",
           "description": "Крупнейший в Азии торговый центр беспошлинной торговли с мировыми люксовыми брендами косметики, сумок и часов — наслаждайтесь шопингом без пошлин во время отдыха."
         },
         {
           "name": "Atlantis",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/journey/meishi.jpg",
           "description": "Знаковый курортный комплекс Саньи на океаническую тематику с аквариумом «Затерянные палаты», захватывающим аквапарком и роскошным проживанием — универсальное направление для всей семьи."
         }
       ]
