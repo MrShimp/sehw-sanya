@@ -1,0 +1,751 @@
+{
+  "nav": {
+    "home": "Home",
+    "experience": "Experience",
+    "experienceWellness": "Wellness",
+    "experienceJourney": "Journey",
+    "experienceCulture": "Culture",
+    "products": "Services",
+    "productsCheckup": "Precision Checkup",
+    "productsAntiAging": "Anti-aging Aesthetics",
+    "productsRehabilitation": "Rehabilitation Retreat",
+    "productsEscort": "Medical Escort",
+    "about": "About Us",
+    "questionnaire": "Consultation"
+  },
+  "home": {
+    "hero": {
+      "headline": "Your wellness journey,",
+      "headlineItalic": "Sanare. Restare.",
+      "description": "We provide you with top one-stop 1-on-1 exclusive wellness consulting services.",
+      "cta": "Book a Consultation"
+    },
+    "philosophy": {
+      "overline": "Our Philosophy",
+      "headline": "Not mass medical tourism,",
+      "headlineItalic": "but one-on-one wellness companionship.",
+      "body": "Sanare believes that true health management is not an assembly-line checkup package, but a bespoke plan crafted after deeply understanding each client's health profile, lifestyle, and wellness goals.",
+      "detail": "We partner with top-tier medical institutions including PLA General Hospital Hainan Branch (301 Hainan), combining internationally advanced precision medicine with Sanya's exceptional healing environment to provide end-to-end care from screening to recovery."
+    },
+    "products": {
+      "overline": "Core Services",
+      "headline": "Our Service",
+      "headlineItalic": "",
+      "overview": {
+        "block1Title": "Core Services",
+        "block1Body": "Our core services are based in Sanya, Hainan, China. We tailor personalized wellness programs infused with Chinese traditional heritage, paired with luxury bespoke Sanya itineraries. A dedicated private travel designer follows through every step, fulfilling your every travel need.",
+        "block2Title": "",
+        "block2Body": "",
+        "serif1": "This is not mass medical tourism.",
+        "serif2": "It is a wellness journey built on trust, centered entirely on you."
+      },
+      "checkup": {
+        "title": "Precision Checkup",
+        "description": "Partnering with 301 Hainan Hospital specialists for in-depth screening that goes far beyond routine checkups — early detection, early intervention.",
+        "snapHeadline": "Beyond routine,",
+        "snapHeadlineItalic": "deep health insight.",
+        "cta": "Explore Precision Checkup"
+      },
+      "antiAging": {
+        "title": "Anti-aging Aesthetics",
+        "description": "Blending cutting-edge anti-aging technology with traditional Chinese medicine for rejuvenation from the inside out.",
+        "snapHeadline": "From the inside out,",
+        "snapHeadlineItalic": "naturally youthful.",
+        "cta": "Explore Anti-aging"
+      },
+      "rehabilitation": {
+        "title": "Rehabilitation Retreat",
+        "description": "Accelerate post-surgical and chronic condition recovery in Sanya's warm climate, guided by professional rehabilitation medicine.",
+        "snapHeadline": "Sunshine and expertise,",
+        "snapHeadlineItalic": "accelerating recovery.",
+        "cta": "Explore Rehabilitation"
+      },
+      "escort": {
+        "title": "Medical Escort",
+        "description": "Full-journey medical accompaniment coordinating top specialist resources, so navigating healthcare is never overwhelming.",
+        "snapHeadline": "Full accompaniment,",
+        "snapHeadlineItalic": "never alone in care.",
+        "cta": "Explore Medical Escort"
+      }
+    },
+    "pillars": {
+      "overline": "What Sanare focuses on",
+      "headline": "Body, mind, and soul —",
+      "headlineItalic": "a return to wholeness.",
+      "description": "Sanare integrates premium medical care, deep wellness retreats, and spiritual practice into a holistic health experience that transcends conventional checkups.",
+      "physical": {
+        "title": "Physical Vitality",
+        "image": "/image/wellness-physical-main.jpg",
+        "description": "Enhancing confidence through precise physical check-ups, optimized bodily functions and improved health performance."
+      },
+      "mind": {
+        "title": "Mental Serenity",
+        "image": "/image/wellness-main-mind.jpg",
+        "description": "Finding balance within oneself through TCM physiotherapy and wellness recuperation – a state of mental serenity and emotional harmony"
+      },
+      "soul": {
+        "title": "Spiritual Elevation",
+        "image": "/image/wellness-main-sprit.jpg",
+        "description": "Exploring beliefs, principles and values that provide meaning and bring purpose."
+      }
+    },
+    "stories": {
+      "headline": "Different needs,",
+      "headlineItalic": "the same bespoke care.",
+      "case1": {
+        "narrative": "Mr. Zhang, 52, a corporate executive. Years of high-pressure work led him to overlook his body's signals. Through Sanare's precision checkup, cardiovascular risks were detected early, and a personalized health management plan was developed under expert guidance.",
+        "serviceType": "Precision Checkup"
+      },
+      "case2": {
+        "narrative": "Ms. Li, 45, wanted to reclaim her youthful vitality alongside a demanding career. Sanare designed a two-week anti-aging retreat combining medical aesthetics with traditional Chinese medicine, leaving her feeling completely renewed.",
+        "serviceType": "Anti-aging Aesthetics"
+      },
+      "case3": {
+        "narrative": "Mr. Wang, 60, needed professional rehabilitation after knee replacement surgery. Sanare arranged a three-week rehabilitation retreat in Sanya, where the warm climate and expert team helped him recover far faster than expected.",
+        "serviceType": "Rehabilitation Retreat"
+      }
+    }
+  },
+  "products": {
+    "checkup": {
+      "title": "Precision Checkup",
+      "intro": "In-depth health screening beyond routine checkups",
+      "introDetail": "Sanare partners with the specialist team at 301 Hainan Hospital, utilizing internationally leading precision diagnostic equipment and technology to provide screening services that go far beyond standard checkups. We don't offer one-size-fits-all packages — instead, we tailor examination plans based on your age, family medical history, lifestyle, and more.",
+      "serviceFlow": {
+        "title": "Service Process",
+        "steps": [
+          "One-on-one consultation with your health advisor to understand your background and needs",
+          "Expert team designs a personalized checkup plan",
+          "VIP access with dedicated accompaniment throughout all examinations",
+          "Multi-disciplinary expert panel reviews and interprets your results",
+          "Development of ongoing health management and follow-up plan"
+        ]
+      },
+      "targetAudience": {
+        "title": "Who It's For",
+        "items": [
+          "Executives and high-net-worth individuals over 40",
+          "Those with family history requiring in-depth screening",
+          "Professionals under chronic high stress or in sub-health conditions",
+          "Anyone seeking comprehensive annual health assessments",
+          "Overseas Chinese returning for medical checkups"
+        ]
+      },
+      "tiers": {
+        "title": "Checkup Packages",
+        "basic": {
+          "name": "Essential Precision Package",
+          "items": [
+            "Full-body low-dose spiral CT",
+            "Cardiac ultrasound + carotid ultrasound",
+            "Complete tumor marker panel (12 markers)",
+            "Full thyroid function panel",
+            "Liver & kidney function + complete lipid panel",
+            "H. pylori detection",
+            "Bone density scan"
+          ]
+        },
+        "premium": {
+          "name": "Advanced Precision Package",
+          "items": [
+            "Includes all Essential Package items",
+            "Coronary CT angiography (CTA)",
+            "Brain MRI + MRA",
+            "Painless gastroscopy & colonoscopy",
+            "Genetic testing (cancer susceptibility genes)",
+            "Arteriosclerosis assessment",
+            "Immune function evaluation"
+          ]
+        },
+        "comprehensive": {
+          "name": "Comprehensive Precision Package",
+          "items": [
+            "Includes all Advanced Package items",
+            "PET-CT full-body scan",
+            "Cardiac MRI",
+            "Whole genome sequencing",
+            "Gut microbiome analysis",
+            "Sleep quality assessment",
+            "Nutritional metabolism evaluation",
+            "Mental health assessment"
+          ]
+        }
+      },
+      "cases": {
+        "title": "Client Stories",
+        "case1": {
+          "narrative": "Mr. Chen, 55, CEO of a listed company. Routine checkups showed nothing unusual, but Sanare's precision screening detected an early-stage pulmonary micro-nodule. After a multi-disciplinary consultation, timely intervention prevented a potential risk.",
+          "serviceType": "Precision Checkup · Advanced Package"
+        }
+      },
+      "cta": "Design My Checkup Plan"
+    },
+    "antiAging": {
+      "title": "Anti-aging Aesthetics",
+      "intro": "Inside-out rejuvenation, tailored to you",
+      "introDetail": "Sanare's anti-aging aesthetics service blends cutting-edge regenerative medicine with the wisdom of traditional Chinese medicine. Rather than pursuing a cookie-cutter version of 'looking younger,' we design holistic anti-aging plans based on each client's skin condition, body function, and personal goals.",
+      "serviceFlow": {
+        "title": "Service Process",
+        "steps": [
+          "Comprehensive skin and body function assessment",
+          "One-on-one anti-aging plan design with specialists",
+          "Aesthetic procedures (laser, injection, regenerative medicine, etc.)",
+          "TCM constitution conditioning and nutrition plan",
+          "Post-treatment follow-up and long-term anti-aging management"
+        ]
+      },
+      "targetAudience": {
+        "title": "Who It's For",
+        "items": [
+          "Women over 35 focused on skin and body rejuvenation",
+          "High-net-worth individuals seeking to address visible signs of aging",
+          "Those pursuing natural, healthy anti-aging results",
+          "Clients interested in combining medical aesthetics with TCM",
+          "Anyone with long-term anti-aging management needs"
+        ]
+      },
+      "cases": {
+        "title": "Client Stories",
+        "case1": {
+          "narrative": "Ms. Liu, 48, a prominent attorney. Work stress had caused noticeable facial sagging and fatigue. Sanare designed a two-week anti-aging retreat combining Thermage, hydrating injections, and TCM meridian therapy. Friends said she looked ten years younger.",
+          "serviceType": "Anti-aging Aesthetics · Comprehensive Plan"
+        }
+      },
+      "cta": "Design My Anti-aging Plan"
+    },
+    "rehabilitation": {
+      "title": "Rehabilitation Retreat",
+      "intro": "Accelerate recovery in Sanya's sunshine",
+      "introDetail": "Sanya's exceptional tropical climate and natural environment make it an ideal destination for post-surgical recovery and chronic condition rehabilitation. Sanare integrates Sanya's top rehabilitation medical resources to create a professional, comfortable, and personalized recovery experience.",
+      "serviceFlow": {
+        "title": "Service Process",
+        "steps": [
+          "Remote assessment by rehabilitation medicine specialists",
+          "Development of personalized rehabilitation plan",
+          "Arrangement of Sanya rehabilitation facility and accommodation",
+          "Full-time professional rehabilitation team guidance",
+          "Regular progress evaluation and plan adjustment"
+        ]
+      },
+      "targetAudience": {
+        "title": "Who It's For",
+        "items": [
+          "Post-orthopedic surgery patients needing rehabilitation",
+          "Cardiovascular and cerebrovascular post-surgery recovery",
+          "Chronic pain and joint disease patients",
+          "Neurological condition rehabilitation needs",
+          "Elderly individuals seeking recovery in a warm environment"
+        ]
+      },
+      "cases": {
+        "title": "Client Stories",
+        "case1": {
+          "narrative": "Mr. Zhao, 63, a retired professor. His hip replacement recovery was slow in the cold northern climate. Sanare arranged a one-month rehabilitation retreat in Sanya, where the warm weather combined with professional training produced remarkable results.",
+          "serviceType": "Rehabilitation Retreat · Orthopedic Recovery"
+        }
+      },
+      "cta": "Design My Recovery Plan"
+    },
+    "escort": {
+      "title": "Medical Escort",
+      "intro": "Navigate healthcare with confidence",
+      "introDetail": "Facing a complex medical system in an unfamiliar city can be overwhelming. Sanare's medical escort service coordinates top-tier specialist resources and provides full-journey accompaniment, so you can focus entirely on your treatment.",
+      "serviceFlow": {
+        "title": "Service Process",
+        "steps": [
+          "Understanding your condition and matching the best specialist resources",
+          "Coordinating specialist appointments and scheduling",
+          "Arranging transportation, accommodation, and logistics",
+          "Full accompaniment during consultations with doctor-patient communication support",
+          "Organizing medical records and developing a follow-up plan"
+        ]
+      },
+      "targetAudience": {
+        "title": "Who It's For",
+        "items": [
+          "Out-of-town patients seeking medical care in Sanya or Hainan",
+          "Those seeking consultations with top specialists",
+          "Overseas Chinese unfamiliar with the local healthcare system",
+          "Complex cases requiring multi-disciplinary consultations",
+          "High-net-worth individuals seeking a VIP medical experience"
+        ]
+      },
+      "cases": {
+        "title": "Client Stories",
+        "case1": {
+          "narrative": "Ms. Sun, 50, returned from Singapore for medical care. She needed thyroid nodule surgery but was completely unfamiliar with China's healthcare process. Sanare provided end-to-end escort service from specialist booking to post-surgery follow-up, making her feel right at home.",
+          "serviceType": "Medical Escort · Thyroid Surgery"
+        }
+      },
+      "cta": "Book Escort Service"
+    }
+  },
+  "about": {
+    "story": {
+      "overline": "Our Story",
+      "headline": "Sanare — Born from reverence for health",
+      "body": "Sanare was founded in Sanya, its name inspired by the Chinese concept of 'one leaf, one grain — growing naturally.' We believe health is not a one-time checkup report, but a journey that deserves thoughtful companionship.",
+      "bodyDetail": "From the very beginning, Sanare has upheld a 'one person, one plan' philosophy, rejecting assembly-line medical tourism. We are deeply rooted in Sanya's exceptional medical and natural resources, partnering with top institutions including PLA General Hospital Hainan Branch (301 Hainan), dedicated to delivering truly personalized health management for every client."
+    },
+    "team": {
+      "overline": "Our Team",
+      "headline": "Trusted wellness partners",
+      "member1": {
+        "name": "Dr. Chen Mingyuan",
+        "title": "Chief Medical Advisor",
+        "description": "Former attending physician at PLA General Hospital with 30 years of clinical experience, specializing in precision checkup design and multi-disciplinary consultation coordination."
+      },
+      "member2": {
+        "name": "Dr. Lin Yaqi",
+        "title": "Anti-aging Aesthetics Director",
+        "description": "Medical doctorate from Japan, 15 years focused on regenerative medicine and integrative anti-aging approaches, pursuing natural and healthy rejuvenation outcomes."
+      },
+      "member3": {
+        "name": "Wang Haitao",
+        "title": "Premium Travel Consultant",
+        "description": "10 years of luxury custom travel experience, fluent in Chinese, English, and Japanese, ensuring every client's medical journey in Sanya is comfortable and worry-free."
+      }
+    },
+    "advantages": {
+      "overline": "Our Advantages",
+      "headline": "Why Choose Sanare",
+      "items": [
+        "One person, one plan — no standardized packages",
+        "Deep partnerships with top medical institutions including 301 Hainan Hospital",
+        "Dedicated personal accompaniment with bilingual service",
+        "Sanya's exceptional natural healing environment",
+        "End-to-end health management from screening to recovery",
+        "Strict privacy protection and VIP service standards"
+      ]
+    },
+    "partners": {
+      "overline": "Our Network",
+      "headline": "A powerful medical and service network",
+      "hospitals": "Green-channel partnerships with top-tier hospitals including PLA General Hospital Hainan Branch (301 Hainan) and Sanya Central Hospital, covering cardiology, oncology, orthopedics, neurology, and other key departments.",
+      "wellness": "Integrated access to Sanya's premier rehabilitation centers, TCM wellness institutions, and medical aesthetics clinics for one-stop health management.",
+      "hotels": "Partnerships with five-star properties including Atlantis Sanya and Haitang Bay Mangrove Tree Resort, ensuring clients enjoy a premium hospitality experience alongside their medical journey."
+    }
+  },
+  "questionnaire": {
+    "title": "Health Checkup Questionnaire",
+    "subtitle": "Please fill in the information below based on your actual situation. Our wellness advisor will contact you within 24 hours to design your personalized plan.",
+    "sections": {
+      "personal": "Personal Information",
+      "medical": "Medical & Family History",
+      "appointment": "Appointment Information"
+    },
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name",
+        "error": "Please enter your name"
+      },
+      "gender": {
+        "label": "Gender",
+        "options": ["Male", "Female"]
+      },
+      "birthDate": {
+        "label": "Date of Birth",
+        "placeholder": "e.g., 1980-01-01"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number",
+        "error": "Please enter your phone number"
+      },
+      "nationality": {
+        "label": "Nationality",
+        "placeholder": "e.g., China"
+      },
+      "ethnicity": {
+        "label": "Ethnicity",
+        "placeholder": "e.g., Han"
+      },
+      "idType": {
+        "label": "ID Type",
+        "options": ["National ID Card", "Passport", "HK/Macau Travel Permit", "Taiwan Travel Permit", "Foreign Permanent Residence", "Other"]
+      },
+      "idNumber": {
+        "label": "ID Number",
+        "placeholder": "Enter your ID number"
+      },
+      "education": {
+        "label": "Education Level",
+        "options": ["Postgraduate & above", "Bachelor/Associate", "Vocational/Technical", "High School", "Middle School", "Primary & below"]
+      },
+      "maritalStatus": {
+        "label": "Marital Status",
+        "options": ["Single", "Married", "Widowed", "Divorced", "Other"]
+      },
+      "occupation": {
+        "label": "Occupation",
+        "placeholder": "Enter your occupation"
+      },
+      "address": {
+        "label": "Home Address",
+        "placeholder": "Province / City / District"
+      },
+      "medicalHistory": {
+        "label": "Medical History",
+        "options": ["Yes", "No"],
+        "diseases": ["Diabetes", "Hypertension", "Dyslipidemia", "Coronary Heart Disease", "Cerebrovascular Disease", "COPD", "Chronic Kidney Disease", "Hyperuricemia/Gout", "Malignant Tumor", "Other"]
+      },
+      "familyHistory": {
+        "label": "Family History (parents, children, siblings)",
+        "options": ["Yes", "No"]
+      },
+      "allergyHistory": {
+        "label": "Allergy History",
+        "options": ["No", "Yes"],
+        "placeholder": "Describe your allergies"
+      },
+      "surgeryHistory": {
+        "label": "Surgery History",
+        "options": ["No", "Yes"],
+        "placeholder": "Describe your surgeries"
+      },
+      "appointmentDate": {
+        "label": "Preferred Checkup Date",
+        "placeholder": "Select a date"
+      },
+      "appointmentTime": {
+        "label": "Preferred Checkup Time",
+        "placeholder": "Select a time slot",
+        "options": ["Morning 08:00-09:00", "Morning 09:00-10:00", "Morning 10:00-11:00", "Afternoon 14:00-15:00", "Afternoon 15:00-16:00", "Afternoon 16:00-17:00"]
+      },
+      "medicalProject": {
+        "label": "Service of Interest",
+        "placeholder": "Select or describe the service you're interested in",
+        "error": "Please select a service of interest",
+        "options": ["Precision Checkup", "Anti-aging Aesthetics", "Rehabilitation Retreat", "Medical Escort", "Wellness Journey"]
+      },
+      "specialNeeds": {
+        "label": "Special Requirements",
+        "placeholder": "Describe any special needs or concerns (optional)"
+      }
+    },
+    "submit": "Submit Form",
+    "modal": {
+      "title": "Submission Successful",
+      "message": "Thank you for your trust! Our wellness advisor will contact you within 24 hours to design your personalized health plan.",
+      "close": "Close"
+    }
+  },
+  "experience": {
+    "subnav": {
+      "wellness": "Wellness",
+      "journey": "Journey",
+      "culture": "Culture"
+    },
+    "wellness": {
+      "overline": "Wellness",
+      "headline": "Nature as medicine,",
+      "headlineItalic": "Sanya as sanctuary.",
+      "description": "Between Sanya's tropical shores and lush mountains, Sanare integrates top-tier medical care, traditional Chinese medicine, and mind-body practices into a profound wellness journey.",
+      "physical": {
+        "title": "Physical Vitality",
+        "image": "/image/wellness-physical-main.jpg",
+        "description": "Enhancing confidence through precise physical check-ups, optimized bodily functions and improved health performance."
+      },
+      "mind": {
+        "title": "Mental Serenity",
+        "image": "/image/wellness-main-mind.jpg",
+        "description": "Finding balance within oneself through TCM physiotherapy and wellness recuperation – a state of mental serenity and emotional harmony"
+      },
+      "soul": {
+        "title": "Spiritual Elevation",
+        "image": "/image/wellness-main-sprit.jpg",
+        "description": "Exploring beliefs, principles and values that provide meaning and bring purpose."
+      },
+      "tijian": {
+        "overline": "Health Checkup",
+        "title": "Precision Health Checkup",
+        "image": "/image/wellness/体检.jpg",
+        "description": "Building a solid health foundation through professional medical testing, precisely interpreting body signals, optimizing functions from within, achieving physical vitality and life energy.",
+        "price": "$6000 up"
+      },
+      "wellnessPartnersTitle": "Wellness Partners",
+      "wellnessPartnersDescription": "Across Sanya's tropical shores, open doorways to holistic renewal and be rooted in the healing essence of this coastal sanctuary. Whether uncovering wellness insights through precision medical screenings amid ocean breezes or finding inner equilibrium in time-honored TCM therapies woven with mineral spring rituals, Sanya's wellness journey transcends mere physical rejuvenation to nurture mind, body and spirit as one.",
+      "wellnessPartners": [
+        {
+          "title": "301 Hainan Hospital",
+          "image": "/image/wellness/301.jpg",
+          "description": "301 Hospital, together with its affiliated medical research centers, has developed a comprehensive programme centred on precision healthcare and longevity enhancement."
+        },
+        {
+          "title": "Sanya TCM Hospital",
+          "image": "/image/wellness/三亚中医院.jpg",
+          "description": "Placing focus on traditional Chinese medicine wisdom and holistic mind-body-spirit harmony, with a comprehensive programme centred on preventive healthcare and natural healing."
+        },
+        {
+          "title": "Boao Super Hospital",
+          "image": "/image/wellness/博鳌超级医院.png",
+          "description": "Placing focus on global medical innovation and cross-border healthcare integration, with early access to breakthrough treatments and personalized precision care."
+        },
+        {
+          "title": "Yazhou Bay Science & Technology City Hospital",
+          "image": "/image/wellness/崖州湾医院.jpg",
+          "description": "Co-built by Sanya Municipal Government and Renji Hospital affiliated with Shanghai Jiao Tong University School of Medicine, a Grade-A tertiary public general hospital integrating medical care, education, research, prevention and health preservation."
+        }
+      ],
+      "eventTitle": "Wellness Retreats & Immersions",
+      "eventDescription": "Embark on a journey of self-discovery with curated wellness programmes centred in serene surrounds.",
+      "events": [
+        {
+          "overline": "Meridian Therapy",
+          "title": "Acupuncture",
+          "image": "/image/wellness/针灸.jpg",
+          "description": "An ancient practice of inserting fine needles at precise meridian points to restore the body's natural energy flow. Experience how this 2,500-year-old art relieves pain, reduces stress, and rebalances vital Qi.",
+          "price": "$100 up"
+        },
+        {
+          "overline": "Warming Therapy",
+          "title": "Moxibustion",
+          "image": "/image/wellness/艾灸1.jpg",
+          "description": "The gentle warmth of burning mugwort applied near acupuncture points to stimulate circulation and expel cold. A deeply comforting ritual that strengthens immunity through aromatic heat.",
+          "price": "$150 up"
+        },
+        {
+          "overline": "Culinary Medicine",
+          "title": "Medicinal Cuisine",
+          "image": "/image/wellness/药材.jpg",
+          "description": "The art of healing through food — seasonal ingredients paired with herbal prescriptions to nourish from within. Each dish is crafted by TCM nutritionists to address individual constitution.",
+          "price": "$200 up"
+        },
+        {
+          "overline": "Cupping Therapy",
+          "title": "Cupping",
+          "image": "/image/wellness/拔罐.jpg",
+          "description": "A traditional Chinese external therapy using suction cups on the skin to unblock meridians, promote blood circulation, dispel cold and dampness, and relieve muscle fatigue and pain.",
+          "price": "$50 up"
+        }
+      ]
+    },
+    "journey": {
+      "overline": "Journey",
+      "headline": "Luxury in Sanya,",
+      "headlineItalic": "beyond the horizon.",
+      "description": "From world-class luxury hotels to breathtaking natural wonders, Sanare weaves a Sanya journey that transcends imagination.",
+      "stayTitle": "Guided by Sanare's Spirit",
+      "stayDescription": "Rooted in place, Sanare connects the very soul of each destination. No matter where in the world, an unmistakable feeling of intimacy, curiosity and belonging is found through physical spaces, sincere service and experiences shaped by local culture.",
+      "stays": [
+        {
+          "name": "The Sanya EDITION",
+          "logo":"/image/journey/edition.avif",
+          "description": "Where avant-garde design meets ultimate aesthetics, redefining the luxury stay experience in Sanya."
+        },
+        {
+          "name": "JW Marriott Sanya",
+          "logo": "/image/journey/JWMarriott.svg",
+          "description": "Classic elegance meets tropical charm — the perfect fusion of serenity and luxury at Haitang Bay."
+        },
+        {
+          "name": "Atlantis Sanya",
+          "logo": "/image/journey/亚特兰蒂斯.png",
+          "description": "An ocean-themed fantasy world combining luxury accommodation, waterpark and aquarium in one."
+        },
+        {
+          "name": "Rosewood Sanya",
+          "logo": "/image/journey/保利瑰丽.png",
+          "description": "Ultra-luxury by Rosewood, commanding stunning ocean views at Haitang Bay."
+        },
+        {
+          "name": "Capella Sanya",
+          "logo": "/image/journey/嘉佩乐.webp",
+          "description": "Ultra-luxury by Rosewood, commanding stunning ocean views at Haitang Bay."
+        }
+      ],
+      "activitiesTitle": "Sanya",
+      "activitiesDescription": "Sanya is more than azure seas and blue skies — it holds unique Li and Miao heritage, authentic island cuisine, and a leisurely coastal lifestyle. Here, feel the warmth of life between mountains and sea, and experience the one-of-a-kind Sanya slow life.",
+      "activities": [
+        {
+          "name": "Local Heritage",
+          "image": "/image/journey/lizu.jpg",
+          "description": "Centuries-old Li and Miao culture — brocade weaving, bamboo pole dancing, fishing village customs — experience Sanya's most authentic ethnic traditions."
+        },
+        {
+          "name": "Leisure & Recreation",
+          "image": "/image/journey/haitangwan.jpg",
+          "description": "Beach strolls, yacht excursions, rainforest hikes, seaside camping — unlock Sanya's diverse and relaxing holiday experiences."
+        },
+        {
+          "name": "Island Cuisine",
+          "image": "/image/journey/meishi.jpg",
+          "description": "Fresh seafood, Qingbuliang, coconut chicken, Baoluo rice noodles — a taste of Sanya where every bite carries the flavor of the sea."
+        }
+      ],
+      "destinationsOverline": "Featured Journeys",
+      "exploreTitle": "Hidden Wonders",
+      "destinations": [
+        {
+          "name": "Wuzhizhou Island",
+          "image": "/image/journey/meishi.jpg",
+          "description": "Known as China's Maldives, with crystal-clear waters and white sands, combining water sports and island scenery — a must-visit tropical paradise and holiday haven in Sanya."
+        },
+        {
+          "name": "Duty Free Mall",
+          "image": "/image/journey/meishi.jpg",
+          "description": "Asia's premier large-scale duty-free shopping center, featuring global luxury brands in beauty, bags, and watches — enjoy one-stop duty-free shopping alongside your holiday."
+        },
+        {
+          "name": "Atlantis",
+          "image": "/image/journey/meishi.jpg",
+          "description": "Sanya's iconic ocean-themed resort complex, featuring The Lost Chambers Aquarium, thrilling waterpark, and luxury accommodation — a one-stop destination for the whole family."
+        }
+      ]
+    },
+    "culture": {
+      "overline": "Culture",
+      "headline": "Stirred by Connection",
+      "headlineItalic": "Ancient wisdom, modern healing.",
+      "description": "Connect with centuries of Chinese healing traditions and awaken the spirit. Embark on cultural journeys to timeless places, where every encounter touches the soul.",
+      "heroDescription": "A soul journey through the ancient art of Chinese medicine, an exploration into the philosophy of balance and harmony. These are the experiences that shape the spirit of Sanare and the connections that transform.",
+      "retreatsOverline": "Cultural Retreats & Immersions",
+      "practices": [
+        {
+          "overline": "Meridian Therapy",
+          "title": "Acupuncture",
+          "description": "An ancient practice of inserting fine needles at precise meridian points to restore the body's natural energy flow. In Sanya's serene clinical settings, experience how this 2,500-year-old art relieves pain, reduces stress, and rebalances the body's vital Qi."
+        },
+        {
+          "overline": "Warming Therapy",
+          "title": "Moxibustion",
+          "description": "The gentle warmth of burning mugwort applied near acupuncture points to stimulate circulation and expel cold. A deeply comforting ritual that strengthens immunity and nurtures the body's yang energy through aromatic heat."
+        },
+        {
+          "overline": "Manual Healing",
+          "title": "Tui Na Massage",
+          "description": "A therapeutic Chinese massage technique using rhythmic pressing, kneading, and stretching along the body's meridians. More than relaxation — Tui Na addresses musculoskeletal conditions, improves circulation, and restores structural balance."
+        },
+        {
+          "overline": "Culinary Medicine",
+          "title": "Medicinal Cuisine",
+          "description": "The art of healing through food — seasonal ingredients paired with herbal prescriptions to nourish from within. Each dish is crafted by TCM nutritionists to address individual constitution, turning every meal into gentle medicine."
+        },
+        {
+          "overline": "Ancient Movement",
+          "title": "Classical Wellness Arts",
+          "description": "Tai Chi, Qigong, and Baduanjin — time-honored movement practices that cultivate internal energy, improve flexibility, and quiet the mind. Practiced at dawn by the South China Sea, these arts connect breath, body, and spirit."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "brandDescription": "Sanare — Your personal wellness journey partner. Rooted in Sanya, connecting you with world-class medical resources. Precision checkups, anti-aging aesthetics, rehabilitation retreats, and medical escort services for discerning individuals.",
+    "navTitle": "Quick Links",
+    "contactTitle": "Contact Us",
+    "contact": {
+      "email": "info@sanare-sanya.com",
+      "phone": "+86 898 8888 8888"
+    }
+  },
+  "floatingCta": {
+    "label": "Free Consultation"
+  },
+  "checkupDetail": {
+    "overline": "Precision Checkup",
+    "title": "Health Checkup Program",
+    "description": "From essential annual checkups to advanced specialty screening — a three-tier progressive checkup program to comprehensively safeguard your health.",
+    "tiers": [
+      {
+        "color": "#4A5E3B",
+        "label": "Essential (Annual Must-Do, Core Foundation)",
+        "categories": [
+          {
+            "title": "I. Specialist Examinations (Basic Physical Assessment)",
+            "items": [
+              "General: Blood pressure, pulse, height, weight, BMI, waist ratio, medical history, family history, lifestyle",
+              "Internal Medicine: Allergy history, cardiac auscultation, abdominal palpation",
+              "Surgery: Surgical history, skin, lymph nodes, thyroid, chest wall, cervical spine, limb joint mobility",
+              "ENT: External ear, nasal cavity, oropharynx, nasopharynx, larynx, middle ear",
+              "Dental: Teeth, dental defects, residual roots/crowns, periodontal, oral mucosa, tongue",
+              "Ophthalmology: Fundus exam, eyelids, conjunctiva, pupil, vitreous, lens, iris, sclera, visual acuity",
+              "Blood collection supplies: Disposable vacuum blood collection tubes"
+            ]
+          },
+          {
+            "title": "II. Laboratory Tests (Basic Biochemistry + Routine Screening)",
+            "items": [
+              "Complete Blood Count: RBC, hematocrit, MCV, RDW, hemoglobin, WBC differential, platelet count",
+              "Urinalysis: Appearance, specific gravity, pH, nitrite, protein, glucose, ketones, bilirubin, etc.",
+              "Stool Analysis: Occult blood, WBC, color, ova/parasites",
+              "Basic Coagulation: PT, APTT, TT, FIB",
+              "Basic Renal Function: Uric acid, urea, creatinine",
+              "Basic Liver Function: Total protein, albumin, ALT, AST, total/direct bilirubin",
+              "Infectious Disease Screening: HBsAg, HCV antibody, Syphilis RPR, HIV antibody",
+              "Blood Typing: ABO / RH(D)"
+            ]
+          },
+          {
+            "title": "III. Instrument Tests (Basic Functional Assessment)",
+            "items": [
+              "12-Lead ECG",
+              "Body Composition Analysis: Body fat, skeletal muscle, visceral fat, basal metabolic rate",
+              "H. pylori C13 Breath Test"
+            ]
+          }
+        ]
+      },
+      {
+        "color": "#C8A951",
+        "label": "Advanced (Chronic Disease / Tumor / Thyroid Risk Screening)",
+        "categories": [
+          {
+            "title": "I. Specialist Examinations (Advanced Screening)",
+            "items": [
+              "Fundus Photography: Retinal imaging (fundus disease / chronic disease complication screening)"
+            ]
+          },
+          {
+            "title": "II. Laboratory Tests (Chronic Disease / Tumor / Thyroid / Anemia)",
+            "items": [
+              "Advanced CBC: Reticulocyte count",
+              "Advanced Urinalysis: Microalbumin/creatinine ratio (early renal injury)",
+              "Advanced Coagulation: PA, INR",
+              "Thrombosis Risk: D-dimer",
+              "Advanced Liver Function: ALP, GGT, total bile acids",
+              "Electrolytes: Ca, K, Mg, Na, Cl, inorganic phosphorus",
+              "Cardiovascular Risk: Homocysteine, hs-CRP",
+              "Cardiac Markers: Troponin T, CK, CK-MB",
+              "Iron Metabolism Panel: Serum iron, TIBC, UIBC",
+              "Lipid Panel (7 items): TC, LDL-C, HDL-C, TG, ApoA1, ApoB, Lp(a)",
+              "Glucose/Metabolism: Fasting glucose, HbA1c, fasting insulin + C-peptide",
+              "Anemia Panel: Vitamin B12, folate, ferritin, transferrin",
+              "Tumor Markers: AFP, CEA, T-PSA/f-PSA, CYFRA211, NSE, CA19-9, CA125",
+              "Thyroid Function (5 items): TT3, TT4, FT3, FT4, TSH",
+              "Rheumatic Screening: RF + ASO",
+              "Serum Cystatin C (advanced renal function)"
+            ]
+          },
+          {
+            "title": "III. Instrument Tests (Advanced Monitoring)",
+            "items": [
+              "Holter ECG (24-hour cardiac monitoring)",
+              "Ambulatory Blood Pressure (24-hour BP monitoring)"
+            ]
+          }
+        ]
+      },
+      {
+        "color": "#C0392B",
+        "label": "Premium (Deep Specialty, High-End / Specific Populations)",
+        "categories": [
+          {
+            "title": "I. Laboratory Tests (Deep Specialty / Immune / Hormonal / Genetic)",
+            "items": [
+              "Advanced Cardiac Markers: NT-proBNP (heart failure), LDH",
+              "Advanced Tumor Markers: ProGRP, CA72-4, CA15-3, SCCA",
+              "Thyroid Autoimmunity (supplementary): ATG, ATPO, TRAB",
+              "Bone Metabolism Panel: 25-OH Vitamin D3, intact PTH, P1NP, osteocalcin, calcitonin",
+              "Immunoglobulin + Complement Panel: IgG/A/M/E, light chains KAP/LAM, C3/C4, prealbumin, β2-microglobulin",
+              "Sex Hormone Panel (7 items): Progesterone, estradiol, prolactin, LH, FSH, testosterone, SHBG",
+              "Autoantibody Panel (14 items) — comprehensive autoimmune screening",
+              "Allergen Panel (20 items) — precise allergy cause identification",
+              "Hypertension Pharmacogenomic Testing — personalized medication guidance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

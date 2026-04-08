@@ -1,0 +1,751 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "experience": "Trải nghiệm",
+    "experienceWellness": "Chăm sóc sức khỏe",
+    "experienceJourney": "Hành trình đỉnh cao",
+    "experienceCulture": "Di sản văn hóa",
+    "products": "Dịch vụ",
+    "productsCheckup": "Kiểm tra sức khỏe chính xác",
+    "productsAntiAging": "Thẩm mỹ chống lão hóa",
+    "productsRehabilitation": "Nghỉ dưỡng phục hồi",
+    "productsEscort": "Hỗ trợ y tế đồng hành",
+    "about": "Về chúng tôi",
+    "questionnaire": "Tư vấn"
+  },
+  "home": {
+    "hero": {
+      "headline": "Hành trình sức khỏe của bạn,",
+      "headlineItalic": "Sanare. Restare.",
+      "description": "Chúng tôi mang đến dịch vụ tư vấn chăm sóc sức khỏe chuyên biệt 1-đối-1 hàng đầu.",
+      "cta": "Đặt lịch tư vấn"
+    },
+    "philosophy": {
+      "overline": "Triết lý của chúng tôi",
+      "headline": "Không phải du lịch y tế đại trà,",
+      "headlineItalic": "mà là đồng hành sức khỏe một-đối-một.",
+      "body": "Sanare tin rằng quản lý sức khỏe đích thực không phải là gói khám sức khỏe theo dây chuyền, mà là phương án được thiết kế riêng sau khi thấu hiểu sâu sắc tình trạng sức khỏe, lối sống và mục tiêu chăm sóc sức khỏe của từng khách hàng.",
+      "detail": "Chúng tôi hợp tác với các cơ sở y tế hàng đầu bao gồm Bệnh viện Quân đội Nhân dân Giải phóng Chi nhánh Hải Nam (301 Hải Nam), kết hợp y học chính xác tiên tiến quốc tế với môi trường chữa lành đặc biệt của Tam Á để cung cấp dịch vụ chăm sóc toàn diện từ tầm soát đến phục hồi."
+    },
+    "products": {
+      "overline": "Dịch vụ cốt lõi",
+      "headline": "Our Service",
+      "headlineItalic": "",
+      "overview": {
+        "block1Title": "Dịch vụ cốt lõi",
+        "block1Body": "Các dịch vụ cốt lõi của chúng tôi đặt tại Tam Á, Hải Nam, Trung Quốc. Chúng tôi thiết kế chương trình chăm sóc sức khỏe cá nhân hóa kết hợp tinh hoa y học cổ truyền Trung Hoa, đi kèm lịch trình Tam Á sang trọng theo yêu cầu. Chuyên viên thiết kế hành trình riêng đồng hành mọi bước, đáp ứng mọi nhu cầu du lịch của bạn.",
+        "block2Title": "",
+        "block2Body": "",
+        "serif1": "Đây không phải du lịch y tế đại trà.",
+        "serif2": "Đây là hành trình sức khỏe được xây dựng trên niềm tin, lấy bạn làm trung tâm."
+      },
+      "checkup": {
+        "title": "Kiểm tra sức khỏe chính xác",
+        "description": "Hợp tác với các chuyên gia Bệnh viện 301 Hải Nam để tầm soát chuyên sâu vượt xa khám sức khỏe thông thường — phát hiện sớm, can thiệp kịp thời.",
+        "snapHeadline": "Vượt xa thường quy,",
+        "snapHeadlineItalic": "thấu hiểu sức khỏe chuyên sâu.",
+        "cta": "Khám phá Kiểm tra chính xác"
+      },
+      "antiAging": {
+        "title": "Thẩm mỹ chống lão hóa",
+        "description": "Kết hợp công nghệ chống lão hóa tiên tiến với y học cổ truyền Trung Hoa để trẻ hóa từ bên trong.",
+        "snapHeadline": "Từ bên trong ra ngoài,",
+        "snapHeadlineItalic": "trẻ trung tự nhiên.",
+        "cta": "Khám phá Chống lão hóa"
+      },
+      "rehabilitation": {
+        "title": "Nghỉ dưỡng phục hồi",
+        "description": "Đẩy nhanh quá trình phục hồi sau phẫu thuật và bệnh mãn tính trong khí hậu ấm áp của Tam Á, dưới sự hướng dẫn của y học phục hồi chuyên nghiệp.",
+        "snapHeadline": "Ánh nắng và chuyên môn,",
+        "snapHeadlineItalic": "đẩy nhanh phục hồi.",
+        "cta": "Khám phá Phục hồi chức năng"
+      },
+      "escort": {
+        "title": "Hỗ trợ y tế đồng hành",
+        "description": "Đồng hành y tế toàn hành trình, phối hợp nguồn lực chuyên khoa hàng đầu, giúp việc khám chữa bệnh không còn là gánh nặng.",
+        "snapHeadline": "Đồng hành trọn vẹn,",
+        "snapHeadlineItalic": "không bao giờ đơn độc.",
+        "cta": "Khám phá Hỗ trợ y tế"
+      }
+    },
+    "pillars": {
+      "overline": "Sanare tập trung vào",
+      "headline": "Thân, tâm và hồn —",
+      "headlineItalic": "trở về sự toàn vẹn.",
+      "description": "Sanare tích hợp chăm sóc y tế cao cấp, nghỉ dưỡng chăm sóc sức khỏe chuyên sâu và thực hành tâm linh thành trải nghiệm sức khỏe toàn diện vượt xa khám sức khỏe thông thường.",
+      "physical": {
+        "title": "Sức sống thể chất",
+        "image": "/image/wellness-physical-main.jpg",
+        "description": "Nâng cao sự tự tin thông qua kiểm tra sức khỏe chính xác, tối ưu hóa chức năng cơ thể và cải thiện hiệu suất sức khỏe."
+      },
+      "mind": {
+        "title": "An yên tâm trí",
+        "image": "/image/wellness-main-mind.jpg",
+        "description": "Tìm lại sự cân bằng nội tại thông qua vật lý trị liệu y học cổ truyền và nghỉ dưỡng phục hồi — trạng thái an yên tâm trí và hài hòa cảm xúc."
+      },
+      "soul": {
+        "title": "Thăng hoa tâm linh",
+        "image": "/image/wellness-main-sprit.jpg",
+        "description": "Khám phá niềm tin, nguyên tắc và giá trị mang lại ý nghĩa và mục đích sống."
+      }
+    },
+    "stories": {
+      "headline": "Nhu cầu khác nhau,",
+      "headlineItalic": "cùng một sự chăm sóc tận tâm.",
+      "case1": {
+        "narrative": "Ông Zhang, 52 tuổi, giám đốc điều hành doanh nghiệp. Nhiều năm làm việc áp lực cao khiến ông bỏ qua các tín hiệu của cơ thể. Thông qua kiểm tra chính xác của Sanare, nguy cơ tim mạch được phát hiện sớm và kế hoạch quản lý sức khỏe cá nhân hóa được xây dựng dưới sự hướng dẫn của chuyên gia.",
+        "serviceType": "Kiểm tra sức khỏe chính xác"
+      },
+      "case2": {
+        "narrative": "Bà Li, 45 tuổi, mong muốn lấy lại sức sống tuổi trẻ bên cạnh sự nghiệp bận rộn. Sanare thiết kế chương trình nghỉ dưỡng chống lão hóa hai tuần kết hợp thẩm mỹ y khoa với y học cổ truyền Trung Hoa, giúp bà hoàn toàn đổi mới.",
+        "serviceType": "Thẩm mỹ chống lão hóa"
+      },
+      "case3": {
+        "narrative": "Ông Wang, 60 tuổi, cần phục hồi chuyên nghiệp sau phẫu thuật thay khớp gối. Sanare sắp xếp chương trình nghỉ dưỡng phục hồi ba tuần tại Tam Á, nơi khí hậu ấm áp và đội ngũ chuyên gia giúp ông phục hồi nhanh hơn nhiều so với dự kiến.",
+        "serviceType": "Nghỉ dưỡng phục hồi"
+      }
+    }
+  },
+  "products": {
+    "checkup": {
+      "title": "Kiểm tra sức khỏe chính xác",
+      "intro": "Tầm soát sức khỏe chuyên sâu vượt xa khám sức khỏe thông thường",
+      "introDetail": "Sanare hợp tác với đội ngũ chuyên gia tại Bệnh viện 301 Hải Nam, sử dụng thiết bị và công nghệ chẩn đoán chính xác hàng đầu quốc tế để cung cấp dịch vụ tầm soát vượt xa khám sức khỏe tiêu chuẩn. Chúng tôi không cung cấp gói khám đồng loạt — thay vào đó, chúng tôi thiết kế phương án khám dựa trên độ tuổi, tiền sử bệnh gia đình, lối sống và nhiều yếu tố khác của bạn.",
+      "serviceFlow": {
+        "title": "Quy trình dịch vụ",
+        "steps": [
+          "Tư vấn trực tiếp một-đối-một với cố vấn sức khỏe để hiểu rõ nền tảng và nhu cầu của bạn",
+          "Đội ngũ chuyên gia thiết kế phương án khám sức khỏe cá nhân hóa",
+          "Tiếp cận VIP với người đồng hành chuyên trách trong suốt quá trình khám",
+          "Hội đồng chuyên gia đa chuyên khoa đánh giá và phân tích kết quả",
+          "Xây dựng kế hoạch quản lý sức khỏe và theo dõi liên tục"
+        ]
+      },
+      "targetAudience": {
+        "title": "Đối tượng phù hợp",
+        "items": [
+          "Giám đốc điều hành và cá nhân có giá trị tài sản ròng cao trên 40 tuổi",
+          "Người có tiền sử bệnh gia đình cần tầm soát chuyên sâu",
+          "Chuyên gia chịu áp lực cao mãn tính hoặc trong tình trạng sức khỏe kém",
+          "Bất kỳ ai muốn đánh giá sức khỏe toàn diện hàng năm",
+          "Người Hoa hải ngoại về nước khám sức khỏe"
+        ]
+      },
+      "tiers": {
+        "title": "Gói khám sức khỏe",
+        "basic": {
+          "name": "Gói chính xác cơ bản",
+          "items": [
+            "CT xoắn ốc liều thấp toàn thân",
+            "Siêu âm tim + siêu âm động mạch cảnh",
+            "Bộ xét nghiệm dấu ấn ung thư đầy đủ (12 chỉ số)",
+            "Xét nghiệm chức năng tuyến giáp toàn diện",
+            "Chức năng gan & thận + bộ xét nghiệm lipid máu đầy đủ",
+            "Xét nghiệm H. pylori",
+            "Đo mật độ xương"
+          ]
+        },
+        "premium": {
+          "name": "Gói chính xác nâng cao",
+          "items": [
+            "Bao gồm tất cả hạng mục Gói cơ bản",
+            "Chụp CT mạch vành (CTA)",
+            "MRI não + MRA",
+            "Nội soi dạ dày & đại tràng không đau",
+            "Xét nghiệm gen (gen nhạy cảm ung thư)",
+            "Đánh giá xơ vữa động mạch",
+            "Đánh giá chức năng miễn dịch"
+          ]
+        },
+        "comprehensive": {
+          "name": "Gói chính xác toàn diện",
+          "items": [
+            "Bao gồm tất cả hạng mục Gói nâng cao",
+            "PET-CT quét toàn thân",
+            "MRI tim",
+            "Giải trình tự toàn bộ hệ gen",
+            "Phân tích hệ vi sinh đường ruột",
+            "Đánh giá chất lượng giấc ngủ",
+            "Đánh giá chuyển hóa dinh dưỡng",
+            "Đánh giá sức khỏe tâm thần"
+          ]
+        }
+      },
+      "cases": {
+        "title": "Câu chuyện khách hàng",
+        "case1": {
+          "narrative": "Ông Chen, 55 tuổi, CEO của một công ty niêm yết. Khám sức khỏe thường quy không phát hiện bất thường, nhưng tầm soát chính xác của Sanare đã phát hiện nốt vi thể phổi giai đoạn sớm. Sau hội chẩn đa chuyên khoa, can thiệp kịp thời đã ngăn ngừa nguy cơ tiềm ẩn.",
+          "serviceType": "Kiểm tra chính xác · Gói nâng cao"
+        }
+      },
+      "cta": "Thiết kế phương án khám của tôi"
+    },
+    "antiAging": {
+      "title": "Thẩm mỹ chống lão hóa",
+      "intro": "Trẻ hóa từ bên trong, thiết kế riêng cho bạn",
+      "introDetail": "Dịch vụ thẩm mỹ chống lão hóa của Sanare kết hợp y học tái tạo tiên tiến với trí tuệ y học cổ truyền Trung Hoa. Thay vì theo đuổi phiên bản 'trẻ hơn' rập khuôn, chúng tôi thiết kế phương án chống lão hóa toàn diện dựa trên tình trạng da, chức năng cơ thể và mục tiêu cá nhân của từng khách hàng.",
+      "serviceFlow": {
+        "title": "Quy trình dịch vụ",
+        "steps": [
+          "Đánh giá toàn diện da và chức năng cơ thể",
+          "Thiết kế phương án chống lão hóa một-đối-một với chuyên gia",
+          "Thực hiện thủ thuật thẩm mỹ (laser, tiêm, y học tái tạo, v.v.)",
+          "Điều hòa thể chất theo y học cổ truyền và kế hoạch dinh dưỡng",
+          "Theo dõi sau điều trị và quản lý chống lão hóa dài hạn"
+        ]
+      },
+      "targetAudience": {
+        "title": "Đối tượng phù hợp",
+        "items": [
+          "Phụ nữ trên 35 tuổi quan tâm đến trẻ hóa da và cơ thể",
+          "Cá nhân có giá trị tài sản ròng cao muốn cải thiện dấu hiệu lão hóa rõ rệt",
+          "Người theo đuổi kết quả chống lão hóa tự nhiên, lành mạnh",
+          "Khách hàng quan tâm kết hợp thẩm mỹ y khoa với y học cổ truyền",
+          "Bất kỳ ai có nhu cầu quản lý chống lão hóa dài hạn"
+        ]
+      },
+      "cases": {
+        "title": "Câu chuyện khách hàng",
+        "case1": {
+          "narrative": "Bà Liu, 48 tuổi, luật sư nổi tiếng. Áp lực công việc khiến da mặt chảy xệ và mệt mỏi rõ rệt. Sanare thiết kế chương trình nghỉ dưỡng chống lão hóa hai tuần kết hợp Thermage, tiêm dưỡng ẩm và liệu pháp kinh lạc y học cổ truyền. Bạn bè nói bà trẻ hơn mười tuổi.",
+          "serviceType": "Thẩm mỹ chống lão hóa · Phương án toàn diện"
+        }
+      },
+      "cta": "Thiết kế phương án chống lão hóa của tôi"
+    },
+    "rehabilitation": {
+      "title": "Nghỉ dưỡng phục hồi",
+      "intro": "Đẩy nhanh phục hồi trong ánh nắng Tam Á",
+      "introDetail": "Khí hậu nhiệt đới đặc biệt và môi trường tự nhiên của Tam Á là điểm đến lý tưởng cho phục hồi sau phẫu thuật và điều trị bệnh mãn tính. Sanare tích hợp nguồn lực y tế phục hồi hàng đầu của Tam Á để tạo nên trải nghiệm phục hồi chuyên nghiệp, thoải mái và cá nhân hóa.",
+      "serviceFlow": {
+        "title": "Quy trình dịch vụ",
+        "steps": [
+          "Đánh giá từ xa bởi chuyên gia y học phục hồi",
+          "Xây dựng kế hoạch phục hồi cá nhân hóa",
+          "Sắp xếp cơ sở phục hồi và chỗ ở tại Tam Á",
+          "Đội ngũ phục hồi chuyên nghiệp hướng dẫn toàn thời gian",
+          "Đánh giá tiến độ định kỳ và điều chỉnh phương án"
+        ]
+      },
+      "targetAudience": {
+        "title": "Đối tượng phù hợp",
+        "items": [
+          "Bệnh nhân sau phẫu thuật chỉnh hình cần phục hồi chức năng",
+          "Phục hồi sau phẫu thuật tim mạch và mạch máu não",
+          "Bệnh nhân đau mãn tính và bệnh khớp",
+          "Nhu cầu phục hồi bệnh lý thần kinh",
+          "Người cao tuổi mong muốn phục hồi trong môi trường ấm áp"
+        ]
+      },
+      "cases": {
+        "title": "Câu chuyện khách hàng",
+        "case1": {
+          "narrative": "Ông Zhao, 63 tuổi, giáo sư nghỉ hưu. Quá trình phục hồi sau thay khớp háng diễn ra chậm trong khí hậu lạnh miền Bắc. Sanare sắp xếp chương trình nghỉ dưỡng phục hồi một tháng tại Tam Á, nơi thời tiết ấm áp kết hợp với đào tạo chuyên nghiệp mang lại kết quả đáng kể.",
+          "serviceType": "Nghỉ dưỡng phục hồi · Phục hồi chỉnh hình"
+        }
+      },
+      "cta": "Thiết kế phương án phục hồi của tôi"
+    },
+    "escort": {
+      "title": "Hỗ trợ y tế đồng hành",
+      "intro": "Tự tin trong hành trình khám chữa bệnh",
+      "introDetail": "Đối mặt với hệ thống y tế phức tạp tại thành phố xa lạ có thể khiến bạn choáng ngợp. Dịch vụ hỗ trợ y tế đồng hành của Sanare phối hợp nguồn lực chuyên khoa hàng đầu và đồng hành toàn hành trình, để bạn hoàn toàn tập trung vào việc điều trị.",
+      "serviceFlow": {
+        "title": "Quy trình dịch vụ",
+        "steps": [
+          "Tìm hiểu tình trạng bệnh và kết nối nguồn lực chuyên khoa phù hợp nhất",
+          "Phối hợp lịch hẹn và sắp xếp thời gian khám chuyên gia",
+          "Sắp xếp phương tiện di chuyển, chỗ ở và hậu cần",
+          "Đồng hành toàn bộ quá trình khám với hỗ trợ giao tiếp bác sĩ-bệnh nhân",
+          "Tổ chức hồ sơ y tế và xây dựng kế hoạch theo dõi"
+        ]
+      },
+      "targetAudience": {
+        "title": "Đối tượng phù hợp",
+        "items": [
+          "Bệnh nhân ngoại tỉnh cần khám chữa bệnh tại Tam Á hoặc Hải Nam",
+          "Người muốn được tư vấn bởi chuyên gia hàng đầu",
+          "Người Hoa hải ngoại không quen thuộc với hệ thống y tế địa phương",
+          "Trường hợp phức tạp cần hội chẩn đa chuyên khoa",
+          "Cá nhân có giá trị tài sản ròng cao mong muốn trải nghiệm y tế VIP"
+        ]
+      },
+      "cases": {
+        "title": "Câu chuyện khách hàng",
+        "case1": {
+          "narrative": "Bà Sun, 50 tuổi, từ Singapore về nước khám bệnh. Bà cần phẫu thuật nhân tuyến giáp nhưng hoàn toàn không quen thuộc với quy trình y tế tại Trung Quốc. Sanare cung cấp dịch vụ đồng hành toàn diện từ đặt lịch chuyên gia đến theo dõi sau phẫu thuật, khiến bà cảm thấy như ở nhà.",
+          "serviceType": "Hỗ trợ y tế đồng hành · Phẫu thuật tuyến giáp"
+        }
+      },
+      "cta": "Đặt lịch dịch vụ đồng hành"
+    }
+  },
+  "about": {
+    "story": {
+      "overline": "Câu chuyện của chúng tôi",
+      "headline": "Sanare — Khởi nguồn từ sự kính trọng đối với sức khỏe",
+      "body": "Sanare được thành lập tại Tam Á, tên gọi lấy cảm hứng từ triết lý Trung Hoa 'một lá, một hạt — sinh trưởng tự nhiên.' Chúng tôi tin rằng sức khỏe không phải là một bản báo cáo khám sức khỏe duy nhất, mà là hành trình xứng đáng được đồng hành tận tâm.",
+      "bodyDetail": "Ngay từ đầu, Sanare đã kiên trì triết lý 'một người, một phương án', từ chối mô hình du lịch y tế theo dây chuyền. Chúng tôi bám rễ sâu vào nguồn lực y tế và tự nhiên đặc biệt của Tam Á, hợp tác với các cơ sở hàng đầu bao gồm Bệnh viện Quân đội Nhân dân Giải phóng Chi nhánh Hải Nam (301 Hải Nam), cam kết mang đến dịch vụ quản lý sức khỏe thực sự cá nhân hóa cho mỗi khách hàng."
+    },
+    "team": {
+      "overline": "Đội ngũ của chúng tôi",
+      "headline": "Đối tác sức khỏe đáng tin cậy",
+      "member1": {
+        "name": "BS. Chen Mingyuan",
+        "title": "Cố vấn y khoa trưởng",
+        "description": "Nguyên bác sĩ điều trị tại Bệnh viện Quân đội Nhân dân Giải phóng với 30 năm kinh nghiệm lâm sàng, chuyên về thiết kế phương án khám sức khỏe chính xác và phối hợp hội chẩn đa chuyên khoa."
+      },
+      "member2": {
+        "name": "BS. Lin Yaqi",
+        "title": "Giám đốc Thẩm mỹ chống lão hóa",
+        "description": "Tiến sĩ y khoa tại Nhật Bản, 15 năm tập trung vào y học tái tạo và phương pháp chống lão hóa kết hợp, theo đuổi kết quả trẻ hóa tự nhiên và lành mạnh."
+      },
+      "member3": {
+        "name": "Wang Haitao",
+        "title": "Tư vấn du lịch cao cấp",
+        "description": "10 năm kinh nghiệm du lịch sang trọng theo yêu cầu, thông thạo tiếng Trung, tiếng Anh và tiếng Nhật, đảm bảo hành trình y tế tại Tam Á của mỗi khách hàng thoải mái và an tâm."
+      }
+    },
+    "advantages": {
+      "overline": "Ưu thế của chúng tôi",
+      "headline": "Tại sao chọn Sanare",
+      "items": [
+        "Một người, một phương án — không có gói dịch vụ tiêu chuẩn hóa",
+        "Hợp tác sâu rộng với các cơ sở y tế hàng đầu bao gồm Bệnh viện 301 Hải Nam",
+        "Đồng hành cá nhân chuyên trách với dịch vụ song ngữ",
+        "Môi trường chữa lành tự nhiên đặc biệt của Tam Á",
+        "Quản lý sức khỏe toàn diện từ tầm soát đến phục hồi",
+        "Bảo vệ quyền riêng tư nghiêm ngặt và tiêu chuẩn dịch vụ VIP"
+      ]
+    },
+    "partners": {
+      "overline": "Mạng lưới của chúng tôi",
+      "headline": "Mạng lưới y tế và dịch vụ mạnh mẽ",
+      "hospitals": "Hợp tác kênh ưu tiên với các bệnh viện hàng đầu bao gồm Bệnh viện Quân đội Nhân dân Giải phóng Chi nhánh Hải Nam (301 Hải Nam) và Bệnh viện Trung tâm Tam Á, bao phủ các khoa tim mạch, ung bướu, chỉnh hình, thần kinh và các chuyên khoa trọng điểm khác.",
+      "wellness": "Tiếp cận tích hợp các trung tâm phục hồi hàng đầu Tam Á, cơ sở y học cổ truyền và phòng khám thẩm mỹ y khoa cho dịch vụ quản lý sức khỏe trọn gói.",
+      "hotels": "Hợp tác với các khách sạn năm sao bao gồm Atlantis Tam Á và Khu nghỉ dưỡng Haitang Bay Mangrove Tree, đảm bảo khách hàng tận hưởng trải nghiệm nghỉ dưỡng cao cấp bên cạnh hành trình y tế."
+    }
+  },
+  "questionnaire": {
+    "title": "Bảng câu hỏi khám sức khỏe",
+    "subtitle": "Vui lòng điền thông tin bên dưới theo tình trạng thực tế của bạn. Cố vấn sức khỏe của chúng tôi sẽ liên hệ bạn trong vòng 24 giờ để thiết kế phương án cá nhân hóa.",
+    "sections": {
+      "personal": "Thông tin cá nhân",
+      "medical": "Tiền sử bệnh & gia đình",
+      "appointment": "Thông tin đặt lịch"
+    },
+    "fields": {
+      "name": {
+        "label": "Họ và tên",
+        "placeholder": "Nhập họ và tên của bạn",
+        "error": "Vui lòng nhập họ tên"
+      },
+      "gender": {
+        "label": "Giới tính",
+        "options": ["Nam", "Nữ"]
+      },
+      "birthDate": {
+        "label": "Ngày sinh",
+        "placeholder": "VD: 1980-01-01"
+      },
+      "phone": {
+        "label": "Số điện thoại",
+        "placeholder": "Nhập số điện thoại của bạn",
+        "error": "Vui lòng nhập số điện thoại"
+      },
+      "nationality": {
+        "label": "Quốc tịch",
+        "placeholder": "VD: Việt Nam"
+      },
+      "ethnicity": {
+        "label": "Dân tộc",
+        "placeholder": "VD: Kinh"
+      },
+      "idType": {
+        "label": "Loại giấy tờ tùy thân",
+        "options": ["Chứng minh nhân dân", "Hộ chiếu", "Giấy thông hành HK/Macau", "Giấy thông hành Đài Loan", "Thẻ thường trú nước ngoài", "Khác"]
+      },
+      "idNumber": {
+        "label": "Số giấy tờ tùy thân",
+        "placeholder": "Nhập số giấy tờ tùy thân"
+      },
+      "education": {
+        "label": "Trình độ học vấn",
+        "options": ["Sau đại học trở lên", "Đại học/Cao đẳng", "Trung cấp/Nghề", "Trung học phổ thông", "Trung học cơ sở", "Tiểu học trở xuống"]
+      },
+      "maritalStatus": {
+        "label": "Tình trạng hôn nhân",
+        "options": ["Độc thân", "Đã kết hôn", "Góa", "Ly hôn", "Khác"]
+      },
+      "occupation": {
+        "label": "Nghề nghiệp",
+        "placeholder": "Nhập nghề nghiệp của bạn"
+      },
+      "address": {
+        "label": "Địa chỉ thường trú",
+        "placeholder": "Tỉnh / Thành phố / Quận huyện"
+      },
+      "medicalHistory": {
+        "label": "Tiền sử bệnh",
+        "options": ["Có", "Không"],
+        "diseases": ["Tiểu đường", "Tăng huyết áp", "Rối loạn lipid máu", "Bệnh mạch vành", "Bệnh mạch máu não", "Bệnh phổi tắc nghẽn mãn tính", "Bệnh thận mãn tính", "Tăng acid uric máu/Gout", "Khối u ác tính", "Khác"]
+      },
+      "familyHistory": {
+        "label": "Tiền sử gia đình (cha mẹ, con cái, anh chị em)",
+        "options": ["Có", "Không"]
+      },
+      "allergyHistory": {
+        "label": "Tiền sử dị ứng",
+        "options": ["Không", "Có"],
+        "placeholder": "Mô tả tình trạng dị ứng của bạn"
+      },
+      "surgeryHistory": {
+        "label": "Tiền sử phẫu thuật",
+        "options": ["Không", "Có"],
+        "placeholder": "Mô tả các ca phẫu thuật của bạn"
+      },
+      "appointmentDate": {
+        "label": "Ngày khám mong muốn",
+        "placeholder": "Chọn ngày"
+      },
+      "appointmentTime": {
+        "label": "Giờ khám mong muốn",
+        "placeholder": "Chọn khung giờ",
+        "options": ["Sáng 08:00-09:00", "Sáng 09:00-10:00", "Sáng 10:00-11:00", "Chiều 14:00-15:00", "Chiều 15:00-16:00", "Chiều 16:00-17:00"]
+      },
+      "medicalProject": {
+        "label": "Dịch vụ quan tâm",
+        "placeholder": "Chọn hoặc mô tả dịch vụ bạn quan tâm",
+        "error": "Vui lòng chọn dịch vụ quan tâm",
+        "options": ["Kiểm tra sức khỏe chính xác", "Thẩm mỹ chống lão hóa", "Nghỉ dưỡng phục hồi", "Hỗ trợ y tế đồng hành", "Hành trình chăm sóc sức khỏe"]
+      },
+      "specialNeeds": {
+        "label": "Yêu cầu đặc biệt",
+        "placeholder": "Mô tả nhu cầu đặc biệt hoặc mối quan tâm của bạn (không bắt buộc)"
+      }
+    },
+    "submit": "Gửi biểu mẫu",
+    "modal": {
+      "title": "Gửi thành công",
+      "message": "Cảm ơn sự tin tưởng của bạn! Cố vấn sức khỏe của chúng tôi sẽ liên hệ bạn trong vòng 24 giờ để thiết kế phương án sức khỏe cá nhân hóa.",
+      "close": "Đóng"
+    }
+  },
+  "experience": {
+    "subnav": {
+      "wellness": "Chăm sóc sức khỏe",
+      "journey": "Hành trình",
+      "culture": "Văn hóa"
+    },
+    "wellness": {
+      "overline": "Chăm sóc sức khỏe",
+      "headline": "Thiên nhiên là liều thuốc,",
+      "headlineItalic": "Tam Á là thánh đường.",
+      "description": "Giữa bờ biển nhiệt đới và núi rừng xanh tươi của Tam Á, Sanare tích hợp chăm sóc y tế hàng đầu, y học cổ truyền Trung Hoa và thực hành thân-tâm thành hành trình chăm sóc sức khỏe sâu sắc.",
+      "physical": {
+        "title": "Sức sống thể chất",
+        "image": "/image/wellness-physical-main.jpg",
+        "description": "Nâng cao sự tự tin thông qua kiểm tra sức khỏe chính xác, tối ưu hóa chức năng cơ thể và cải thiện hiệu suất sức khỏe."
+      },
+      "mind": {
+        "title": "An yên tâm trí",
+        "image": "/image/wellness-main-mind.jpg",
+        "description": "Tìm lại sự cân bằng nội tại thông qua vật lý trị liệu y học cổ truyền và nghỉ dưỡng phục hồi — trạng thái an yên tâm trí và hài hòa cảm xúc."
+      },
+      "soul": {
+        "title": "Thăng hoa tâm linh",
+        "image": "/image/wellness-main-sprit.jpg",
+        "description": "Khám phá niềm tin, nguyên tắc và giá trị mang lại ý nghĩa và mục đích sống."
+      },
+      "tijian": {
+        "overline": "Khám sức khỏe",
+        "title": "Khám sức khỏe chính xác",
+        "image": "/image/wellness/体检.jpg",
+        "description": "Xây dựng nền tảng sức khỏe vững chắc thông qua xét nghiệm y khoa chuyên nghiệp, phân tích chính xác tín hiệu cơ thể, tối ưu hóa chức năng từ bên trong, đạt được sức sống thể chất và năng lượng sống.",
+        "price": "$6000 up"
+      },
+      "wellnessPartnersTitle": "Đối tác sức khỏe",
+      "wellnessPartnersDescription": "Trải dọc bờ biển nhiệt đới Tam Á, mở ra cánh cửa đổi mới toàn diện và bắt rễ trong tinh hoa chữa lành của thánh đường ven biển này. Dù là khám phá bí mật sức khỏe qua tầm soát y tế chính xác giữa gió biển hay tìm kiếm sự cân bằng nội tại trong liệu pháp y học cổ truyền kết hợp nghi thức suối khoáng, hành trình sức khỏe Tam Á vượt xa sự trẻ hóa thể chất đơn thuần để nuôi dưỡng thân, tâm và hồn hợp nhất.",
+      "wellnessPartners": [
+        {
+          "title": "Bệnh viện 301 Hải Nam",
+          "image": "/image/wellness/301.jpg",
+          "description": "Bệnh viện 301, cùng với các trung tâm nghiên cứu y khoa trực thuộc, đã phát triển chương trình toàn diện tập trung vào chăm sóc sức khỏe chính xác và nâng cao tuổi thọ."
+        },
+        {
+          "title": "Bệnh viện Y học cổ truyền Tam Á",
+          "image": "/image/wellness/三亚中医院.jpg",
+          "description": "Tập trung vào trí tuệ y học cổ truyền Trung Hoa và sự hài hòa toàn diện thân-tâm-hồn, với chương trình toàn diện lấy phòng bệnh và chữa lành tự nhiên làm trọng tâm."
+        },
+        {
+          "title": "Bệnh viện Siêu cấp Bác Ngao",
+          "image": "/image/wellness/博鳌超级医院.png",
+          "description": "Tập trung vào đổi mới y tế toàn cầu và tích hợp chăm sóc sức khỏe xuyên biên giới, với khả năng tiếp cận sớm các phương pháp điều trị đột phá và chăm sóc chính xác cá nhân hóa."
+        },
+        {
+          "title": "Bệnh viện Thành phố Khoa học Công nghệ Vịnh Nhai Châu",
+          "image": "/image/wellness/崖州湾医院.jpg",
+          "description": "Được đồng xây dựng bởi Chính quyền Thành phố Tam Á và Bệnh viện Nhân Tế trực thuộc Đại học Y khoa Giao thông Thượng Hải, là bệnh viện đa khoa công lập hạng A tích hợp chăm sóc y tế, giáo dục, nghiên cứu, phòng bệnh và bảo vệ sức khỏe."
+        }
+      ],
+      "eventTitle": "Nghỉ dưỡng & Trải nghiệm chăm sóc sức khỏe",
+      "eventDescription": "Embark on a journey of self-discovery with curated wellness programmes centred in serene surrounds.",
+      "events": [
+        {
+          "overline": "Liệu pháp kinh lạc",
+          "title": "Châm cứu",
+          "image": "/image/wellness/针灸.jpg",
+          "description": "Phương pháp cổ xưa sử dụng kim mảnh châm vào các huyệt đạo kinh lạc chính xác để phục hồi dòng năng lượng tự nhiên của cơ thể. Trải nghiệm nghệ thuật 2.500 năm tuổi này giảm đau, giải tỏa căng thẳng và tái cân bằng khí huyết.",
+          "price": "$100 up"
+        },
+        {
+          "overline": "Liệu pháp ôn nhiệt",
+          "title": "Cứu ngải",
+          "image": "/image/wellness/艾灸1.jpg",
+          "description": "Hơi ấm dịu nhẹ từ ngải cứu đốt tác động gần các huyệt đạo để kích thích tuần hoàn và trừ hàn. Nghi thức chữa lành sâu sắc tăng cường miễn dịch thông qua nhiệt thơm.",
+          "price": "$150 up"
+        },
+        {
+          "overline": "Ẩm thực dược liệu",
+          "title": "Dược thiện",
+          "image": "/image/wellness/药材.jpg",
+          "description": "Nghệ thuật chữa lành qua ẩm thực — nguyên liệu theo mùa kết hợp bài thuốc thảo dược để nuôi dưỡng từ bên trong. Mỗi món ăn được chuyên gia dinh dưỡng y học cổ truyền chế biến theo thể chất cá nhân.",
+          "price": "$200 up"
+        },
+        {
+          "overline": "Liệu pháp giác hơi",
+          "title": "Giác hơi",
+          "image": "/image/wellness/拔罐.jpg",
+          "description": "Liệu pháp ngoại trị cổ truyền Trung Hoa sử dụng cốc hút trên da để thông kinh lạc, thúc đẩy tuần hoàn máu, trừ hàn thấp và giảm mệt mỏi cơ bắp cùng đau nhức.",
+          "price": "$50 up"
+        }
+      ]
+    },
+    "journey": {
+      "overline": "Hành trình",
+      "headline": "Xa hoa tại Tam Á,",
+      "headlineItalic": "vượt xa chân trời.",
+      "description": "Từ khách sạn sang trọng đẳng cấp thế giới đến kỳ quan thiên nhiên ngoạn mục, Sanare dệt nên hành trình Tam Á vượt xa trí tưởng tượng.",
+      "stayTitle": "Dẫn lối bởi tinh thần Sanare",
+      "stayDescription": "Bắt rễ tại mỗi điểm đến, Sanare kết nối linh hồn sâu thẳm của từng vùng đất. Dù ở bất cứ đâu trên thế giới, cảm giác thân thuộc, tò mò và thuộc về được tìm thấy qua không gian vật lý, dịch vụ chân thành và trải nghiệm được định hình bởi văn hóa bản địa.",
+      "stays": [
+        {
+          "name": "The Sanya EDITION",
+          "logo": "/image/journey/edition.avif",
+          "description": "Nơi thiết kế tiên phong gặp gỡ thẩm mỹ đỉnh cao, tái định nghĩa trải nghiệm lưu trú sang trọng tại Tam Á."
+        },
+        {
+          "name": "JW Marriott Sanya",
+          "logo": "/image/journey/JWMarriott.svg",
+          "description": "Sự thanh lịch cổ điển hòa quyện với quyến rũ nhiệt đới — sự kết hợp hoàn hảo giữa tĩnh lặng và xa hoa tại Vịnh Hải Đường."
+        },
+        {
+          "name": "Atlantis Sanya",
+          "logo": "/image/journey/亚特兰蒂斯.png",
+          "description": "Thế giới kỳ ảo chủ đề đại dương kết hợp lưu trú sang trọng, công viên nước và thủy cung trong một."
+        },
+        {
+          "name": "Rosewood Sanya",
+          "logo": "/image/journey/保利瑰丽.png",
+          "description": "Đẳng cấp siêu sang từ Rosewood, sở hữu tầm nhìn biển tuyệt đẹp tại Vịnh Hải Đường."
+        },
+        {
+          "name": "Capella Sanya",
+          "logo": "/image/journey/嘉佩乐.webp",
+          "description": "Đẳng cấp siêu sang từ Rosewood, sở hữu tầm nhìn biển tuyệt đẹp tại Vịnh Hải Đường."
+        }
+      ],
+      "activitiesTitle": "Tam Á",
+      "activitiesDescription": "Tam Á không chỉ có biển xanh trời trong — nơi đây còn lưu giữ di sản độc đáo của người Lê và Miêu, ẩm thực đảo đích thực và lối sống ven biển thư thái. Tại đây, cảm nhận hơi ấm cuộc sống giữa núi và biển, trải nghiệm cuộc sống chậm kiểu Tam Á độc nhất vô nhị.",
+      "activities": [
+        {
+          "name": "Di sản bản địa",
+          "image": "/image/journey/lizu.jpg",
+          "description": "Văn hóa Lê và Miêu hàng thế kỷ — dệt thổ cẩm, múa sào tre, phong tục làng chài — trải nghiệm truyền thống dân tộc đích thực nhất của Tam Á."
+        },
+        {
+          "name": "Giải trí & Nghỉ dưỡng",
+          "image": "/image/journey/haitangwan.jpg",
+          "description": "Dạo bước trên bãi biển, du thuyền ra khơi, đi bộ rừng mưa, cắm trại ven biển — khám phá những trải nghiệm nghỉ dưỡng đa dạng và thư giãn của Tam Á."
+        },
+        {
+          "name": "Ẩm thực đảo",
+          "image": "/image/journey/meishi.jpg",
+          "description": "Hải sản tươi sống, Thanh bổ lương, gà dừa, bún Bảo La — hương vị Tam Á nơi mỗi miếng ăn đều mang hương vị biển cả."
+        }
+      ],
+      "destinationsOverline": "Hành trình tiêu biểu",
+      "exploreTitle": "Kỳ quan ẩn giấu",
+      "destinations": [
+        {
+          "name": "Đảo Ngô Chi Châu",
+          "image": "/image/journey/meishi.jpg",
+          "description": "Được mệnh danh là Maldives của Trung Quốc, với làn nước trong vắt và bãi cát trắng, kết hợp thể thao dưới nước và phong cảnh đảo — thiên đường nhiệt đới và điểm nghỉ dưỡng không thể bỏ qua tại Tam Á."
+        },
+        {
+          "name": "Trung tâm miễn thuế",
+          "image": "/image/journey/meishi.jpg",
+          "description": "Trung tâm mua sắm miễn thuế quy mô lớn hàng đầu châu Á, quy tụ các thương hiệu xa xỉ toàn cầu về mỹ phẩm, túi xách và đồng hồ — tận hưởng mua sắm miễn thuế trọn gói bên cạnh kỳ nghỉ."
+        },
+        {
+          "name": "Atlantis",
+          "image": "/image/journey/meishi.jpg",
+          "description": "Khu nghỉ dưỡng biểu tượng chủ đề đại dương của Tam Á, với Thủy cung The Lost Chambers, công viên nước ly kỳ và lưu trú sang trọng — điểm đến trọn gói cho cả gia đình."
+        }
+      ]
+    },
+    "culture": {
+      "overline": "Văn hóa",
+      "headline": "Rung động từ kết nối",
+      "headlineItalic": "Trí tuệ cổ xưa, chữa lành hiện đại.",
+      "description": "Kết nối với hàng thế kỷ truyền thống chữa lành Trung Hoa và đánh thức tâm hồn. Bắt đầu hành trình văn hóa đến những nơi vượt thời gian, nơi mỗi cuộc gặp gỡ chạm đến tâm hồn.",
+      "heroDescription": "Hành trình tâm hồn qua nghệ thuật cổ xưa của y học Trung Hoa, cuộc khám phá triết lý cân bằng và hài hòa. Đây là những trải nghiệm định hình tinh thần Sanare và những kết nối mang sức mạnh chuyển hóa.",
+      "retreatsOverline": "Nghỉ dưỡng & Trải nghiệm văn hóa",
+      "practices": [
+        {
+          "overline": "Liệu pháp kinh lạc",
+          "title": "Châm cứu",
+          "description": "Phương pháp cổ xưa sử dụng kim mảnh châm vào các huyệt đạo kinh lạc chính xác để phục hồi dòng năng lượng tự nhiên của cơ thể. Trong không gian trị liệu tĩnh lặng tại Tam Á, trải nghiệm nghệ thuật 2.500 năm tuổi này giảm đau, giải tỏa căng thẳng và tái cân bằng khí huyết."
+        },
+        {
+          "overline": "Liệu pháp ôn nhiệt",
+          "title": "Cứu ngải",
+          "description": "Hơi ấm dịu nhẹ từ ngải cứu đốt tác động gần các huyệt đạo để kích thích tuần hoàn và trừ hàn. Nghi thức chữa lành sâu sắc tăng cường miễn dịch và nuôi dưỡng dương khí cơ thể thông qua nhiệt thơm."
+        },
+        {
+          "overline": "Trị liệu thủ công",
+          "title": "Xoa bóp Tui Na",
+          "description": "Kỹ thuật xoa bóp trị liệu Trung Hoa sử dụng ấn, nhào và kéo giãn nhịp nhàng dọc theo kinh lạc cơ thể. Không chỉ là thư giãn — Tui Na điều trị các bệnh lý cơ xương khớp, cải thiện tuần hoàn và phục hồi cân bằng cấu trúc."
+        },
+        {
+          "overline": "Ẩm thực dược liệu",
+          "title": "Dược thiện",
+          "description": "Nghệ thuật chữa lành qua ẩm thực — nguyên liệu theo mùa kết hợp bài thuốc thảo dược để nuôi dưỡng từ bên trong. Mỗi món ăn được chuyên gia dinh dưỡng y học cổ truyền chế biến theo thể chất cá nhân, biến mỗi bữa ăn thành liều thuốc dịu nhẹ."
+        },
+        {
+          "overline": "Vận động cổ truyền",
+          "title": "Nghệ thuật dưỡng sinh cổ điển",
+          "description": "Thái Cực Quyền, Khí Công và Bát Đoạn Cẩm — các phương pháp vận động lâu đời tu dưỡng nội khí, cải thiện sự linh hoạt và tĩnh lặng tâm trí. Tập luyện lúc bình minh bên Biển Đông, những nghệ thuật này kết nối hơi thở, thân thể và tâm hồn."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "brandDescription": "Sanare — Đối tác hành trình sức khỏe cá nhân của bạn. Bắt rễ tại Tam Á, kết nối bạn với nguồn lực y tế đẳng cấp thế giới. Kiểm tra sức khỏe chính xác, thẩm mỹ chống lão hóa, nghỉ dưỡng phục hồi và dịch vụ hỗ trợ y tế đồng hành dành cho những cá nhân tinh tế.",
+    "navTitle": "Liên kết nhanh",
+    "contactTitle": "Liên hệ chúng tôi",
+    "contact": {
+      "email": "info@sanare-sanya.com",
+      "phone": "+86 898 8888 8888"
+    }
+  },
+  "floatingCta": {
+    "label": "Tư vấn miễn phí"
+  },
+  "checkupDetail": {
+    "overline": "Kiểm tra sức khỏe chính xác",
+    "title": "Chương trình khám sức khỏe",
+    "description": "Từ khám sức khỏe hàng năm cơ bản đến tầm soát chuyên khoa chuyên sâu — chương trình khám sức khỏe ba cấp độ tiến triển để bảo vệ toàn diện sức khỏe của bạn.",
+    "tiers": [
+      {
+        "color": "#4A5E3B",
+        "label": "Cơ bản (Khám hàng năm bắt buộc, Nền tảng cốt lõi)",
+        "categories": [
+          {
+            "title": "I. Khám chuyên khoa (Đánh giá thể chất cơ bản)",
+            "items": [
+              "Tổng quát: Huyết áp, mạch, chiều cao, cân nặng, BMI, tỷ lệ vòng eo, tiền sử bệnh, tiền sử gia đình, lối sống",
+              "Nội khoa: Tiền sử dị ứng, nghe tim, sờ bụng",
+              "Ngoại khoa: Tiền sử phẫu thuật, da, hạch bạch huyết, tuyến giáp, thành ngực, cột sống cổ, vận động khớp chi",
+              "Tai mũi họng: Tai ngoài, khoang mũi, hầu họng, vòm họng, thanh quản, tai giữa",
+              "Nha khoa: Răng, khuyết tật răng, chân răng/mão răng còn sót, nha chu, niêm mạc miệng, lưỡi",
+              "Nhãn khoa: Khám đáy mắt, mi mắt, kết mạc, đồng tử, dịch kính, thủy tinh thể, mống mắt, củng mạc, thị lực",
+              "Vật tư lấy máu: Ống lấy máu chân không dùng một lần"
+            ]
+          },
+          {
+            "title": "II. Xét nghiệm (Sinh hóa cơ bản + Tầm soát thường quy)",
+            "items": [
+              "Công thức máu toàn phần: Hồng cầu, hematocrit, MCV, RDW, hemoglobin, bạch cầu phân loại, tiểu cầu",
+              "Tổng phân tích nước tiểu: Ngoại quan, tỷ trọng, pH, nitrit, protein, glucose, ketone, bilirubin, v.v.",
+              "Xét nghiệm phân: Máu ẩn, bạch cầu, màu sắc, trứng ký sinh trùng",
+              "Đông máu cơ bản: PT, APTT, TT, FIB",
+              "Chức năng thận cơ bản: Acid uric, ure, creatinine",
+              "Chức năng gan cơ bản: Protein toàn phần, albumin, ALT, AST, bilirubin toàn phần/trực tiếp",
+              "Tầm soát bệnh truyền nhiễm: HBsAg, kháng thể HCV, RPR giang mai, kháng thể HIV",
+              "Nhóm máu: ABO / RH(D)"
+            ]
+          },
+          {
+            "title": "III. Thăm dò chức năng (Đánh giá chức năng cơ bản)",
+            "items": [
+              "Điện tâm đồ 12 chuyển đạo",
+              "Phân tích thành phần cơ thể: Mỡ cơ thể, cơ xương, mỡ nội tạng, tỷ lệ chuyển hóa cơ bản",
+              "Xét nghiệm hơi thở C13 H. pylori"
+            ]
+          }
+        ]
+      },
+      {
+        "color": "#C8A951",
+        "label": "Nâng cao (Tầm soát nguy cơ bệnh mãn tính / Ung thư / Tuyến giáp)",
+        "categories": [
+          {
+            "title": "I. Khám chuyên khoa (Tầm soát nâng cao)",
+            "items": [
+              "Chụp ảnh đáy mắt: Hình ảnh võng mạc (tầm soát bệnh đáy mắt / biến chứng bệnh mãn tính)"
+            ]
+          },
+          {
+            "title": "II. Xét nghiệm (Bệnh mãn tính / Ung thư / Tuyến giáp / Thiếu máu)",
+            "items": [
+              "Công thức máu nâng cao: Hồng cầu lưới",
+              "Nước tiểu nâng cao: Tỷ lệ microalbumin/creatinine (tổn thương thận sớm)",
+              "Đông máu nâng cao: PA, INR",
+              "Nguy cơ huyết khối: D-dimer",
+              "Chức năng gan nâng cao: ALP, GGT, acid mật toàn phần",
+              "Điện giải: Ca, K, Mg, Na, Cl, phospho vô cơ",
+              "Nguy cơ tim mạch: Homocysteine, hs-CRP",
+              "Dấu ấn tim: Troponin T, CK, CK-MB",
+              "Chuyển hóa sắt: Sắt huyết thanh, TIBC, UIBC",
+              "Bộ lipid máu (7 chỉ số): TC, LDL-C, HDL-C, TG, ApoA1, ApoB, Lp(a)",
+              "Đường huyết/Chuyển hóa: Đường huyết lúc đói, HbA1c, insulin lúc đói + C-peptide",
+              "Bộ thiếu máu: Vitamin B12, folate, ferritin, transferrin",
+              "Dấu ấn ung thư: AFP, CEA, T-PSA/f-PSA, CYFRA211, NSE, CA19-9, CA125",
+              "Chức năng tuyến giáp (5 chỉ số): TT3, TT4, FT3, FT4, TSH",
+              "Tầm soát thấp khớp: RF + ASO",
+              "Cystatin C huyết thanh (chức năng thận nâng cao)"
+            ]
+          },
+          {
+            "title": "III. Thăm dò chức năng (Theo dõi nâng cao)",
+            "items": [
+              "Holter điện tâm đồ (theo dõi tim 24 giờ)",
+              "Huyết áp lưu động (theo dõi huyết áp 24 giờ)"
+            ]
+          }
+        ]
+      },
+      {
+        "color": "#C0392B",
+        "label": "Cao cấp (Chuyên sâu đặc biệt, Cao cấp / Đối tượng đặc thù)",
+        "categories": [
+          {
+            "title": "I. Xét nghiệm (Chuyên sâu / Miễn dịch / Nội tiết / Di truyền)",
+            "items": [
+              "Dấu ấn tim nâng cao: NT-proBNP (suy tim), LDH",
+              "Dấu ấn ung thư chuyên sâu: ProGRP, CA72-4, CA15-3, SCCA",
+              "Tự miễn tuyến giáp (bổ sung): ATG, ATPO, TRAB",
+              "Bộ chuyển hóa xương: 25-OH Vitamin D3, PTH nguyên vẹn, P1NP, osteocalcin, calcitonin",
+              "Bộ immunoglobulin + bổ thể: IgG/A/M/E, chuỗi nhẹ KAP/LAM, C3/C4, prealbumin, β2-microglobulin",
+              "Bộ hormone sinh dục (7 chỉ số): Progesterone, estradiol, prolactin, LH, FSH, testosterone, SHBG",
+              "Bộ tự kháng thể (14 chỉ số) — tầm soát toàn diện bệnh tự miễn",
+              "Bộ dị ứng nguyên (20 chỉ số) — xác định chính xác nguyên nhân dị ứng",
+              "Xét nghiệm gen dược lý tăng huyết áp — hướng dẫn dùng thuốc cá nhân hóa"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
