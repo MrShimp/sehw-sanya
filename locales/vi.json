@@ -75,17 +75,17 @@
       "description": "Sanare tích hợp chăm sóc y tế cao cấp, nghỉ dưỡng chăm sóc sức khỏe chuyên sâu và thực hành tâm linh thành trải nghiệm sức khỏe toàn diện vượt xa khám sức khỏe thông thường.",
       "physical": {
         "title": "Sức sống thể chất",
-        "image": "/image/wellness-physical-main.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
         "description": "Nâng cao sự tự tin thông qua kiểm tra sức khỏe chính xác, tối ưu hóa chức năng cơ thể và cải thiện hiệu suất sức khỏe."
       },
       "mind": {
         "title": "An yên tâm trí",
-        "image": "/image/wellness-main-mind.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
         "description": "Tìm lại sự cân bằng nội tại thông qua vật lý trị liệu y học cổ truyền và nghỉ dưỡng phục hồi — trạng thái an yên tâm trí và hài hòa cảm xúc."
       },
       "soul": {
         "title": "Thăng hoa tâm linh",
-        "image": "/image/wellness-main-sprit.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
         "description": "Khám phá niềm tin, nguyên tắc và giá trị mang lại ý nghĩa và mục đích sống."
       }
     },
@@ -444,23 +444,23 @@
       "description": "Giữa bờ biển nhiệt đới và núi rừng xanh tươi của Tam Á, Sanare tích hợp chăm sóc y tế hàng đầu, y học cổ truyền Trung Hoa và thực hành thân-tâm thành hành trình chăm sóc sức khỏe sâu sắc.",
       "physical": {
         "title": "Sức sống thể chất",
-        "image": "/image/wellness-physical-main.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
         "description": "Nâng cao sự tự tin thông qua kiểm tra sức khỏe chính xác, tối ưu hóa chức năng cơ thể và cải thiện hiệu suất sức khỏe."
       },
       "mind": {
         "title": "An yên tâm trí",
-        "image": "/image/wellness-main-mind.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
         "description": "Tìm lại sự cân bằng nội tại thông qua vật lý trị liệu y học cổ truyền và nghỉ dưỡng phục hồi — trạng thái an yên tâm trí và hài hòa cảm xúc."
       },
       "soul": {
         "title": "Thăng hoa tâm linh",
-        "image": "/image/wellness-main-sprit.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
         "description": "Khám phá niềm tin, nguyên tắc và giá trị mang lại ý nghĩa và mục đích sống."
       },
       "tijian": {
         "overline": "Khám sức khỏe",
         "title": "Khám sức khỏe chính xác",
-        "image": "/image/wellness/体检.jpg",
+        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/体检.jpg",
         "description": "Xây dựng nền tảng sức khỏe vững chắc thông qua xét nghiệm y khoa chuyên nghiệp, phân tích chính xác tín hiệu cơ thể, tối ưu hóa chức năng từ bên trong, đạt được sức sống thể chất và năng lượng sống.",
         "price": "$6000 up"
       },
@@ -469,22 +469,22 @@
       "wellnessPartners": [
         {
           "title": "Bệnh viện 301 Hải Nam",
-          "image": "/image/wellness/301.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/301.jpg",
           "description": "Bệnh viện 301, cùng với các trung tâm nghiên cứu y khoa trực thuộc, đã phát triển chương trình toàn diện tập trung vào chăm sóc sức khỏe chính xác và nâng cao tuổi thọ."
         },
         {
           "title": "Bệnh viện Y học cổ truyền Tam Á",
-          "image": "/image/wellness/三亚中医院.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/三亚中医院.jpg",
           "description": "Tập trung vào trí tuệ y học cổ truyền Trung Hoa và sự hài hòa toàn diện thân-tâm-hồn, với chương trình toàn diện lấy phòng bệnh và chữa lành tự nhiên làm trọng tâm."
         },
         {
           "title": "Bệnh viện Siêu cấp Bác Ngao",
-          "image": "/image/wellness/博鳌超级医院.png",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/博鳌超级医院.png",
           "description": "Tập trung vào đổi mới y tế toàn cầu và tích hợp chăm sóc sức khỏe xuyên biên giới, với khả năng tiếp cận sớm các phương pháp điều trị đột phá và chăm sóc chính xác cá nhân hóa."
         },
         {
           "title": "Bệnh viện Thành phố Khoa học Công nghệ Vịnh Nhai Châu",
-          "image": "/image/wellness/崖州湾医院.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/崖州湾医院.jpg",
           "description": "Được đồng xây dựng bởi Chính quyền Thành phố Tam Á và Bệnh viện Nhân Tế trực thuộc Đại học Y khoa Giao thông Thượng Hải, là bệnh viện đa khoa công lập hạng A tích hợp chăm sóc y tế, giáo dục, nghiên cứu, phòng bệnh và bảo vệ sức khỏe."
         }
       ],
@@ -494,28 +494,28 @@
         {
           "overline": "Liệu pháp kinh lạc",
           "title": "Châm cứu",
-          "image": "/image/wellness/针灸.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/针灸.jpg",
           "description": "Phương pháp cổ xưa sử dụng kim mảnh châm vào các huyệt đạo kinh lạc chính xác để phục hồi dòng năng lượng tự nhiên của cơ thể. Trải nghiệm nghệ thuật 2.500 năm tuổi này giảm đau, giải tỏa căng thẳng và tái cân bằng khí huyết.",
           "price": "$100 up"
         },
         {
           "overline": "Liệu pháp ôn nhiệt",
           "title": "Cứu ngải",
-          "image": "/image/wellness/艾灸1.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/艾灸1.jpg",
           "description": "Hơi ấm dịu nhẹ từ ngải cứu đốt tác động gần các huyệt đạo để kích thích tuần hoàn và trừ hàn. Nghi thức chữa lành sâu sắc tăng cường miễn dịch thông qua nhiệt thơm.",
           "price": "$150 up"
         },
         {
           "overline": "Ẩm thực dược liệu",
           "title": "Dược thiện",
-          "image": "/image/wellness/药材.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/药材.jpg",
           "description": "Nghệ thuật chữa lành qua ẩm thực — nguyên liệu theo mùa kết hợp bài thuốc thảo dược để nuôi dưỡng từ bên trong. Mỗi món ăn được chuyên gia dinh dưỡng y học cổ truyền chế biến theo thể chất cá nhân.",
           "price": "$200 up"
         },
         {
           "overline": "Liệu pháp giác hơi",
           "title": "Giác hơi",
-          "image": "/image/wellness/拔罐.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/拔罐.jpg",
           "description": "Liệu pháp ngoại trị cổ truyền Trung Hoa sử dụng cốc hút trên da để thông kinh lạc, thúc đẩy tuần hoàn máu, trừ hàn thấp và giảm mệt mỏi cơ bắp cùng đau nhức.",
           "price": "$50 up"
         }
@@ -531,27 +531,27 @@
       "stays": [
         {
           "name": "The Sanya EDITION",
-          "logo": "/image/journey/edition.avif",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/edition.avif",
           "description": "Nơi thiết kế tiên phong gặp gỡ thẩm mỹ đỉnh cao, tái định nghĩa trải nghiệm lưu trú sang trọng tại Tam Á."
         },
         {
           "name": "JW Marriott Sanya",
-          "logo": "/image/journey/JWMarriott.svg",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/JWMarriott.svg",
           "description": "Sự thanh lịch cổ điển hòa quyện với quyến rũ nhiệt đới — sự kết hợp hoàn hảo giữa tĩnh lặng và xa hoa tại Vịnh Hải Đường."
         },
         {
           "name": "Atlantis Sanya",
-          "logo": "/image/journey/亚特兰蒂斯.png",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/亚特兰蒂斯.png",
           "description": "Thế giới kỳ ảo chủ đề đại dương kết hợp lưu trú sang trọng, công viên nước và thủy cung trong một."
         },
         {
           "name": "Rosewood Sanya",
-          "logo": "/image/journey/保利瑰丽.png",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/保利瑰丽.png",
           "description": "Đẳng cấp siêu sang từ Rosewood, sở hữu tầm nhìn biển tuyệt đẹp tại Vịnh Hải Đường."
         },
         {
           "name": "Capella Sanya",
-          "logo": "/image/journey/嘉佩乐.webp",
+          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/嘉佩乐.webp",
           "description": "Đẳng cấp siêu sang từ Rosewood, sở hữu tầm nhìn biển tuyệt đẹp tại Vịnh Hải Đường."
         }
       ],
@@ -560,17 +560,17 @@
       "activities": [
         {
           "name": "Di sản bản địa",
-          "image": "/image/journey/lizu.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/lizu.jpg",
           "description": "Văn hóa Lê và Miêu hàng thế kỷ — dệt thổ cẩm, múa sào tre, phong tục làng chài — trải nghiệm truyền thống dân tộc đích thực nhất của Tam Á."
         },
         {
           "name": "Giải trí & Nghỉ dưỡng",
-          "image": "/image/journey/haitangwan.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/haitangwan.jpg",
           "description": "Dạo bước trên bãi biển, du thuyền ra khơi, đi bộ rừng mưa, cắm trại ven biển — khám phá những trải nghiệm nghỉ dưỡng đa dạng và thư giãn của Tam Á."
         },
         {
           "name": "Ẩm thực đảo",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "Hải sản tươi sống, Thanh bổ lương, gà dừa, bún Bảo La — hương vị Tam Á nơi mỗi miếng ăn đều mang hương vị biển cả."
         }
       ],
@@ -579,17 +579,17 @@
       "destinations": [
         {
           "name": "Đảo Ngô Chi Châu",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "Được mệnh danh là Maldives của Trung Quốc, với làn nước trong vắt và bãi cát trắng, kết hợp thể thao dưới nước và phong cảnh đảo — thiên đường nhiệt đới và điểm nghỉ dưỡng không thể bỏ qua tại Tam Á."
         },
         {
           "name": "Trung tâm miễn thuế",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "Trung tâm mua sắm miễn thuế quy mô lớn hàng đầu châu Á, quy tụ các thương hiệu xa xỉ toàn cầu về mỹ phẩm, túi xách và đồng hồ — tận hưởng mua sắm miễn thuế trọn gói bên cạnh kỳ nghỉ."
         },
         {
           "name": "Atlantis",
-          "image": "/image/journey/meishi.jpg",
+          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
           "description": "Khu nghỉ dưỡng biểu tượng chủ đề đại dương của Tam Á, với Thủy cung The Lost Chambers, công viên nước ly kỳ và lưu trú sang trọng — điểm đến trọn gói cho cả gia đình."
         }
       ]
