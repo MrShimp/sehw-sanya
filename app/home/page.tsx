@@ -12,7 +12,7 @@ export default function Home() {
       {/* ===== Hero Section — Full-screen background image ===== */}
       <section className="snap-section hero-fullscreen">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img className="hero-fullscreen-bg" src="/image/main-1.jpg" alt="Sanare Sanya wellness retreat" />
+        <img className="hero-fullscreen-bg" src="http://oss.cchktech.com/health/image/image/main-1.jpg" alt="Sanare Sanya wellness retreat" />
         <div className="hero-fullscreen-overlay" />
         <div className="hero-fullscreen-content">
           <h1 className="hero-fullscreen-headline">
