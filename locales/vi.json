@@ -1,747 +1,683 @@
 {
   "nav": {
-    "home": "Trang chủ",
-    "experience": "Trải nghiệm",
-    "experienceWellness": "Chăm sóc sức khỏe",
-    "experienceJourney": "Hành trình đỉnh cao",
-    "experienceCulture": "Di sản văn hóa",
-    "products": "Dịch vụ",
-    "productsCheckup": "Kiểm tra sức khỏe chính xác",
-    "productsAntiAging": "Thẩm mỹ chống lão hóa",
-    "productsRehabilitation": "Nghỉ dưỡng phục hồi",
-    "productsEscort": "Hỗ trợ y tế đồng hành",
-    "about": "Về chúng tôi",
-    "questionnaire": "Tư vấn"
+    "home": "首頁",
+    "experience": "體驗",
+    "experienceWellness": "康養之源",
+    "experienceJourney": "至臻旅程",
+    "experienceCulture": "文化底蘊",
+    "products": "服務項目",
+    "productsCheckup": "精密體檢",
+    "productsAntiAging": "抗衰醫美",
+    "productsRehabilitation": "康復療養",
+    "productsEscort": "專科陪診",
+    "about": "關於我們",
+    "questionnaire": "需求問卷"
   },
   "home": {
     "hero": {
-      "headline": "Hành trình sức khỏe của bạn,",
-      "headlineItalic": "Sanare. Restare.",
-      "description": "Chúng tôi mang đến dịch vụ tư vấn chăm sóc sức khỏe chuyên biệt 1-đối-1 hàng đầu.",
-      "cta": "Đặt lịch tư vấn"
+      "headline": "您的健康旅程，",
+      "headlineItalic": "療癒身心，回歸本真。",
+      "description": "我們為您提供一站式1對1專屬康養諮詢服務",
+      "cta": "預約諮詢"
     },
     "philosophy": {
-      "overline": "Triết lý của chúng tôi",
-      "headline": "Không phải du lịch y tế đại trà,",
-      "headlineItalic": "mà là đồng hành sức khỏe một-đối-một.",
-      "body": "Sanare tin rằng quản lý sức khỏe đích thực không phải là gói khám sức khỏe theo dây chuyền, mà là phương án được thiết kế riêng sau khi thấu hiểu sâu sắc tình trạng sức khỏe, lối sống và mục tiêu chăm sóc sức khỏe của từng khách hàng.",
-      "detail": "Chúng tôi hợp tác với các cơ sở y tế hàng đầu bao gồm Bệnh viện Quân đội Nhân dân Giải phóng Chi nhánh Hải Nam (301 Hải Nam), kết hợp y học chính xác tiên tiến quốc tế với môi trường chữa lành đặc biệt của Tam Á để cung cấp dịch vụ chăm sóc toàn diện từ tầm soát đến phục hồi."
+      "overline": "品牌理念",
+      "headline": "不是批量化的醫療旅遊，",
+      "headlineItalic": "而是一對一的健康陪伴。",
+      "body": "森納相信，真正的健康管理不是流水線式的體檢套餐，而是深入了解每一位客戶的身體狀況、生活習慣與健康訴求後，量身打造的專屬方案。",
+      "detail": "我們與三亞301醫院等頂級醫療資源深度合作，將國際前沿的精準醫療技術與三亞得天獨厚的療養環境相結合，為您提供從檢查到康復的全程陪伴。"
     },
     "products": {
-      "overline": "Dịch vụ cốt lõi",
-      "headline": "Our Service",
+      "overline": "關於我們",
+      "headline": "About Us",
       "headlineItalic": "",
       "overview": {
-        "block1Title": "Dịch vụ cốt lõi",
-        "block1Body": "Các dịch vụ cốt lõi của chúng tôi đặt tại Tam Á, Hải Nam, Trung Quốc. Chúng tôi thiết kế chương trình chăm sóc sức khỏe cá nhân hóa kết hợp tinh hoa y học cổ truyền Trung Hoa, đi kèm lịch trình Tam Á sang trọng theo yêu cầu. Chuyên viên thiết kế hành trình riêng đồng hành mọi bước, đáp ứng mọi nhu cầu du lịch của bạn.",
+        "block1Title": "",
+        "block1Body": "「森納健康科技」成立於中國海南三亞，專注為國際客戶提供一站式1對1高端定製旅行服務。以奢華度假+高端康養為特色，為國際客戶量身打造三亞尊享行程與中式個性化康養方案。專屬旅行顧問全程跟進，從諮詢、定製、出行到返程，全方位滿足高端出行需求。",
         "block2Title": "",
         "block2Body": "",
-        "serif1": "Đây không phải du lịch y tế đại trà.",
-        "serif2": "Đây là hành trình sức khỏe được xây dựng trên niềm tin, lấy bạn làm trung tâm."
-      },
-      "checkup": {
-        "title": "Kiểm tra sức khỏe chính xác",
-        "description": "Hợp tác với các chuyên gia Bệnh viện 301 Hải Nam để tầm soát chuyên sâu vượt xa khám sức khỏe thông thường — phát hiện sớm, can thiệp kịp thời.",
-        "snapHeadline": "Vượt xa thường quy,",
-        "snapHeadlineItalic": "thấu hiểu sức khỏe chuyên sâu.",
-        "cta": "Khám phá Kiểm tra chính xác"
-      },
-      "antiAging": {
-        "title": "Thẩm mỹ chống lão hóa",
-        "description": "Kết hợp công nghệ chống lão hóa tiên tiến với y học cổ truyền Trung Hoa để trẻ hóa từ bên trong.",
-        "snapHeadline": "Từ bên trong ra ngoài,",
-        "snapHeadlineItalic": "trẻ trung tự nhiên.",
-        "cta": "Khám phá Chống lão hóa"
-      },
-      "rehabilitation": {
-        "title": "Nghỉ dưỡng phục hồi",
-        "description": "Đẩy nhanh quá trình phục hồi sau phẫu thuật và bệnh mãn tính trong khí hậu ấm áp của Tam Á, dưới sự hướng dẫn của y học phục hồi chuyên nghiệp.",
-        "snapHeadline": "Ánh nắng và chuyên môn,",
-        "snapHeadlineItalic": "đẩy nhanh phục hồi.",
-        "cta": "Khám phá Phục hồi chức năng"
-      },
-      "escort": {
-        "title": "Hỗ trợ y tế đồng hành",
-        "description": "Đồng hành y tế toàn hành trình, phối hợp nguồn lực chuyên khoa hàng đầu, giúp việc khám chữa bệnh không còn là gánh nặng.",
-        "snapHeadline": "Đồng hành trọn vẹn,",
-        "snapHeadlineItalic": "không bao giờ đơn độc.",
-        "cta": "Khám phá Hỗ trợ y tế"
+        "serif1": "這不是批量化的醫療旅遊。",
+        "serif2": "這是一段以信任為基礎、以您為中心的健康旅程。"
       }
     },
+
     "pillars": {
-      "overline": "Sanare tập trung vào",
-      "headline": "Thân, tâm và hồn —",
-      "headlineItalic": "trở về sự toàn vẹn.",
-      "description": "Sanare tích hợp chăm sóc y tế cao cấp, nghỉ dưỡng chăm sóc sức khỏe chuyên sâu và thực hành tâm linh thành trải nghiệm sức khỏe toàn diện vượt xa khám sức khỏe thông thường.",
+      "overline": "森納關注的是",
+      "headline": "身心靈三位一體，",
+      "headlineItalic": "回歸健康本源。",
+      "description": "森納以「身·心·靈」三位一體的理念，整合高端醫療、深度康養與精神修行資源，為您打造超越傳統體檢的全維度健康體驗。",
       "physical": {
-        "title": "Sức sống thể chất",
+        "title": "形軀康泰",
         "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
-        "description": "Nâng cao sự tự tin thông qua kiểm tra sức khỏe chính xác, tối ưu hóa chức năng cơ thể và cải thiện hiệu suất sức khỏe."
+        "description": "通過精密體檢、機能調理與健康優化，強健體魄，提升生命活力。"
       },
       "mind": {
-        "title": "An yên tâm trí",
+        "title": "心神安謐",
         "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
-        "description": "Tìm lại sự cân bằng nội tại thông qua vật lý trị liệu y học cổ truyền và nghỉ dưỡng phục hồi — trạng thái an yên tâm trí và hài hòa cảm xúc."
+        "description": "以中醫理療與身心調養實現內在平衡，達到心境安寧、情緒平和的狀態。"
       },
       "soul": {
-        "title": "Thăng hoa tâm linh",
+        "title": "靈性澄明",
         "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
-        "description": "Khám phá niềm tin, nguyên tắc và giá trị mang lại ý nghĩa và mục đích sống."
+        "description": "探尋信仰、理念與價值，明晰生命意義，獲得內心篤定與精神歸宿。"
       }
     },
     "stories": {
-      "headline": "Nhu cầu khác nhau,",
-      "headlineItalic": "cùng một sự chăm sóc tận tâm.",
+      "headline": "不同的需求，",
+      "headlineItalic": "同樣的用心定製。",
       "case1": {
-        "narrative": "Ông Zhang, 52 tuổi, giám đốc điều hành doanh nghiệp. Nhiều năm làm việc áp lực cao khiến ông bỏ qua các tín hiệu của cơ thể. Thông qua kiểm tra chính xác của Sanare, nguy cơ tim mạch được phát hiện sớm và kế hoạch quản lý sức khỏe cá nhân hóa được xây dựng dưới sự hướng dẫn của chuyên gia.",
-        "serviceType": "Kiểm tra sức khỏe chính xác"
+        "narrative": "張先生，52歲，企業高管。長期高壓工作讓他忽視了身體信號。通過森納的精密體檢，及早發現了心血管隱患，並在專家指導下制定了個性化的健康管理方案。",
+        "serviceType": "精密體檢"
       },
       "case2": {
-        "narrative": "Bà Li, 45 tuổi, mong muốn lấy lại sức sống tuổi trẻ bên cạnh sự nghiệp bận rộn. Sanare thiết kế chương trình nghỉ dưỡng chống lão hóa hai tuần kết hợp thẩm mỹ y khoa với y học cổ truyền Trung Hoa, giúp bà hoàn toàn đổi mới.",
-        "serviceType": "Thẩm mỹ chống lão hóa"
+        "narrative": "李女士，45歲，希望在繁忙的事業之餘找回年輕狀態。森納為她定製了為期兩週的抗衰療養計劃，結合醫美技術與中醫調理，讓她由內而外煥然一新。",
+        "serviceType": "抗衰醫美"
       },
       "case3": {
-        "narrative": "Ông Wang, 60 tuổi, cần phục hồi chuyên nghiệp sau phẫu thuật thay khớp gối. Sanare sắp xếp chương trình nghỉ dưỡng phục hồi ba tuần tại Tam Á, nơi khí hậu ấm áp và đội ngũ chuyên gia giúp ông phục hồi nhanh hơn nhiều so với dự kiến.",
-        "serviceType": "Nghỉ dưỡng phục hồi"
+        "narrative": "王先生，60歲，膝關節置換術後需要專業康復。森納安排他在三亞進行為期三週的康復療養，溫暖的氣候與專業的康復團隊讓他恢復速度遠超預期。",
+        "serviceType": "康復療養"
       }
     }
   },
+
   "products": {
     "checkup": {
-      "title": "Kiểm tra sức khỏe chính xác",
-      "intro": "Tầm soát sức khỏe chuyên sâu vượt xa khám sức khỏe thông thường",
-      "introDetail": "Sanare hợp tác với đội ngũ chuyên gia tại Bệnh viện 301 Hải Nam, sử dụng thiết bị và công nghệ chẩn đoán chính xác hàng đầu quốc tế để cung cấp dịch vụ tầm soát vượt xa khám sức khỏe tiêu chuẩn. Chúng tôi không cung cấp gói khám đồng loạt — thay vào đó, chúng tôi thiết kế phương án khám dựa trên độ tuổi, tiền sử bệnh gia đình, lối sống và nhiều yếu tố khác của bạn.",
+      "title": "精密體檢",
+      "intro": "超越常規體檢的深度健康篩查",
+      "introDetail": "森納聯合三亞301醫院專家團隊，運用國際領先的精密檢測設備與技術，為您提供遠超常規體檢的深度篩查服務。我們不做千篇一律的套餐，而是根據您的年齡、家族病史、生活習慣等因素，量身定製檢查方案。",
       "serviceFlow": {
-        "title": "Quy trình dịch vụ",
+        "title": "服務流程",
         "steps": [
-          "Tư vấn trực tiếp một-đối-một với cố vấn sức khỏe để hiểu rõ nền tảng và nhu cầu của bạn",
-          "Đội ngũ chuyên gia thiết kế phương án khám sức khỏe cá nhân hóa",
-          "Tiếp cận VIP với người đồng hành chuyên trách trong suốt quá trình khám",
-          "Hội đồng chuyên gia đa chuyên khoa đánh giá và phân tích kết quả",
-          "Xây dựng kế hoạch quản lý sức khỏe và theo dõi liên tục"
+          "健康顧問一對一溝通，了解您的健康背景與需求",
+          "專家團隊制定個性化體檢方案",
+          "VIP通道，全程專人陪同完成檢查",
+          "多學科專家聯合解讀報告",
+          "制定後續健康管理與隨訪計劃"
         ]
       },
       "targetAudience": {
-        "title": "Đối tượng phù hợp",
+        "title": "適用人群",
         "items": [
-          "Giám đốc điều hành và cá nhân có giá trị tài sản ròng cao trên 40 tuổi",
-          "Người có tiền sử bệnh gia đình cần tầm soát chuyên sâu",
-          "Chuyên gia chịu áp lực cao mãn tính hoặc trong tình trạng sức khỏe kém",
-          "Bất kỳ ai muốn đánh giá sức khỏe toàn diện hàng năm",
-          "Người Hoa hải ngoại về nước khám sức khỏe"
+          "40歲以上企業高管及高淨值人群",
+          "有家族遺傳病史需要深度篩查者",
+          "長期高壓工作、亞健康狀態人群",
+          "希望進行年度深度健康評估者",
+          "海外華人回國體檢需求"
         ]
       },
       "tiers": {
-        "title": "Gói khám sức khỏe",
+        "title": "體檢套餐",
         "basic": {
-          "name": "Gói chính xác cơ bản",
+          "name": "基礎精密套餐",
           "items": [
-            "CT xoắn ốc liều thấp toàn thân",
-            "Siêu âm tim + siêu âm động mạch cảnh",
-            "Bộ xét nghiệm dấu ấn ung thư đầy đủ (12 chỉ số)",
-            "Xét nghiệm chức năng tuyến giáp toàn diện",
-            "Chức năng gan & thận + bộ xét nghiệm lipid máu đầy đủ",
-            "Xét nghiệm H. pylori",
-            "Đo mật độ xương"
+            "全身低劑量螺旋CT",
+            "心臟超聲 + 頸動脈超聲",
+            "腫瘤標誌物全套（12項）",
+            "甲狀腺功能全套",
+            "肝腎功能 + 血脂全套",
+            "幽門螺桿菌檢測",
+            "骨密度檢測"
           ]
         },
         "premium": {
-          "name": "Gói chính xác nâng cao",
+          "name": "進階精密套餐",
           "items": [
-            "Bao gồm tất cả hạng mục Gói cơ bản",
-            "Chụp CT mạch vành (CTA)",
-            "MRI não + MRA",
-            "Nội soi dạ dày & đại tràng không đau",
-            "Xét nghiệm gen (gen nhạy cảm ung thư)",
-            "Đánh giá xơ vữa động mạch",
-            "Đánh giá chức năng miễn dịch"
+            "包含基礎套餐全部項目",
+            "心臟冠脈CTA",
+            "頭顱MRI + MRA",
+            "胃腸鏡檢查（無痛）",
+            "基因檢測（腫瘤易感基因）",
+            "動脈硬化檢測",
+            "免疫功能評估"
           ]
         },
         "comprehensive": {
-          "name": "Gói chính xác toàn diện",
+          "name": "全面精密套餐",
           "items": [
-            "Bao gồm tất cả hạng mục Gói nâng cao",
-            "PET-CT quét toàn thân",
-            "MRI tim",
-            "Giải trình tự toàn bộ hệ gen",
-            "Phân tích hệ vi sinh đường ruột",
-            "Đánh giá chất lượng giấc ngủ",
-            "Đánh giá chuyển hóa dinh dưỡng",
-            "Đánh giá sức khỏe tâm thần"
+            "包含進階套餐全部項目",
+            "PET-CT全身掃描",
+            "心臟磁共振",
+            "全基因組測序",
+            "腸道菌群分析",
+            "睡眠質量評估",
+            "營養代謝評估",
+            "心理健康評估"
           ]
         }
       },
       "cases": {
-        "title": "Câu chuyện khách hàng",
+        "title": "客戶案例",
         "case1": {
-          "narrative": "Ông Chen, 55 tuổi, CEO của một công ty niêm yết. Khám sức khỏe thường quy không phát hiện bất thường, nhưng tầm soát chính xác của Sanare đã phát hiện nốt vi thể phổi giai đoạn sớm. Sau hội chẩn đa chuyên khoa, can thiệp kịp thời đã ngăn ngừa nguy cơ tiềm ẩn.",
-          "serviceType": "Kiểm tra chính xác · Gói nâng cao"
+          "narrative": "陳先生，55歲，某上市公司CEO。常規體檢一切正常，但通過森納的精密體檢發現早期肺部微小結節，經專家會診後及時干預，避免了潛在風險。",
+          "serviceType": "精密體檢 · 進階套餐"
         }
       },
-      "cta": "Thiết kế phương án khám của tôi"
+      "cta": "定製我的體檢方案"
     },
+
     "antiAging": {
-      "title": "Thẩm mỹ chống lão hóa",
-      "intro": "Trẻ hóa từ bên trong, thiết kế riêng cho bạn",
-      "introDetail": "Dịch vụ thẩm mỹ chống lão hóa của Sanare kết hợp y học tái tạo tiên tiến với trí tuệ y học cổ truyền Trung Hoa. Thay vì theo đuổi phiên bản 'trẻ hơn' rập khuôn, chúng tôi thiết kế phương án chống lão hóa toàn diện dựa trên tình trạng da, chức năng cơ thể và mục tiêu cá nhân của từng khách hàng.",
+      "title": "抗衰醫美",
+      "intro": "由內而外的年輕化定製方案",
+      "introDetail": "森納的抗衰醫美服務融合國際前沿的再生醫學技術與傳統中醫調理智慧，不追求千篇一律的「年輕化」，而是根據每位客戶的肌膚狀態、身體機能與個人訴求，制定由內而外的整體抗衰方案。",
       "serviceFlow": {
-        "title": "Quy trình dịch vụ",
+        "title": "服務流程",
         "steps": [
-          "Đánh giá toàn diện da và chức năng cơ thể",
-          "Thiết kế phương án chống lão hóa một-đối-một với chuyên gia",
-          "Thực hiện thủ thuật thẩm mỹ (laser, tiêm, y học tái tạo, v.v.)",
-          "Điều hòa thể chất theo y học cổ truyền và kế hoạch dinh dưỡng",
-          "Theo dõi sau điều trị và quản lý chống lão hóa dài hạn"
+          "皮膚與身體機能全面評估",
+          "抗衰專家一對一方案設計",
+          "醫美項目實施（光電、注射、再生醫學等）",
+          "中醫體質調理與營養方案",
+          "術後跟蹤與長期抗衰管理計劃"
         ]
       },
       "targetAudience": {
-        "title": "Đối tượng phù hợp",
+        "title": "適用人群",
         "items": [
-          "Phụ nữ trên 35 tuổi quan tâm đến trẻ hóa da và cơ thể",
-          "Cá nhân có giá trị tài sản ròng cao muốn cải thiện dấu hiệu lão hóa rõ rệt",
-          "Người theo đuổi kết quả chống lão hóa tự nhiên, lành mạnh",
-          "Khách hàng quan tâm kết hợp thẩm mỹ y khoa với y học cổ truyền",
-          "Bất kỳ ai có nhu cầu quản lý chống lão hóa dài hạn"
+          "35歲以上關注肌膚與身體年輕化的女性",
+          "希望改善面部衰老跡象的高淨值人群",
+          "追求自然、健康抗衰效果者",
+          "希望結合醫美與中醫調理的客戶",
+          "有長期抗衰管理需求的人群"
         ]
       },
       "cases": {
-        "title": "Câu chuyện khách hàng",
+        "title": "客戶案例",
         "case1": {
-          "narrative": "Bà Liu, 48 tuổi, luật sư nổi tiếng. Áp lực công việc khiến da mặt chảy xệ và mệt mỏi rõ rệt. Sanare thiết kế chương trình nghỉ dưỡng chống lão hóa hai tuần kết hợp Thermage, tiêm dưỡng ẩm và liệu pháp kinh lạc y học cổ truyền. Bạn bè nói bà trẻ hơn mười tuổi.",
-          "serviceType": "Thẩm mỹ chống lão hóa · Phương án toàn diện"
+          "narrative": "劉女士，48歲，知名律師。工作壓力導致面部鬆弛與疲態明顯。森納為她定製了兩週的抗衰療養計劃，結合熱瑪吉、水光注射與中醫經絡調理，朋友們都說她年輕了十歲。",
+          "serviceType": "抗衰醫美 · 綜合方案"
         }
       },
-      "cta": "Thiết kế phương án chống lão hóa của tôi"
+      "cta": "定製我的抗衰方案"
     },
+
     "rehabilitation": {
-      "title": "Nghỉ dưỡng phục hồi",
-      "intro": "Đẩy nhanh phục hồi trong ánh nắng Tam Á",
-      "introDetail": "Khí hậu nhiệt đới đặc biệt và môi trường tự nhiên của Tam Á là điểm đến lý tưởng cho phục hồi sau phẫu thuật và điều trị bệnh mãn tính. Sanare tích hợp nguồn lực y tế phục hồi hàng đầu của Tam Á để tạo nên trải nghiệm phục hồi chuyên nghiệp, thoải mái và cá nhân hóa.",
+      "title": "康復療養",
+      "intro": "在三亞的陽光中加速康復",
+      "introDetail": "三亞得天獨厚的熱帶氣候與自然環境，是術後康復與慢病療養的理想之地。森納整合三亞頂級康復醫療資源，為您打造專業、舒適、個性化的康復療養體驗。",
       "serviceFlow": {
-        "title": "Quy trình dịch vụ",
+        "title": "服務流程",
         "steps": [
-          "Đánh giá từ xa bởi chuyên gia y học phục hồi",
-          "Xây dựng kế hoạch phục hồi cá nhân hóa",
-          "Sắp xếp cơ sở phục hồi và chỗ ở tại Tam Á",
-          "Đội ngũ phục hồi chuyên nghiệp hướng dẫn toàn thời gian",
-          "Đánh giá tiến độ định kỳ và điều chỉnh phương án"
+          "康復醫學專家遠程評估病情",
+          "制定個性化康復療養方案",
+          "安排三亞康復機構與住宿",
+          "專業康復團隊全程指導訓練",
+          "定期評估康復進展並調整方案"
         ]
       },
       "targetAudience": {
-        "title": "Đối tượng phù hợp",
+        "title": "適用人群",
         "items": [
-          "Bệnh nhân sau phẫu thuật chỉnh hình cần phục hồi chức năng",
-          "Phục hồi sau phẫu thuật tim mạch và mạch máu não",
-          "Bệnh nhân đau mãn tính và bệnh khớp",
-          "Nhu cầu phục hồi bệnh lý thần kinh",
-          "Người cao tuổi mong muốn phục hồi trong môi trường ấm áp"
+          "骨科手術後需要康復訓練者",
+          "心腦血管疾病術後康復人群",
+          "慢性疼痛與關節疾病患者",
+          "神經系統疾病康復需求者",
+          "希望在溫暖環境中療養的老年人群"
         ]
       },
       "cases": {
-        "title": "Câu chuyện khách hàng",
+        "title": "客戶案例",
         "case1": {
-          "narrative": "Ông Zhao, 63 tuổi, giáo sư nghỉ hưu. Quá trình phục hồi sau thay khớp háng diễn ra chậm trong khí hậu lạnh miền Bắc. Sanare sắp xếp chương trình nghỉ dưỡng phục hồi một tháng tại Tam Á, nơi thời tiết ấm áp kết hợp với đào tạo chuyên nghiệp mang lại kết quả đáng kể.",
-          "serviceType": "Nghỉ dưỡng phục hồi · Phục hồi chỉnh hình"
+          "narrative": "趙先生，63歲，退休教授。髖關節置換術後在北方寒冷環境中康復緩慢。森納安排他來三亞進行為期一個月的康復療養，溫暖的氣候加上專業的康復訓練，恢復效果顯著。",
+          "serviceType": "康復療養 · 骨科康復"
         }
       },
-      "cta": "Thiết kế phương án phục hồi của tôi"
+      "cta": "定製我的康復方案"
     },
+
     "escort": {
-      "title": "Hỗ trợ y tế đồng hành",
-      "intro": "Tự tin trong hành trình khám chữa bệnh",
-      "introDetail": "Đối mặt với hệ thống y tế phức tạp tại thành phố xa lạ có thể khiến bạn choáng ngợp. Dịch vụ hỗ trợ y tế đồng hành của Sanare phối hợp nguồn lực chuyên khoa hàng đầu và đồng hành toàn hành trình, để bạn hoàn toàn tập trung vào việc điều trị.",
+      "title": "專科陪診",
+      "intro": "讓異地就醫不再迷茫",
+      "introDetail": "面對複雜的醫療體系和陌生的城市，異地就醫往往讓人焦慮不安。森納的專科陪診服務為您協調頂級醫療資源，全程陪同就醫，讓您專注於治療本身。",
       "serviceFlow": {
-        "title": "Quy trình dịch vụ",
+        "title": "服務流程",
         "steps": [
-          "Tìm hiểu tình trạng bệnh và kết nối nguồn lực chuyên khoa phù hợp nhất",
-          "Phối hợp lịch hẹn và sắp xếp thời gian khám chuyên gia",
-          "Sắp xếp phương tiện di chuyển, chỗ ở và hậu cần",
-          "Đồng hành toàn bộ quá trình khám với hỗ trợ giao tiếp bác sĩ-bệnh nhân",
-          "Tổ chức hồ sơ y tế và xây dựng kế hoạch theo dõi"
+          "了解病情與就醫需求，匹配最佳專科資源",
+          "協調專家號源與就診時間",
+          "安排交通、住宿等後勤保障",
+          "全程陪同就診，協助醫患溝通",
+          "整理診療資料，制定後續跟蹤計劃"
         ]
       },
       "targetAudience": {
-        "title": "Đối tượng phù hợp",
+        "title": "適用人群",
         "items": [
-          "Bệnh nhân ngoại tỉnh cần khám chữa bệnh tại Tam Á hoặc Hải Nam",
-          "Người muốn được tư vấn bởi chuyên gia hàng đầu",
-          "Người Hoa hải ngoại không quen thuộc với hệ thống y tế địa phương",
-          "Trường hợp phức tạp cần hội chẩn đa chuyên khoa",
-          "Cá nhân có giá trị tài sản ròng cao mong muốn trải nghiệm y tế VIP"
+          "需要到三亞或海南就醫的外地患者",
+          "希望獲得頂級專科專家診療的人群",
+          "語言不通或不熟悉當地醫療體系的海外華人",
+          "需要多學科會診的複雜病例患者",
+          "希望獲得VIP就醫體驗的高淨值人群"
         ]
       },
       "cases": {
-        "title": "Câu chuyện khách hàng",
+        "title": "客戶案例",
         "case1": {
-          "narrative": "Bà Sun, 50 tuổi, từ Singapore về nước khám bệnh. Bà cần phẫu thuật nhân tuyến giáp nhưng hoàn toàn không quen thuộc với quy trình y tế tại Trung Quốc. Sanare cung cấp dịch vụ đồng hành toàn diện từ đặt lịch chuyên gia đến theo dõi sau phẫu thuật, khiến bà cảm thấy như ở nhà.",
-          "serviceType": "Hỗ trợ y tế đồng hành · Phẫu thuật tuyến giáp"
+          "narrative": "孫女士，50歲，從新加坡回國就醫。甲狀腺結節需要手術，但對國內醫療流程完全陌生。森納全程陪診，從專家預約到術後隨訪，讓她感受到了家一般的溫暖。",
+          "serviceType": "專科陪診 · 甲狀腺外科"
         }
       },
-      "cta": "Đặt lịch dịch vụ đồng hành"
+      "cta": "預約陪診服務"
     }
   },
+
   "about": {
     "story": {
-      "overline": "Câu chuyện của chúng tôi",
-      "headline": "Sanare — Khởi nguồn từ sự kính trọng đối với sức khỏe",
-      "body": "Sanare được thành lập tại Tam Á, tên gọi lấy cảm hứng từ triết lý Trung Hoa 'một lá, một hạt — sinh trưởng tự nhiên.' Chúng tôi tin rằng sức khỏe không phải là một bản báo cáo khám sức khỏe duy nhất, mà là hành trình xứng đáng được đồng hành tận tâm.",
-      "bodyDetail": "Ngay từ đầu, Sanare đã kiên trì triết lý 'một người, một phương án', từ chối mô hình du lịch y tế theo dây chuyền. Chúng tôi bám rễ sâu vào nguồn lực y tế và tự nhiên đặc biệt của Tam Á, hợp tác với các cơ sở hàng đầu bao gồm Bệnh viện Quân đội Nhân dân Giải phóng Chi nhánh Hải Nam (301 Hải Nam), cam kết mang đến dịch vụ quản lý sức khỏe thực sự cá nhân hóa cho mỗi khách hàng."
+      "overline": "品牌故事",
+      "headline": "森納，源於對健康的敬畏",
+      "body": "森納創立於三亞，名字取自「一葉森納，自然生長」的理念。我們相信，健康不是一次性的檢查報告，而是一段需要用心陪伴的旅程。",
+      "bodyDetail": "從創立之初，森納便堅持「一人一方案」的服務理念，拒絕流水線式的醫療旅遊模式。我們深耕三亞優質醫療與自然資源，與301醫院海南分院等頂級醫療機構建立深度合作，致力於為每一位客戶提供真正個性化的健康管理服務。"
     },
     "team": {
-      "overline": "Đội ngũ của chúng tôi",
-      "headline": "Đối tác sức khỏe đáng tin cậy",
+      "overline": "專業團隊",
+      "headline": "值得信賴的健康夥伴",
       "member1": {
-        "name": "BS. Chen Mingyuan",
-        "title": "Cố vấn y khoa trưởng",
-        "description": "Nguyên bác sĩ điều trị tại Bệnh viện Quân đội Nhân dân Giải phóng với 30 năm kinh nghiệm lâm sàng, chuyên về thiết kế phương án khám sức khỏe chính xác và phối hợp hội chẩn đa chuyên khoa."
+        "name": "陳明遠",
+        "title": "首席醫療顧問",
+        "description": "原301醫院主任醫師，30年臨床經驗，擅長精密體檢方案設計與多學科會診協調。"
       },
       "member2": {
-        "name": "BS. Lin Yaqi",
-        "title": "Giám đốc Thẩm mỹ chống lão hóa",
-        "description": "Tiến sĩ y khoa tại Nhật Bản, 15 năm tập trung vào y học tái tạo và phương pháp chống lão hóa kết hợp, theo đuổi kết quả trẻ hóa tự nhiên và lành mạnh."
+        "name": "林雅琪",
+        "title": "抗衰醫美總監",
+        "description": "留日醫學博士，專注再生醫學與中西醫結合抗衰領域15年，追求自然、健康的年輕化效果。"
       },
       "member3": {
-        "name": "Wang Haitao",
-        "title": "Tư vấn du lịch cao cấp",
-        "description": "10 năm kinh nghiệm du lịch sang trọng theo yêu cầu, thông thạo tiếng Trung, tiếng Anh và tiếng Nhật, đảm bảo hành trình y tế tại Tam Á của mỗi khách hàng thoải mái và an tâm."
+        "name": "王海濤",
+        "title": "高端旅行顧問",
+        "description": "10年高端定製旅行經驗，精通中英日三語，確保每位客戶在三亞的醫療旅程舒適無憂。"
       }
     },
     "advantages": {
-      "overline": "Ưu thế của chúng tôi",
-      "headline": "Tại sao chọn Sanare",
+      "overline": "服務優勢",
+      "headline": "為什麼選擇森納",
       "items": [
-        "Một người, một phương án — không có gói dịch vụ tiêu chuẩn hóa",
-        "Hợp tác sâu rộng với các cơ sở y tế hàng đầu bao gồm Bệnh viện 301 Hải Nam",
-        "Đồng hành cá nhân chuyên trách với dịch vụ song ngữ",
-        "Môi trường chữa lành tự nhiên đặc biệt của Tam Á",
-        "Quản lý sức khỏe toàn diện từ tầm soát đến phục hồi",
-        "Bảo vệ quyền riêng tư nghiêm ngặt và tiêu chuẩn dịch vụ VIP"
+        "一人一方案，拒絕標準化套餐",
+        "三亞301醫院等頂級醫療資源深度合作",
+        "全程專人陪同，中英雙語服務",
+        "三亞得天獨厚的療養環境",
+        "從檢查到康復的全鏈條健康管理",
+        "嚴格的隱私保護與VIP服務標準"
       ]
     },
     "partners": {
-      "overline": "Mạng lưới của chúng tôi",
-      "headline": "Mạng lưới y tế và dịch vụ mạnh mẽ",
-      "hospitals": "Hợp tác kênh ưu tiên với các bệnh viện hàng đầu bao gồm Bệnh viện Quân đội Nhân dân Giải phóng Chi nhánh Hải Nam (301 Hải Nam) và Bệnh viện Trung tâm Tam Á, bao phủ các khoa tim mạch, ung bướu, chỉnh hình, thần kinh và các chuyên khoa trọng điểm khác.",
-      "wellness": "Tiếp cận tích hợp các trung tâm phục hồi hàng đầu Tam Á, cơ sở y học cổ truyền và phòng khám thẩm mỹ y khoa cho dịch vụ quản lý sức khỏe trọn gói.",
-      "hotels": "Hợp tác với các khách sạn năm sao bao gồm Atlantis Tam Á và Khu nghỉ dưỡng Haitang Bay Mangrove Tree, đảm bảo khách hàng tận hưởng trải nghiệm nghỉ dưỡng cao cấp bên cạnh hành trình y tế."
+      "overline": "合作資源",
+      "headline": "強大的醫療與服務網絡",
+      "hospitals": "與中國人民解放軍總醫院海南醫院（301海南）、三亞中心醫院等三甲醫院建立綠色通道合作，覆蓋心內科、腫瘤科、骨科、神經科等重點科室。",
+      "wellness": "整合三亞頂級康復中心、中醫養生機構與醫美診所資源，提供一站式健康管理服務。",
+      "hotels": "與三亞亞特蘭蒂斯、海棠灣紅樹林等五星級酒店及高端療養度假村合作，確保客戶在醫療之餘享受舒適的度假體驗。"
     }
   },
+
   "questionnaire": {
-    "title": "Bảng câu hỏi khám sức khỏe",
-    "subtitle": "Vui lòng điền thông tin bên dưới theo tình trạng thực tế của bạn. Cố vấn sức khỏe của chúng tôi sẽ liên hệ bạn trong vòng 24 giờ để thiết kế phương án cá nhân hóa.",
+    "title": "健康體檢自測問卷",
+    "subtitle": "請根據您的實際情況填寫以下信息，我們的健康顧問將在24小時內與您聯繫，為您量身定製專屬方案。",
     "sections": {
-      "personal": "Thông tin cá nhân",
-      "medical": "Tiền sử bệnh & gia đình",
-      "appointment": "Thông tin đặt lịch"
+      "personal": "個人基本信息",
+      "medical": "既往史及家族史",
+      "appointment": "預約信息"
     },
     "fields": {
       "name": {
-        "label": "Họ và tên",
-        "placeholder": "Nhập họ và tên của bạn",
-        "error": "Vui lòng nhập họ tên"
+        "label": "姓名",
+        "placeholder": "請輸入您的姓名",
+        "error": "請輸入姓名"
       },
       "gender": {
-        "label": "Giới tính",
-        "options": ["Nam", "Nữ"]
+        "label": "性別",
+        "options": ["男", "女"]
       },
       "birthDate": {
-        "label": "Ngày sinh",
-        "placeholder": "VD: 1980-01-01"
+        "label": "出生日期",
+        "placeholder": "如：1980-01-01"
       },
       "phone": {
-        "label": "Số điện thoại",
-        "placeholder": "Nhập số điện thoại của bạn",
-        "error": "Vui lòng nhập số điện thoại"
+        "label": "聯繫電話",
+        "placeholder": "請輸入您的聯繫電話",
+        "error": "請輸入聯繫電話"
       },
       "nationality": {
-        "label": "Quốc tịch",
-        "placeholder": "VD: Việt Nam"
+        "label": "國籍",
+        "placeholder": "如：中國"
       },
       "ethnicity": {
-        "label": "Dân tộc",
-        "placeholder": "VD: Kinh"
+        "label": "民族",
+        "placeholder": "如：漢族"
       },
       "idType": {
-        "label": "Loại giấy tờ tùy thân",
-        "options": ["Chứng minh nhân dân", "Hộ chiếu", "Giấy thông hành HK/Macau", "Giấy thông hành Đài Loan", "Thẻ thường trú nước ngoài", "Khác"]
+        "label": "證件類型",
+        "options": ["居民身份證", "護照", "港澳居民來往內地通行證", "台灣居民來往大陸通行證", "外國人永久居住證", "其他"]
       },
       "idNumber": {
-        "label": "Số giấy tờ tùy thân",
-        "placeholder": "Nhập số giấy tờ tùy thân"
+        "label": "證件號碼",
+        "placeholder": "請輸入證件號碼"
       },
       "education": {
-        "label": "Trình độ học vấn",
-        "options": ["Sau đại học trở lên", "Đại học/Cao đẳng", "Trung cấp/Nghề", "Trung học phổ thông", "Trung học cơ sở", "Tiểu học trở xuống"]
+        "label": "受教育程度",
+        "options": ["研究生及以上", "大學本科/專科", "中專/技校", "高中", "初中", "小學及以下"]
       },
       "maritalStatus": {
-        "label": "Tình trạng hôn nhân",
-        "options": ["Độc thân", "Đã kết hôn", "Góa", "Ly hôn", "Khác"]
+        "label": "婚姻狀態",
+        "options": ["未婚", "已婚", "喪偶", "離婚", "其他"]
       },
       "occupation": {
-        "label": "Nghề nghiệp",
-        "placeholder": "Nhập nghề nghiệp của bạn"
+        "label": "職業",
+        "placeholder": "請輸入您的職業"
       },
       "address": {
-        "label": "Địa chỉ thường trú",
-        "placeholder": "Tỉnh / Thành phố / Quận huyện"
+        "label": "家庭常住地址",
+        "placeholder": "省/市/區/縣"
       },
       "medicalHistory": {
-        "label": "Tiền sử bệnh",
-        "options": ["Có", "Không"],
-        "diseases": ["Tiểu đường", "Tăng huyết áp", "Rối loạn lipid máu", "Bệnh mạch vành", "Bệnh mạch máu não", "Bệnh phổi tắc nghẽn mãn tính", "Bệnh thận mãn tính", "Tăng acid uric máu/Gout", "Khối u ác tính", "Khác"]
+        "label": "既往史",
+        "options": ["有", "無"],
+        "diseases": ["糖尿病", "高血壓", "血脂異常", "冠心病", "腦血管病", "慢性阻塞性肺疾病", "慢性腎臟病", "高尿酸血症/痛風", "惡性腫瘤", "其他疾病"]
       },
       "familyHistory": {
-        "label": "Tiền sử gia đình (cha mẹ, con cái, anh chị em)",
-        "options": ["Có", "Không"]
+        "label": "家族史（父母、子女以及兄弟姐妹）",
+        "options": ["有", "無"]
       },
       "allergyHistory": {
-        "label": "Tiền sử dị ứng",
-        "options": ["Không", "Có"],
-        "placeholder": "Mô tả tình trạng dị ứng của bạn"
+        "label": "本人過敏史",
+        "options": ["無", "有"],
+        "placeholder": "請描述過敏情況"
       },
       "surgeryHistory": {
-        "label": "Tiền sử phẫu thuật",
-        "options": ["Không", "Có"],
-        "placeholder": "Mô tả các ca phẫu thuật của bạn"
+        "label": "本人手術史",
+        "options": ["無", "有"],
+        "placeholder": "請描述手術情況"
       },
       "appointmentDate": {
-        "label": "Ngày khám mong muốn",
-        "placeholder": "Chọn ngày"
+        "label": "預約體檢日期",
+        "placeholder": "請選擇日期"
       },
       "appointmentTime": {
-        "label": "Giờ khám mong muốn",
-        "placeholder": "Chọn khung giờ",
-        "options": ["Sáng 08:00-09:00", "Sáng 09:00-10:00", "Sáng 10:00-11:00", "Chiều 14:00-15:00", "Chiều 15:00-16:00", "Chiều 16:00-17:00"]
+        "label": "預約體檢時間",
+        "placeholder": "請選擇時間段",
+        "options": ["上午 08:00-09:00", "上午 09:00-10:00", "上午 10:00-11:00", "下午 14:00-15:00", "下午 15:00-16:00", "下午 16:00-17:00"]
       },
       "medicalProject": {
-        "label": "Dịch vụ quan tâm",
-        "placeholder": "Chọn hoặc mô tả dịch vụ bạn quan tâm",
-        "error": "Vui lòng chọn dịch vụ quan tâm",
-        "options": ["Kiểm tra sức khỏe chính xác", "Thẩm mỹ chống lão hóa", "Nghỉ dưỡng phục hồi", "Hỗ trợ y tế đồng hành", "Hành trình chăm sóc sức khỏe"]
+        "label": "意向醫療項目",
+        "placeholder": "請選擇或輸入您感興趣的服務",
+        "error": "請選擇意向醫療項目",
+        "options": ["精密體檢", "抗衰醫美", "康復療養", "專科陪診", "康養旅程"]
       },
       "specialNeeds": {
-        "label": "Yêu cầu đặc biệt",
-        "placeholder": "Mô tả nhu cầu đặc biệt hoặc mối quan tâm của bạn (không bắt buộc)"
+        "label": "特殊需求",
+        "placeholder": "請描述您的特殊需求或關注點（選填）"
       }
     },
-    "submit": "Gửi biểu mẫu",
+    "submit": "提交問卷",
     "modal": {
-      "title": "Gửi thành công",
-      "message": "Cảm ơn sự tin tưởng của bạn! Cố vấn sức khỏe của chúng tôi sẽ liên hệ bạn trong vòng 24 giờ để thiết kế phương án sức khỏe cá nhân hóa.",
-      "close": "Đóng"
+      "title": "提交成功",
+      "message": "感謝您的信任！我們的健康顧問將在24小時內與您聯繫，為您量身定製專屬健康方案。",
+      "close": "關閉"
     }
   },
+
   "experience": {
     "subnav": {
-      "wellness": "Chăm sóc sức khỏe",
-      "journey": "Hành trình",
-      "culture": "Văn hóa"
+      "wellness": "康養之源",
+      "journey": "至臻旅程",
+      "culture": "文化底蘊"
     },
     "wellness": {
-      "overline": "Chăm sóc sức khỏe",
-      "headline": "Thiên nhiên là liều thuốc,",
-      "headlineItalic": "Tam Á là thánh đường.",
-      "description": "Giữa bờ biển nhiệt đới và núi rừng xanh tươi của Tam Á, Sanare tích hợp chăm sóc y tế hàng đầu, y học cổ truyền Trung Hoa và thực hành thân-tâm thành hành trình chăm sóc sức khỏe sâu sắc.",
-      "physical": {
-        "title": "Sức sống thể chất",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-physical-main.jpg",
-        "description": "Nâng cao sự tự tin thông qua kiểm tra sức khỏe chính xác, tối ưu hóa chức năng cơ thể và cải thiện hiệu suất sức khỏe."
+      "overline": "康養之源",
+      "headline": "以自然為藥，",
+      "headlineItalic": "以三亞為境。",
+      "description": "在三亞的熱帶海岸與山林之間，森納整合頂級醫療、傳統中醫與身心修行資源，為您開啟一段深度康養之旅。",
+      "tijian":{
+          "overline": "體檢",
+          "title":"體檢",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/体检.jpg",
+          "description": "以專業醫學檢測夯實健康根基，精準解讀身體信號，由內而外優化機能，實現形軀康泰與生命活力。",
+          "price": "$6000 起"
       },
-      "mind": {
-        "title": "An yên tâm trí",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-mind.jpg",
-        "description": "Tìm lại sự cân bằng nội tại thông qua vật lý trị liệu y học cổ truyền và nghỉ dưỡng phục hồi — trạng thái an yên tâm trí và hài hòa cảm xúc."
-      },
-      "soul": {
-        "title": "Thăng hoa tâm linh",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness-main-sprit.jpg",
-        "description": "Khám phá niềm tin, nguyên tắc và giá trị mang lại ý nghĩa và mục đích sống."
-      },
-      "tijian": {
-        "overline": "Khám sức khỏe",
-        "title": "Khám sức khỏe chính xác",
-        "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/体检.jpg",
-        "description": "Xây dựng nền tảng sức khỏe vững chắc thông qua xét nghiệm y khoa chuyên nghiệp, phân tích chính xác tín hiệu cơ thể, tối ưu hóa chức năng từ bên trong, đạt được sức sống thể chất và năng lượng sống.",
-        "price": "$6000 up"
-      },
-      "wellnessPartnersTitle": "Đối tác sức khỏe",
-      "wellnessPartnersDescription": "Trải dọc bờ biển nhiệt đới Tam Á, mở ra cánh cửa đổi mới toàn diện và bắt rễ trong tinh hoa chữa lành của thánh đường ven biển này. Dù là khám phá bí mật sức khỏe qua tầm soát y tế chính xác giữa gió biển hay tìm kiếm sự cân bằng nội tại trong liệu pháp y học cổ truyền kết hợp nghi thức suối khoáng, hành trình sức khỏe Tam Á vượt xa sự trẻ hóa thể chất đơn thuần để nuôi dưỡng thân, tâm và hồn hợp nhất.",
+      "wellnessPartnersTitle": "健康夥伴",
+      "wellnessPartnersDescription":"踏遍三亞的熱帶海岸，開啟全方位煥新之門，深植於這座海濱聖地的療癒精髓之中。無論是在海風輕拂下通過精準體檢洞悉健康密碼，還是在融合礦泉療癒的傳統中醫療法裡尋得內心平衡，三亞的康養之旅超越了單純的身體煥新，實現身、心、靈三位一體的全面滋養。",
       "wellnessPartners": [
         {
-          "title": "Bệnh viện 301 Hải Nam",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/301.jpg",
-          "description": "Bệnh viện 301, cùng với các trung tâm nghiên cứu y khoa trực thuộc, đã phát triển chương trình toàn diện tập trung vào chăm sóc sức khỏe chính xác và nâng cao tuổi thọ."
+          "title":"301",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/301.jpg",
+          "description":"從預防篩查到複雜治療，康復後管理到養生指導，通過全譜系尖端醫療技術與整體照護方案，長壽健康計劃踐行醫院提升全民健康韌性與引領醫學創新的長遠願景"
         },
         {
-          "title": "Bệnh viện Y học cổ truyền Tam Á",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/三亚中医院.jpg",
-          "description": "Tập trung vào trí tuệ y học cổ truyền Trung Hoa và sự hài hòa toàn diện thân-tâm-hồn, với chương trình toàn diện lấy phòng bệnh và chữa lành tự nhiên làm trọng tâm."
+          "title":"三亞中醫院",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/三亚中医院.jpg",
+          "description":"聚焦中醫藥智慧與身心靈整體和諧，打造了以治未病與自然療癒為核心的綜合項目。從草藥治療到針灸理療，飲食調理到太極拳 / 氣功等身心修煉，通過傳承千年的中醫理論與現代醫學科學融合，中醫長壽養生計劃踐行醫院傳承創新中醫藥以應對現代健康挑戰的長遠願景"
         },
         {
-          "title": "Bệnh viện Siêu cấp Bác Ngao",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/博鳌超级医院.png",
-          "description": "Tập trung vào đổi mới y tế toàn cầu và tích hợp chăm sóc sức khỏe xuyên biên giới, với khả năng tiếp cận sớm các phương pháp điều trị đột phá và chăm sóc chính xác cá nhân hóa."
+          "title":"博鰲超級醫院",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/博鳌超级医院.png",
+          "description":"聚焦全球醫療創新與跨境健康整合，博鰲超級醫院聯合院士領銜的專家團隊與博鰲樂城國際醫療旅遊先行區，打造了以早期獲取突破性治療與個性化精準照護為核心的綜合項目。從先進診斷到尖端治療，臨床試驗到癒後隨訪，通過獨特的 '1+X' 共享醫院模式與特許藥械準入政策，博鰲前沿健康計劃踐行醫院在中國建立世界級醫療創新樞紐的長遠願景"
         },
         {
-          "title": "Bệnh viện Thành phố Khoa học Công nghệ Vịnh Nhai Châu",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/崖州湾医院.jpg",
-          "description": "Được đồng xây dựng bởi Chính quyền Thành phố Tam Á và Bệnh viện Nhân Tế trực thuộc Đại học Y khoa Giao thông Thượng Hải, là bệnh viện đa khoa công lập hạng A tích hợp chăm sóc y tế, giáo dục, nghiên cứu, phòng bệnh và bảo vệ sức khỏe."
+          "title":"崖州灣科技城醫院",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/崖州湾医院.jpg",
+          "description":"由三亞市政府與上海交通大學醫學院附屬仁濟醫院合作共建，委託仁濟醫院全面運營管理，為三級甲等公立綜合醫院，定位集醫療、教學、科研、預防、保健於一體的現代化醫學中心。"
         }
       ],
-      "eventTitle": "Nghỉ dưỡng & Trải nghiệm chăm sóc sức khỏe",
-      "eventDescription": "Embark on a journey of self-discovery with curated wellness programmes centred in serene surrounds.",
-      "events": [
+
+      "eventTitle":"頤養靜修・深度沉浸之旅",
+      "eventDescription":"Embark on a journey of self-discovery with curated wellness programmes centred in serene surrounds.",
+      "events":[
         {
-          "overline": "Liệu pháp kinh lạc",
-          "title": "Châm cứu",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/针灸.jpg",
-          "description": "Phương pháp cổ xưa sử dụng kim mảnh châm vào các huyệt đạo kinh lạc chính xác để phục hồi dòng năng lượng tự nhiên của cơ thể. Trải nghiệm nghệ thuật 2.500 năm tuổi này giảm đau, giải tỏa căng thẳng và tái cân bằng khí huyết.",
-          "price": "$100 up"
+          "overline": "經絡療法",
+          "title":"針灸",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/针灸.jpg",
+          "description": "在精準的經絡穴位上施以細針，恢復身體自然的能量流動。在三亞寧靜的診療環境中，體驗這門2500年古老藝術如何緩解疼痛、釋放壓力、重新平衡體內氣機。",
+          "price": "$100 起"
         },
         {
-          "overline": "Liệu pháp ôn nhiệt",
-          "title": "Cứu ngải",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/艾灸1.jpg",
-          "description": "Hơi ấm dịu nhẹ từ ngải cứu đốt tác động gần các huyệt đạo để kích thích tuần hoàn và trừ hàn. Nghi thức chữa lành sâu sắc tăng cường miễn dịch thông qua nhiệt thơm.",
-          "price": "$150 up"
+          "overline": "溫熱療法",
+          "title":"艾灸",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/艾灸1.jpg",
+          "description": "以燃燒的艾草溫和地作用於穴位附近，促進氣血循環、驅散寒邪。一種深層舒適的療癒儀式，通過芳香的熱力增強免疫力，溫養身體的陽氣。",
+          "price": "$150 起"
         },
         {
-          "overline": "Ẩm thực dược liệu",
-          "title": "Dược thiện",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/药材.jpg",
-          "description": "Nghệ thuật chữa lành qua ẩm thực — nguyên liệu theo mùa kết hợp bài thuốc thảo dược để nuôi dưỡng từ bên trong. Mỗi món ăn được chuyên gia dinh dưỡng y học cổ truyền chế biến theo thể chất cá nhân.",
-          "price": "$200 up"
+          "overline": "食療養生",
+          "title":"藥膳",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/药材.jpg",
+          "description": "以食為藥的療癒藝術——時令食材搭配草藥方劑，由內而外滋養身心。每一道菜品均由中醫營養師根據個人體質精心調配，讓每一餐都成為溫和的良藥。",
+          "price": "$200 起"
         },
         {
-          "overline": "Liệu pháp giác hơi",
-          "title": "Giác hơi",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/拔罐.jpg",
-          "description": "Liệu pháp ngoại trị cổ truyền Trung Hoa sử dụng cốc hút trên da để thông kinh lạc, thúc đẩy tuần hoàn máu, trừ hàn thấp và giảm mệt mỏi cơ bắp cùng đau nhức.",
-          "price": "$50 up"
+          "overline": "拔罐治療",
+          "title":"拔罐治療",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/wellness/拔罐.jpg",
+          "description": "拔罐（Cupping）是中醫外治法，通過罐具形成負壓吸附於皮膚，疏通經絡、活血化瘀、散寒祛濕、緩解肌肉疲勞與疼痛，常用於風寒濕痹、頸肩腰腿痛、感冒等調理",
+          "price": "$50 起"
         }
       ]
     },
+
     "journey": {
-      "overline": "Hành trình",
-      "headline": "Xa hoa tại Tam Á,",
-      "headlineItalic": "vượt xa chân trời.",
-      "description": "Từ khách sạn sang trọng đẳng cấp thế giới đến kỳ quan thiên nhiên ngoạn mục, Sanare dệt nên hành trình Tam Á vượt xa trí tưởng tượng.",
-      "stayTitle": "Dẫn lối bởi tinh thần Sanare",
-      "stayDescription": "Bắt rễ tại mỗi điểm đến, Sanare kết nối linh hồn sâu thẳm của từng vùng đất. Dù ở bất cứ đâu trên thế giới, cảm giác thân thuộc, tò mò và thuộc về được tìm thấy qua không gian vật lý, dịch vụ chân thành và trải nghiệm được định hình bởi văn hóa bản địa.",
+      "overline": "至臻旅程",
+      "headline": "奢享三亞，",
+      "headlineItalic": "不止於風景。",
+      "description": "從世界級奢華酒店到絕美自然秘境，森納為您編織一段超越想象的三亞旅程。",
+      "stayTitle": "森納之道",
+      "stayDescription": "扎根於每一處目的地的靈魂深處，森納以在地文化為紐帶，通過精心營造的空間、真誠的服務與獨特的體驗，讓每一位旅者都能感受到親密、好奇與歸屬。",
       "stays": [
         {
-          "name": "The Sanya EDITION",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/edition.avif",
-          "description": "Nơi thiết kế tiên phong gặp gỡ thẩm mỹ đỉnh cao, tái định nghĩa trải nghiệm lưu trú sang trọng tại Tam Á."
+          "name": "三亞艾迪遜酒店",
+          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/edition.avif",
+          "description": "前衛設計與極致美學的碰撞，重新定義三亞奢華住宿體驗。"
         },
         {
-          "name": "JW Marriott Sanya",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/JWMarriott.svg",
-          "description": "Sự thanh lịch cổ điển hòa quyện với quyến rũ nhiệt đới — sự kết hợp hoàn hảo giữa tĩnh lặng và xa hoa tại Vịnh Hải Đường."
+          "name": "三亞JW萬豪酒店",
+          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/JWMarriott.svg",
+          "description": "經典優雅與熱帶風情的完美融合，盡享海棠灣的寧靜與奢華。"
         },
         {
-          "name": "Atlantis Sanya",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/亚特兰蒂斯.png",
-          "description": "Thế giới kỳ ảo chủ đề đại dương kết hợp lưu trú sang trọng, công viên nước và thủy cung trong một."
+          "name": "三亞亞特蘭蒂斯",
+          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/亚特兰蒂斯.png",
+          "description": "海洋主題的奇幻世界，集奢華住宿、水上樂園與海洋館於一體。"
         },
         {
-          "name": "Rosewood Sanya",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/保利瑰丽.png",
-          "description": "Đẳng cấp siêu sang từ Rosewood, sở hữu tầm nhìn biển tuyệt đẹp tại Vịnh Hải Đường."
+          "name": "三亞保利瑰麗酒店",
+          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/保利瑰丽.png",
+          "description": "瑰麗品牌的極致奢華，坐擁海棠灣絕美海景。"
         },
         {
-          "name": "Capella Sanya",
-          "logo": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/嘉佩乐.webp",
-          "description": "Đẳng cấp siêu sang từ Rosewood, sở hữu tầm nhìn biển tuyệt đẹp tại Vịnh Hải Đường."
+          "name": "三亞嘉佩樂酒店",
+          "logo":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/嘉佩乐.webp",
+          "description": "瑰麗品牌的極致奢華，坐擁海棠灣絕美海景。"
         }
       ],
-      "activitiesTitle": "Tam Á",
-      "activitiesDescription": "Tam Á không chỉ có biển xanh trời trong — nơi đây còn lưu giữ di sản độc đáo của người Lê và Miêu, ẩm thực đảo đích thực và lối sống ven biển thư thái. Tại đây, cảm nhận hơi ấm cuộc sống giữa núi và biển, trải nghiệm cuộc sống chậm kiểu Tam Á độc nhất vô nhị.",
+      "activitiesTitle": "三亞",
+      "activitiesDescription": "三亞不止有碧海藍天，更蘊藏著獨特的黎苗人文、地道海島美食與愜意的休閒生活。在這裡，感受山海間的煙火氣息，體驗獨一無二的三亞式慢生活。",
       "activities": [
         {
-          "name": "Di sản bản địa",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/lizu.jpg",
-          "description": "Văn hóa Lê và Miêu hàng thế kỷ — dệt thổ cẩm, múa sào tre, phong tục làng chài — trải nghiệm truyền thống dân tộc đích thực nhất của Tam Á."
+          "name": "本土人文",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/lizu.jpg",
+          "description": "傳承千年的黎苗文化，織錦、竹竿舞、漁家習俗，感受三亞最淳樸的民族風情。"
         },
         {
-          "name": "Giải trí & Nghỉ dưỡng",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/haitangwan.jpg",
-          "description": "Dạo bước trên bãi biển, du thuyền ra khơi, đi bộ rừng mưa, cắm trại ven biển — khám phá những trải nghiệm nghỉ dưỡng đa dạng và thư giãn của Tam Á."
+          "name": "休閒娛樂",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/haitangwan.jpg",
+          "description": "沙灘漫步、遊艇出海、雨林徒步、海邊露營，解鎖三亞多元化的愜意度假方式。"
         },
         {
-          "name": "Ẩm thực đảo",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
-          "description": "Hải sản tươi sống, Thanh bổ lương, gà dừa, bún Bảo La — hương vị Tam Á nơi mỗi miếng ăn đều mang hương vị biển cả."
+          "name": "海島美食",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
+          "description": "新鮮海鮮、清補涼、椰子雞、抱羅粉，舌尖上的三亞，每一口都是大海的味道。"
         }
       ],
-      "destinationsOverline": "Hành trình tiêu biểu",
-      "exploreTitle": "Kỳ quan ẩn giấu",
+      "destinationsOverline": "精選旅程",
+      "exploreTitle": "絕美秘境",
       "destinations": [
         {
-          "name": "Đảo Ngô Chi Châu",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
-          "description": "Được mệnh danh là Maldives của Trung Quốc, với làn nước trong vắt và bãi cát trắng, kết hợp thể thao dưới nước và phong cảnh đảo — thiên đường nhiệt đới và điểm nghỉ dưỡng không thể bỏ qua tại Tam Á."
+          "name": "蜈支洲島",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
+          "description": "被譽為中國版馬爾代夫，碧海白沙清澈見底，水上運動與海島風光兼具，是三亞必打卡的熱帶秘境與度假天堂。"
         },
         {
-          "name": "Trung tâm miễn thuế",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
-          "description": "Trung tâm mua sắm miễn thuế quy mô lớn hàng đầu châu Á, quy tụ các thương hiệu xa xỉ toàn cầu về mỹ phẩm, túi xách và đồng hồ — tận hưởng mua sắm miễn thuế trọn gói bên cạnh kỳ nghỉ."
+          "name": "免稅城",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
+          "description": "亞洲頂尖大型免稅購物中心，匯集全球大牌美妝、箱包、腕錶，一站式盡享免稅購物優惠，度假購物兩不誤。"
         },
         {
-          "name": "Atlantis",
-          "image": "https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
-          "description": "Khu nghỉ dưỡng biểu tượng chủ đề đại dương của Tam Á, với Thủy cung The Lost Chambers, công viên nước ly kỳ và lưu trú sang trọng — điểm đến trọn gói cho cả gia đình."
-        }
-      ]
-    },
-    "culture": {
-      "overline": "Văn hóa",
-      "headline": "Rung động từ kết nối",
-      "headlineItalic": "Trí tuệ cổ xưa, chữa lành hiện đại.",
-      "description": "Kết nối với hàng thế kỷ truyền thống chữa lành Trung Hoa và đánh thức tâm hồn. Bắt đầu hành trình văn hóa đến những nơi vượt thời gian, nơi mỗi cuộc gặp gỡ chạm đến tâm hồn.",
-      "heroDescription": "Hành trình tâm hồn qua nghệ thuật cổ xưa của y học Trung Hoa, cuộc khám phá triết lý cân bằng và hài hòa. Đây là những trải nghiệm định hình tinh thần Sanare và những kết nối mang sức mạnh chuyển hóa.",
-      "retreatsOverline": "Nghỉ dưỡng & Trải nghiệm văn hóa",
-      "practices": [
-        {
-          "overline": "Liệu pháp kinh lạc",
-          "title": "Châm cứu",
-          "description": "Phương pháp cổ xưa sử dụng kim mảnh châm vào các huyệt đạo kinh lạc chính xác để phục hồi dòng năng lượng tự nhiên của cơ thể. Trong không gian trị liệu tĩnh lặng tại Tam Á, trải nghiệm nghệ thuật 2.500 năm tuổi này giảm đau, giải tỏa căng thẳng và tái cân bằng khí huyết."
-        },
-        {
-          "overline": "Liệu pháp ôn nhiệt",
-          "title": "Cứu ngải",
-          "description": "Hơi ấm dịu nhẹ từ ngải cứu đốt tác động gần các huyệt đạo để kích thích tuần hoàn và trừ hàn. Nghi thức chữa lành sâu sắc tăng cường miễn dịch và nuôi dưỡng dương khí cơ thể thông qua nhiệt thơm."
-        },
-        {
-          "overline": "Trị liệu thủ công",
-          "title": "Xoa bóp Tui Na",
-          "description": "Kỹ thuật xoa bóp trị liệu Trung Hoa sử dụng ấn, nhào và kéo giãn nhịp nhàng dọc theo kinh lạc cơ thể. Không chỉ là thư giãn — Tui Na điều trị các bệnh lý cơ xương khớp, cải thiện tuần hoàn và phục hồi cân bằng cấu trúc."
-        },
-        {
-          "overline": "Ẩm thực dược liệu",
-          "title": "Dược thiện",
-          "description": "Nghệ thuật chữa lành qua ẩm thực — nguyên liệu theo mùa kết hợp bài thuốc thảo dược để nuôi dưỡng từ bên trong. Mỗi món ăn được chuyên gia dinh dưỡng y học cổ truyền chế biến theo thể chất cá nhân, biến mỗi bữa ăn thành liều thuốc dịu nhẹ."
-        },
-        {
-          "overline": "Vận động cổ truyền",
-          "title": "Nghệ thuật dưỡng sinh cổ điển",
-          "description": "Thái Cực Quyền, Khí Công và Bát Đoạn Cẩm — các phương pháp vận động lâu đời tu dưỡng nội khí, cải thiện sự linh hoạt và tĩnh lặng tâm trí. Tập luyện lúc bình minh bên Biển Đông, những nghệ thuật này kết nối hơi thở, thân thể và tâm hồn."
+          "name": "南海觀音",
+          "image":"https://auto-shop-sh.oss-cn-shanghai.aliyuncs.com/health/image/image/journey/meishi.jpg",
+          "description": "觀音菩薩 「願長居南海」 的慈悲化身，以莊嚴寶相佇立碧海藍天之間，象徵無緣大慈、同體大悲。既是海洋信仰的守護，也是心靈淨化的寄託，在寧靜與莊嚴中帶來安定、福佑與內在平和。"
         }
       ]
     }
   },
+
   "footer": {
-    "brandDescription": "Sanare — Đối tác hành trình sức khỏe cá nhân của bạn. Bắt rễ tại Tam Á, kết nối bạn với nguồn lực y tế đẳng cấp thế giới. Kiểm tra sức khỏe chính xác, thẩm mỹ chống lão hóa, nghỉ dưỡng phục hồi và dịch vụ hỗ trợ y tế đồng hành dành cho những cá nhân tinh tế.",
-    "navTitle": "Liên kết nhanh",
-    "contactTitle": "Liên hệ chúng tôi",
+    "brandDescription": "森納——您的私人定製健康旅程夥伴。扎根三亞，連接全球優質醫療資源，為高淨值人群提供精密體檢、抗衰醫美、康復療養與專科陪診服務。",
+    "navTitle": "快速導航",
+    "contactTitle": "聯繫我們",
     "contact": {
-      "email": "info@sanare-sanya.com",
+      "email": "info@yihe-sanya.com",
       "phone": "+86 898 8888 8888"
     }
   },
   "floatingCta": {
-    "label": "Tư vấn miễn phí"
+    "label": "立即諮詢"
   },
+
   "checkupDetail": {
-    "overline": "Kiểm tra sức khỏe chính xác",
-    "title": "Chương trình khám sức khỏe",
-    "description": "Từ khám sức khỏe hàng năm cơ bản đến tầm soát chuyên khoa chuyên sâu — chương trình khám sức khỏe ba cấp độ tiến triển để bảo vệ toàn diện sức khỏe của bạn.",
+    "overline": "精密體檢",
+    "title": "健康體檢項目清單",
+    "description": "從基礎年度體檢到深度專項篩查，三級遞進式體檢方案，全面守護您的健康。",
     "tiers": [
       {
         "color": "#4A5E3B",
-        "label": "Cơ bản (Khám hàng năm bắt buộc, Nền tảng cốt lõi)",
+        "label": "基礎項目（年度體檢必做，入門核心）",
         "categories": [
           {
-            "title": "I. Khám chuyên khoa (Đánh giá thể chất cơ bản)",
+            "title": "一、專科檢查（基礎體格評估）",
             "items": [
-              "Tổng quát: Huyết áp, mạch, chiều cao, cân nặng, BMI, tỷ lệ vòng eo, tiền sử bệnh, tiền sử gia đình, lối sống",
-              "Nội khoa: Tiền sử dị ứng, nghe tim, sờ bụng",
-              "Ngoại khoa: Tiền sử phẫu thuật, da, hạch bạch huyết, tuyến giáp, thành ngực, cột sống cổ, vận động khớp chi",
-              "Tai mũi họng: Tai ngoài, khoang mũi, hầu họng, vòm họng, thanh quản, tai giữa",
-              "Nha khoa: Răng, khuyết tật răng, chân răng/mão răng còn sót, nha chu, niêm mạc miệng, lưỡi",
-              "Nhãn khoa: Khám đáy mắt, mi mắt, kết mạc, đồng tử, dịch kính, thủy tinh thể, mống mắt, củng mạc, thị lực",
-              "Vật tư lấy máu: Ống lấy máu chân không dùng một lần"
+              "一般項目：血壓、脈搏、身高、體重、體重指數、腰圍比、既往史、家族史、生活方式",
+              "內科檢查：過敏史、心臟聽診、腹部觸診",
+              "外科檢查：外傷手術史、皮膚、淺表淋巴結、甲狀腺、胸壁觸診、頸部、脊柱、四肢關節活動檢查",
+              "耳鼻咽喉科檢查：外耳、鼻腔、口咽部、鼻咽、喉部、中耳",
+              "口腔科檢查：牙體、齒缺損、殘根、殘冠、牙週、口腔粘膜、舌",
+              "眼科基礎檢查：小瞳孔眼底檢查、眼瞼、瞼結膜、瞳孔、玻璃體、晶狀體、虹膜、鞏膜、視力",
+              "採血耗材：一次性真空採血管"
             ]
           },
           {
-            "title": "II. Xét nghiệm (Sinh hóa cơ bản + Tầm soát thường quy)",
+            "title": "二、實驗室檢查（基礎生化 + 常規篩查）",
             "items": [
-              "Công thức máu toàn phần: Hồng cầu, hematocrit, MCV, RDW, hemoglobin, bạch cầu phân loại, tiểu cầu",
-              "Tổng phân tích nước tiểu: Ngoại quan, tỷ trọng, pH, nitrit, protein, glucose, ketone, bilirubin, v.v.",
-              "Xét nghiệm phân: Máu ẩn, bạch cầu, màu sắc, trứng ký sinh trùng",
-              "Đông máu cơ bản: PT, APTT, TT, FIB",
-              "Chức năng thận cơ bản: Acid uric, ure, creatinine",
-              "Chức năng gan cơ bản: Protein toàn phần, albumin, ALT, AST, bilirubin toàn phần/trực tiếp",
-              "Tầm soát bệnh truyền nhiễm: HBsAg, kháng thể HCV, RPR giang mai, kháng thể HIV",
-              "Nhóm máu: ABO / RH(D)"
+              "基礎血常規：紅細胞計數/壓積/平均體積/分佈寬度、血紅蛋白、白細胞計數及分類、血小板計數",
+              "尿液常規：外觀、尿重比、酸鹼度、亞硝酸鹽、尿蛋白、尿糖、尿酮體、尿膽紅素等",
+              "便常規：糞便潛血、白細胞、顏色、蟲卵",
+              "基礎凝血功能：PT、APTT、TT、FIB",
+              "基礎腎功能：尿酸、尿素、肌酐",
+              "基礎肝功能：總蛋白、白蛋白、ALT、AST、總膽紅素、直接膽紅素",
+              "基礎傳染病篩查：乙肝表面抗原、丙肝抗體、梅毒RPR、HIV抗體",
+              "血型鑑定：ABO血型 / RH血型"
             ]
           },
           {
-            "title": "III. Thăm dò chức năng (Đánh giá chức năng cơ bản)",
+            "title": "三、儀器檢查（基礎功能評估）",
             "items": [
-              "Điện tâm đồ 12 chuyển đạo",
-              "Phân tích thành phần cơ thể: Mỡ cơ thể, cơ xương, mỡ nội tạng, tỷ lệ chuyển hóa cơ bản",
-              "Xét nghiệm hơi thở C13 H. pylori"
+              "12導聯心電圖檢查",
+              "人體成分分析：體脂肪、骨骼肌、內臟脂肪、基礎代謝率",
+              "胃幽門螺桿菌C13呼氣試驗"
             ]
           }
         ]
       },
+
       {
         "color": "#C8A951",
-        "label": "Nâng cao (Tầm soát nguy cơ bệnh mãn tính / Ung thư / Tuyến giáp)",
+        "label": "額外項目（常規進階，慢病/腫瘤/甲狀腺風險篩查）",
         "categories": [
           {
-            "title": "I. Khám chuyên khoa (Tầm soát nâng cao)",
+            "title": "一、專科檢查（進階篩查）",
             "items": [
-              "Chụp ảnh đáy mắt: Hình ảnh võng mạc (tầm soát bệnh đáy mắt / biến chứng bệnh mãn tính)"
+              "眼底照相：採集眼底圖像（眼底病/慢病併發症篩查）"
             ]
           },
           {
-            "title": "II. Xét nghiệm (Bệnh mãn tính / Ung thư / Tuyến giáp / Thiếu máu)",
+            "title": "二、實驗室檢查（慢病/腫瘤/甲狀腺/貧血等進階）",
             "items": [
-              "Công thức máu nâng cao: Hồng cầu lưới",
-              "Nước tiểu nâng cao: Tỷ lệ microalbumin/creatinine (tổn thương thận sớm)",
-              "Đông máu nâng cao: PA, INR",
-              "Nguy cơ huyết khối: D-dimer",
-              "Chức năng gan nâng cao: ALP, GGT, acid mật toàn phần",
-              "Điện giải: Ca, K, Mg, Na, Cl, phospho vô cơ",
-              "Nguy cơ tim mạch: Homocysteine, hs-CRP",
-              "Dấu ấn tim: Troponin T, CK, CK-MB",
-              "Chuyển hóa sắt: Sắt huyết thanh, TIBC, UIBC",
-              "Bộ lipid máu (7 chỉ số): TC, LDL-C, HDL-C, TG, ApoA1, ApoB, Lp(a)",
-              "Đường huyết/Chuyển hóa: Đường huyết lúc đói, HbA1c, insulin lúc đói + C-peptide",
-              "Bộ thiếu máu: Vitamin B12, folate, ferritin, transferrin",
-              "Dấu ấn ung thư: AFP, CEA, T-PSA/f-PSA, CYFRA211, NSE, CA19-9, CA125",
-              "Chức năng tuyến giáp (5 chỉ số): TT3, TT4, FT3, FT4, TSH",
-              "Tầm soát thấp khớp: RF + ASO",
-              "Cystatin C huyết thanh (chức năng thận nâng cao)"
+              "血常規進階：網織紅細胞",
+              "尿液檢查進階：快速微量尿白蛋白/肌酐測定（早期腎損傷）",
+              "凝血功能進階：PA、INR",
+              "血栓風險篩查：D-二聚體測定",
+              "肝功能進階：鹼性磷酸酶、γ-谷氨酰基轉移酶、總膽汁酸",
+              "電解質：鈣、鉀、鎂、鈉、氯、無機磷",
+              "心血管風險因子：同型半胱氨酸、超敏C反應蛋白",
+              "心肌標誌物基礎：肌鈣蛋白T、肌酸激酶、CK-MB",
+              "鐵代謝3項：血清鐵、總鐵結合力、不飽和鐵結合力",
+              "血脂七項：TC、LDL-C、HDL-C、TG、ApoA1、ApoB、Lp(a)",
+              "血糖/代謝篩查：空腹血糖、HbA1c、空腹胰島素+C肽",
+              "貧血四項：維生素B12、葉酸、血清鐵蛋白、轉鐵蛋白",
+              "腫瘤標誌物基礎篩查：AFP、CEA、T-PSA/f-PSA、CYFRA211、NSE、CA19-9、CA125",
+              "甲狀腺功能基礎（甲功五項）：TT3、TT4、FT3、FT4、TSH",
+              "風濕基礎篩查：類風濕因子+抗o",
+              "血清胱抑素（腎功能進階）"
             ]
           },
           {
-            "title": "III. Thăm dò chức năng (Theo dõi nâng cao)",
+            "title": "三、儀器檢查（進階功能監測）",
             "items": [
-              "Holter điện tâm đồ (theo dõi tim 24 giờ)",
-              "Huyết áp lưu động (theo dõi huyết áp 24 giờ)"
+              "動態心電圖檢查（24小時心電監測）",
+              "動態血壓檢查（24小時血壓監測）"
             ]
           }
         ]
       },
+
       {
         "color": "#C0392B",
-        "label": "Cao cấp (Chuyên sâu đặc biệt, Cao cấp / Đối tượng đặc thù)",
+        "label": "高級項目（深度專項，高端體檢/特定人群）",
         "categories": [
           {
-            "title": "I. Xét nghiệm (Chuyên sâu / Miễn dịch / Nội tiết / Di truyền)",
+            "title": "一、實驗室檢查（深度專項/免疫/激素/基因等）",
             "items": [
-              "Dấu ấn tim nâng cao: NT-proBNP (suy tim), LDH",
-              "Dấu ấn ung thư chuyên sâu: ProGRP, CA72-4, CA15-3, SCCA",
-              "Tự miễn tuyến giáp (bổ sung): ATG, ATPO, TRAB",
-              "Bộ chuyển hóa xương: 25-OH Vitamin D3, PTH nguyên vẹn, P1NP, osteocalcin, calcitonin",
-              "Bộ immunoglobulin + bổ thể: IgG/A/M/E, chuỗi nhẹ KAP/LAM, C3/C4, prealbumin, β2-microglobulin",
-              "Bộ hormone sinh dục (7 chỉ số): Progesterone, estradiol, prolactin, LH, FSH, testosterone, SHBG",
-              "Bộ tự kháng thể (14 chỉ số) — tầm soát toàn diện bệnh tự miễn",
-              "Bộ dị ứng nguyên (20 chỉ số) — xác định chính xác nguyên nhân dị ứng",
-              "Xét nghiệm gen dược lý tăng huyết áp — hướng dẫn dùng thuốc cá nhân hóa"
+              "心肌標誌物深度：腦利鈉肽前體（心衰）、血清乳酸脫氫酶",
+              "腫瘤標誌物深度篩查：ProGRP、CA724、CA15-3、SCCA",
+              "甲狀腺自身免疫（甲功八項補充）：ATG、ATPO、TRAB",
+              "骨代謝五項：25-羥基維生素D3、全段甲狀旁腺激素、總Ⅰ型膠原氨基端延長肽、骨鈣素、降鈣素",
+              "免疫球蛋白+補體全套：IgG/A/M/E、輕鏈KAP/LAM、補體C3/C4、前白蛋白、β2-微球蛋白",
+              "性激素7項：孕酮、雌二醇、泌乳素、LH、FSH、睪酮、SHBG",
+              "自身抗體譜14項（自身免疫病全面篩查）",
+              "過敏原檢測20項（過敏原因精準篩查）",
+              "高血壓用藥基因檢測（個性化用藥指導）"
             ]
           }
         ]
